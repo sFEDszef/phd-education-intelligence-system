@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="PhD Education Intelligence System (PEIS), a public static intelligence tool for exploring education research fields, PhD supervisors, and fit recommendations."
+    />
+    <title>PEIS | PhD Education Intelligence System</title>
+    <link rel="stylesheet" href="style.css?v=peis-2" />
+  </head>
+  <body>
+    <header class="app-header">
+      <a class="brand" href="#research-map" aria-label="PEIS home">
+        <span class="brand-mark">PEIS</span>
+        <span>
+          <strong data-i18n="brandName">PhD Education Intelligence System</strong>
+          <small data-i18n="brandTagline">Public supervisor-fit intelligence for education applicants</small>
+        </span>
+      </a>
+      <div class="header-actions">
+        <nav class="top-nav" aria-label="Primary navigation">
+          <a href="#research-map" data-i18n="navFieldMap">Field Map</a>
+          <a href="#supervisors" data-i18n="navSupervisorDatabase">Supervisor Database</a>
+          <a href="#recommendation" data-i18n="navRecommendation">AI Recommendation</a>
+        </nav>
+        <div class="language-switch" aria-label="Language switch">
+          <button class="language-button is-active" type="button" data-lang="en">EN</button>
+          <button class="language-button" type="button" data-lang="zh">中文</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <section class="overview" aria-labelledby="overview-title">
+        <div>
+          <h1 id="overview-title" data-i18n="heroTitle">PhD Education Intelligence System</h1>
+          <p data-i18n="heroDescription">
+            PEIS helps applicants explore education research areas, compare sample supervisor profiles, and generate transparent fit recommendations without any backend, external API, or personal data storage.
+          </p>
+        </div>
+        <dl class="metrics" aria-label="System summary">
+          <div>
+            <dt id="field-count">12</dt>
+            <dd data-i18n="metricFields">Research Fields</dd>
+          </div>
+          <div>
+            <dt id="supervisor-count">18</dt>
+            <dd data-i18n="metricSupervisors">Sample Supervisors</dd>
+          </div>
+          <div>
+            <dt>100%</dt>
+            <dd data-i18n="metricStatic">Static Frontend</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="workspace" aria-label="PEIS application modules">
+        <aside class="panel taxonomy-panel" id="research-map" aria-labelledby="map-title">
+          <div class="panel-heading">
+            <span data-i18n="moduleOne">Module 1</span>
+            <h2 id="map-title" data-i18n="fieldMapTitle">Research Field Map</h2>
+            <p data-i18n="fieldMapDescription">Expand taxonomy branches to inspect subfields, methods, and application contexts.</p>
+          </div>
+          <div class="taxonomy-tools">
+            <button class="text-button" id="expand-all" type="button" data-i18n="expandAll">Expand All</button>
+            <button class="text-button" id="collapse-all" type="button" data-i18n="collapseAll">Collapse All</button>
+          </div>
+          <div class="field-tree" id="field-tree" aria-live="polite"></div>
+        </aside>
+
+        <section class="panel database-panel" id="supervisors" aria-labelledby="database-title">
+          <div class="panel-heading">
+            <span data-i18n="moduleTwo">Module 2</span>
+            <h2 id="database-title" data-i18n="databaseTitle">Supervisor Database</h2>
+            <p data-i18n="databaseDescription">Search, filter, and sort placeholder supervisor records stored in JSON.</p>
+          </div>
+
+          <div class="database-controls" aria-label="Supervisor search and filters">
+            <label class="search-field">
+              <span data-i18n="searchLabel">Search supervisors</span>
+              <input
+                id="search-input"
+                type="search"
+                placeholder="Name, keyword, or university"
+                data-i18n-placeholder="searchPlaceholder"
+                autocomplete="off"
+              />
+            </label>
+
+            <div class="filter-grid">
+              <label>
+                <span data-i18n="fieldFilterLabel">Research field</span>
+                <select id="field-filter">
+                  <option value="" data-i18n="allFields">All fields</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="methodFilterLabel">Methodology</span>
+                <select id="method-filter">
+                  <option value="" data-i18n="allMethods">All methods</option>
+                  <option value="qualitative" data-i18n="methodQualitative">Qualitative</option>
+                  <option value="quantitative" data-i18n="methodQuantitative">Quantitative</option>
+                  <option value="mixed" data-i18n="methodMixed">Mixed</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="regionFilterLabel">Region</span>
+                <select id="region-filter">
+                  <option value="" data-i18n="allRegions">All regions</option>
+                  <option value="China" data-i18n="regionChina">China</option>
+                  <option value="Hong Kong" data-i18n="regionHongKong">Hong Kong</option>
+                  <option value="Global" data-i18n="regionGlobal">Global</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="tierFilterLabel">University tier</span>
+                <select id="tier-filter">
+                  <option value="" data-i18n="allTiers">All tiers</option>
+                  <option value="China" data-i18n="tierChina">China</option>
+                  <option value="Hong Kong" data-i18n="tierHongKong">Hong Kong</option>
+                  <option value="Global" data-i18n="tierGlobal">Global</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="sortLabel">Sort by</span>
+                <select id="sort-select">
+                  <option value="relevance" data-i18n="sortRelevance">Relevance score</option>
+                  <option value="publications" data-i18n="sortPublications">Publication count</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div class="table-summary">
+            <strong id="result-count">0 supervisors</strong>
+            <button class="text-button" id="reset-filters" type="button" data-i18n="resetFilters">Reset filters</button>
+          </div>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col" data-i18n="tableSupervisor">Supervisor</th>
+                  <th scope="col" data-i18n="tableResearchFit">Research Fit</th>
+                  <th scope="col" data-i18n="tableMethod">Method</th>
+                  <th scope="col" data-i18n="tableOutputs">Outputs</th>
+                  <th scope="col" data-i18n="tableStatus">Status</th>
+                </tr>
+              </thead>
+              <tbody id="supervisor-table"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <aside class="panel recommendation-panel" id="recommendation" aria-labelledby="recommendation-title">
+          <div class="panel-heading">
+            <span data-i18n="moduleThree">Module 3</span>
+            <h2 id="recommendation-title" data-i18n="recommendationTitle">AI Recommendation Engine</h2>
+            <p data-i18n="recommendationDescription">Local rule-based scoring converts applicant input into tags and ranks top matches.</p>
+          </div>
+
+          <form id="recommendation-form" class="recommendation-form">
+            <label>
+              <span data-i18n="interestLabel">Research interest</span>
+              <textarea
+                id="interest-input"
+                rows="5"
+                placeholder="Example: AI-supported self-regulated learning, learning analytics, mixed-method higher education research"
+                data-i18n-placeholder="interestPlaceholder"
+              ></textarea>
+            </label>
+            <label>
+              <span data-i18n="methodPreferenceLabel">Methodology preference</span>
+              <select id="method-preference">
+                <option value="" data-i18n="noPreference">No preference</option>
+                <option value="qualitative" data-i18n="methodQualitative">Qualitative</option>
+                <option value="quantitative" data-i18n="methodQuantitative">Quantitative</option>
+                <option value="mixed" data-i18n="methodMixed">Mixed</option>
+              </select>
+            </label>
+            <label>
+              <span data-i18n="regionPreferenceLabel">Region preference</span>
+              <select id="region-preference">
+                <option value="" data-i18n="noPreference">No preference</option>
+                <option value="China" data-i18n="regionChina">China</option>
+                <option value="Hong Kong" data-i18n="regionHongKong">Hong Kong</option>
+                <option value="Global" data-i18n="regionGlobal">Global</option>
+              </select>
+            </label>
+            <button class="primary-button" type="submit" data-i18n="generateMatches">Generate Top 5 Matches</button>
+          </form>
+
+          <div class="tag-output" aria-live="polite">
+            <h3 data-i18n="structuredTags">Structured Tags</h3>
+            <div id="structured-tags" class="tag-list">
+              <span class="empty-note" data-i18n="tagsEmpty">Enter research interests to generate tags.</span>
+            </div>
+          </div>
+
+          <div class="recommendation-results">
+            <h3 data-i18n="topMatches">Top Matches</h3>
+            <div id="recommendation-results" class="match-list">
+              <p class="empty-note" data-i18n="matchesEmpty">Results will appear after running the local scoring engine.</p>
+            </div>
+          </div>
+        </aside>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <p data-i18n="footerNotice">
+        PEIS is a static demonstration system using placeholder sample supervisors. Applicants should verify every real supervisor profile through official university sources.
+      </p>
+    </footer>
+
+    <script src="script.js?v=peis-2"></script>
+  </body>
+</html>
