@@ -1,9 +1,12 @@
 const state = {
   fields: [],
   supervisors: [],
+  universities: null,
   currentTags: [],
   recommendationScores: new Map(),
   lastRecommendationInput: null,
+  page: 1,
+  pageSize: 10,
   lang: localStorage.getItem("peis-lang") || "en"
 };
 
@@ -17,9 +20,9 @@ const translations = {
     navRecommendation: "AI Recommendation",
     heroTitle: "PhD Education Intelligence System",
     heroDescription:
-      "PEIS helps applicants explore education research areas, compare sample supervisor profiles, and generate transparent fit recommendations without any backend, external API, or personal data storage.",
+      "PEIS helps applicants explore education research areas, manage verified supervisor records, and generate transparent fit recommendations without any backend, external API, or personal data storage.",
     metricFields: "Research Fields",
-    metricSupervisors: "Sample Supervisors",
+    metricSupervisors: "Verified Supervisors",
     metricStatic: "Static Frontend",
     moduleOne: "Module 1",
     moduleTwo: "Module 2",
@@ -29,9 +32,11 @@ const translations = {
     expandAll: "Expand All",
     collapseAll: "Collapse All",
     databaseTitle: "Supervisor Database",
-    databaseDescription: "Search, filter, and sort placeholder supervisor records stored in JSON.",
+    databaseDescription: "Search, filter, sort, and page through verified supervisor records stored in JSON.",
     searchLabel: "Search supervisors",
-    searchPlaceholder: "Name, keyword, or university",
+    searchPlaceholder: "Name, keyword, university, or department",
+    universityFilterLabel: "University",
+    allUniversities: "All universities",
     fieldFilterLabel: "Research field",
     allFields: "All fields",
     methodFilterLabel: "Methodology",
@@ -41,23 +46,42 @@ const translations = {
     methodMixed: "Mixed",
     regionFilterLabel: "Region",
     allRegions: "All regions",
-    regionChina: "China",
+    regionMainlandChina: "Mainland China",
     regionHongKong: "Hong Kong",
     regionGlobal: "Global",
     tierFilterLabel: "University tier",
     allTiers: "All tiers",
-    tierChina: "China",
+    tierMainlandChina: "Mainland China",
     tierHongKong: "Hong Kong",
     tierGlobal: "Global",
+    tierUnknown: "Unknown",
+    academicLevelFilterLabel: "Academic level",
+    allAcademicLevels: "All levels",
+    levelAssistant: "Assistant Professor",
+    levelAssociate: "Associate Professor",
+    levelProfessor: "Professor",
+    levelChair: "Chair Professor",
+    levelOther: "Other",
+    publicationLevelFilterLabel: "Publication level",
+    allPublicationLevels: "All activity levels",
+    publicationHigh: "High activity",
+    publicationMedium: "Medium activity",
+    publicationEmerging: "Emerging",
+    publicationUnverified: "Not verified",
     sortLabel: "Sort by",
     sortRelevance: "Relevance score",
-    sortPublications: "Publication count",
+    sortPublicationActivity: "Publication activity",
+    sortUniversityTier: "University tier",
     resetFilters: "Reset filters",
     tableSupervisor: "Supervisor",
     tableResearchFit: "Research Fit",
     tableMethod: "Method",
     tableOutputs: "Outputs",
     tableStatus: "Status",
+    pageSizeLabel: "Rows per page",
+    prevPage: "Previous",
+    nextPage: "Next",
+    pageStatus: (page, total) => `Page ${page} of ${total}`,
     recommendationTitle: "AI Recommendation Engine",
     recommendationDescription: "Local rule-based scoring converts applicant input into tags and ranks top matches.",
     interestLabel: "Research interest",
@@ -69,36 +93,32 @@ const translations = {
     structuredTags: "Structured Tags",
     tagsEmpty: "Enter research interests to generate tags.",
     topMatches: "Top Matches",
-    matchesEmpty: "Results will appear after running the local scoring engine.",
+    matchesEmpty: "No verified supervisor records are available for matching yet.",
     footerNotice:
-      "PEIS is a static demonstration system using placeholder sample supervisors. Applicants should verify every real supervisor profile through official university sources.",
-    homepage: "Homepage",
-    department: "Department",
-    supervisorCount: (count) => `${count} supervisor${count === 1 ? "" : "s"}`,
-    noSupervisorMatch: "No supervisors match the current filters.",
-    relevanceSuffix: "rel.",
+      "PEIS is a static academic intelligence system. Supervisor records must be verified against official university sources before publication.",
+    homepage: "Personal homepage",
+    departmentPage: "Department page",
+    source: "Source",
+    supervisorCount: (count) => `${count} verified supervisor${count === 1 ? "" : "s"}`,
+    noSupervisorMatch:
+      "No verified supervisors match the current filters. Add records through data/template_supervisor.json after source verification.",
+    relevanceSuffix: "activity",
     tierSuffix: "tier",
-    scoreField: "field",
-    scoreKeyword: "keyword",
-    scoreMethod: "method",
-    scoreTier: "tier",
-    statusOpen: "Open to inquiries",
-    statusSelective: "Selective intake",
-    statusLimited: "Limited capacity",
-    countryUnitedKingdom: "United Kingdom",
-    countryUnitedStates: "United States",
-    countryAustralia: "Australia",
-    countryCanada: "Canada",
-    countryJapan: "Japan",
-    countrySingapore: "Singapore",
-    countryFinland: "Finland",
-    countrySpain: "Spain",
-    researchOverlap: (fields) => `research field overlap with ${fields}`,
-    keywordEvidence: "keyword evidence from profile topics",
-    methodExact: (method) => `${method} methodology exactly matches preference`,
-    methodPartial: (method, preference) => `${method} methodology is partially compatible with ${preference} preference`,
-    regionMatched: (region) => `${region} region preference matched`,
-    baselineReason: "baseline tier and methodology signals provide a low-confidence exploratory match"
+    notVerified: "Not verified",
+    unavailable: "Unavailable",
+    scoreField: "Fields",
+    scoreKeyword: "Keywords",
+    scoreMethod: "Method",
+    scoreEnvironment: "Environment",
+    phdStatusUnknown: "PhD status not verified",
+    researchOverlap: (fields) => `research field similarity with ${fields}`,
+    keywordEvidence: "keyword similarity found in verified profile topics",
+    methodExact: (method) => `${method} methodology matches preference`,
+    methodPartial: (method, preference) => `${method} methodology is compatible with ${preference} preference`,
+    environmentMatched: (region) => `${region} research environment matches preference`,
+    environmentBaseline: "university and research environment signals included",
+    baselineReason: "limited evidence; treat as an exploratory match until sources are reviewed",
+    recommendedBecause: "Recommended because"
   },
   zh: {
     pageTitle: "PEIS | 博士教育申请情报系统",
@@ -109,9 +129,9 @@ const translations = {
     navRecommendation: "AI 推荐",
     heroTitle: "博士教育申请情报系统",
     heroDescription:
-      "PEIS 帮助申请者探索教育研究领域、比较示例导师档案，并在无后端、无外部 API、无个人数据存储的前提下生成透明的匹配推荐。",
+      "PEIS 帮助申请者探索教育研究领域、维护已核验导师记录，并在无后端、无外部 API、无个人数据存储的前提下生成透明的匹配推荐。",
     metricFields: "研究领域",
-    metricSupervisors: "示例导师",
+    metricSupervisors: "已核验导师",
     metricStatic: "纯静态前端",
     moduleOne: "模块 1",
     moduleTwo: "模块 2",
@@ -121,9 +141,11 @@ const translations = {
     expandAll: "全部展开",
     collapseAll: "全部收起",
     databaseTitle: "导师数据库",
-    databaseDescription: "搜索、筛选并排序存储在 JSON 中的示例导师记录。",
+    databaseDescription: "搜索、筛选、排序并分页浏览 JSON 中的已核验导师记录。",
     searchLabel: "搜索导师",
-    searchPlaceholder: "姓名、关键词或大学",
+    searchPlaceholder: "姓名、关键词、大学或院系",
+    universityFilterLabel: "大学",
+    allUniversities: "全部大学",
     fieldFilterLabel: "研究领域",
     allFields: "全部领域",
     methodFilterLabel: "研究方法",
@@ -133,23 +155,42 @@ const translations = {
     methodMixed: "混合",
     regionFilterLabel: "地区",
     allRegions: "全部地区",
-    regionChina: "中国内地",
+    regionMainlandChina: "中国内地",
     regionHongKong: "中国香港",
     regionGlobal: "全球",
     tierFilterLabel: "大学层级",
     allTiers: "全部层级",
-    tierChina: "中国内地",
+    tierMainlandChina: "中国内地",
     tierHongKong: "中国香港",
     tierGlobal: "全球",
+    tierUnknown: "未知",
+    academicLevelFilterLabel: "学术职级",
+    allAcademicLevels: "全部职级",
+    levelAssistant: "助理教授",
+    levelAssociate: "副教授",
+    levelProfessor: "教授",
+    levelChair: "讲席教授",
+    levelOther: "其他",
+    publicationLevelFilterLabel: "发表活跃度",
+    allPublicationLevels: "全部活跃度",
+    publicationHigh: "高活跃",
+    publicationMedium: "中等活跃",
+    publicationEmerging: "成长型",
+    publicationUnverified: "未核验",
     sortLabel: "排序方式",
     sortRelevance: "相关度评分",
-    sortPublications: "发表数量",
+    sortPublicationActivity: "发表活跃度",
+    sortUniversityTier: "大学层级",
     resetFilters: "重置筛选",
     tableSupervisor: "导师",
     tableResearchFit: "研究匹配",
     tableMethod: "方法",
     tableOutputs: "成果",
     tableStatus: "状态",
+    pageSizeLabel: "每页数量",
+    prevPage: "上一页",
+    nextPage: "下一页",
+    pageStatus: (page, total) => `第 ${page} / ${total} 页`,
     recommendationTitle: "AI 推荐引擎",
     recommendationDescription: "本地规则评分会把申请者输入转换为结构化标签，并排序推荐导师。",
     interestLabel: "研究兴趣",
@@ -161,36 +202,30 @@ const translations = {
     structuredTags: "结构化标签",
     tagsEmpty: "输入研究兴趣后生成标签。",
     topMatches: "最佳匹配",
-    matchesEmpty: "运行本地评分引擎后将在这里显示结果。",
-    footerNotice:
-      "PEIS 是使用示例导师数据的静态演示系统。申请者在做真实申请决定前，应通过大学官方来源核实导师主页、邮箱、发表与招生状态。",
+    matchesEmpty: "目前还没有可用于匹配的已核验导师记录。",
+    footerNotice: "PEIS 是静态学术情报系统。导师记录发布前必须通过大学官方来源核验。",
     homepage: "个人主页",
-    department: "院系页面",
-    supervisorCount: (count) => `${count} 位导师`,
-    noSupervisorMatch: "当前筛选条件下没有匹配导师。",
-    relevanceSuffix: "相关度",
+    departmentPage: "院系页面",
+    source: "来源",
+    supervisorCount: (count) => `${count} 位已核验导师`,
+    noSupervisorMatch: "当前筛选条件下没有已核验导师。请按 data/template_supervisor.json 核验来源后添加记录。",
+    relevanceSuffix: "活跃度",
     tierSuffix: "层级",
+    notVerified: "未核验",
+    unavailable: "暂无",
     scoreField: "领域",
     scoreKeyword: "关键词",
     scoreMethod: "方法",
-    scoreTier: "层级",
-    statusOpen: "可咨询",
-    statusSelective: "选择性招生",
-    statusLimited: "名额有限",
-    countryUnitedKingdom: "英国",
-    countryUnitedStates: "美国",
-    countryAustralia: "澳大利亚",
-    countryCanada: "加拿大",
-    countryJapan: "日本",
-    countrySingapore: "新加坡",
-    countryFinland: "芬兰",
-    countrySpain: "西班牙",
-    researchOverlap: (fields) => `研究领域重合：${fields}`,
-    keywordEvidence: "导师档案主题中存在关键词证据",
-    methodExact: (method) => `${method}方法与偏好完全一致`,
-    methodPartial: (method, preference) => `${method}方法与${preference}偏好部分兼容`,
-    regionMatched: (region) => `符合${region}地区偏好`,
-    baselineReason: "基于大学层级与方法信号形成低置信度探索性匹配"
+    scoreEnvironment: "环境",
+    phdStatusUnknown: "博士招生状态未核验",
+    researchOverlap: (fields) => `研究领域相似：${fields}`,
+    keywordEvidence: "已核验主题中存在关键词相似性",
+    methodExact: (method) => `${method}方法与偏好一致`,
+    methodPartial: (method, preference) => `${method}方法与${preference}偏好兼容`,
+    environmentMatched: (region) => `符合${region}研究环境偏好`,
+    environmentBaseline: "已纳入大学与研究环境信号",
+    baselineReason: "证据有限；在复核来源前仅作为探索性匹配",
+    recommendedBecause: "推荐理由"
   }
 };
 
@@ -210,32 +245,9 @@ const fieldAliases = {
 };
 
 const stopWords = new Set([
-  "about",
-  "across",
-  "also",
-  "and",
-  "are",
-  "based",
-  "between",
-  "for",
-  "from",
-  "how",
-  "into",
-  "learning",
-  "method",
-  "methods",
-  "research",
-  "study",
-  "the",
-  "their",
-  "through",
-  "with",
-  "教育",
-  "研究",
-  "学习",
-  "方法",
-  "申请",
-  "导师"
+  "about", "across", "also", "and", "are", "based", "between", "for", "from", "how", "into",
+  "learning", "method", "methods", "research", "study", "the", "their", "through", "with",
+  "教育", "研究", "学习", "方法", "申请", "导师"
 ]);
 
 const $ = (selector) => document.querySelector(selector);
@@ -243,67 +255,35 @@ const t = (key, ...args) => {
   const value = translations[state.lang][key] ?? translations.en[key] ?? key;
   return typeof value === "function" ? value(...args) : value;
 };
-
 const normalize = (value) => String(value || "").trim().toLowerCase();
-
+const asArray = (value) => (Array.isArray(value) ? value : []);
 const escapeHTML = (value) =>
-  String(value || "").replace(/[&<>"']/g, (character) => {
-    const replacements = {
-      "&": "&amp;",
-      "<": "&lt;",
-      ">": "&gt;",
-      '"': "&quot;",
-      "'": "&#039;"
-    };
-    return replacements[character];
-  });
-
-const statusClass = (status) => {
-  const value = normalize(status);
-  if (value.includes("limited")) return "limited";
-  if (value.includes("closed")) return "closed";
-  return "";
-};
+  String(value ?? "").replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  })[character]);
 
 const methodLabel = (method) => {
   const labels = {
     qualitative: t("methodQualitative"),
     quantitative: t("methodQuantitative"),
-    mixed: t("methodMixed")
+    mixed: t("methodMixed"),
+    not_verified: t("notVerified")
   };
-  return labels[method] || method;
+  return labels[method] || method || t("notVerified");
 };
 
 const regionLabel = (region) => {
   const labels = {
-    China: t("regionChina"),
+    "Mainland China": t("regionMainlandChina"),
+    China: t("regionMainlandChina"),
     "Hong Kong": t("regionHongKong"),
     Global: t("regionGlobal")
   };
-  return labels[region] || region;
-};
-
-const countryLabel = (country) => {
-  const labels = {
-    China: t("regionChina"),
-    "Hong Kong": t("regionHongKong"),
-    "United Kingdom": t("countryUnitedKingdom"),
-    "United States": t("countryUnitedStates"),
-    Australia: t("countryAustralia"),
-    Canada: t("countryCanada"),
-    Japan: t("countryJapan"),
-    Singapore: t("countrySingapore"),
-    Finland: t("countryFinland"),
-    Spain: t("countrySpain")
-  };
-  return labels[country] || country;
-};
-
-const statusLabel = (status) => {
-  const value = normalize(status);
-  if (value.includes("selective")) return t("statusSelective");
-  if (value.includes("limited")) return t("statusLimited");
-  return t("statusOpen");
+  return labels[region] || region || t("notVerified");
 };
 
 const fieldByName = (name) => state.fields.find((field) => field.name === name);
@@ -315,18 +295,26 @@ const fieldLabel = (name) => {
 const tagLabel = (tag) => {
   if (fieldAliases[tag]) return fieldLabel(tag);
   if (["qualitative", "quantitative", "mixed"].includes(tag)) return methodLabel(tag);
-  if (["China", "Hong Kong", "Global"].includes(tag)) return regionLabel(tag);
+  if (["Mainland China", "Hong Kong", "Global"].includes(tag)) return regionLabel(tag);
   return tag;
 };
 
-const regionForSupervisor = (supervisor) => {
-  if (supervisor.country === "China") return "China";
-  if (supervisor.country === "Hong Kong") return "Hong Kong";
-  return "Global";
+const getSupervisorRegion = (supervisor) => supervisor.region || (supervisor.country === "China" ? "Mainland China" : supervisor.country);
+const getHomepage = (supervisor) => supervisor.personal_homepage_url || supervisor.homepage_url || "";
+const getDepartmentPage = (supervisor) => supervisor.department_homepage_url || supervisor.department_url || "";
+const getStatus = (supervisor) => supervisor.phd_supervisor_status || supervisor.supervision_status || "";
+const getPublicationCount = (supervisor) => Number(supervisor.publication_count) || 0;
+
+const publicationActivity = (supervisor) => {
+  const count = getPublicationCount(supervisor);
+  if (!supervisor.publication_count && supervisor.publication_count !== 0) return "unverified";
+  if (count >= 80) return "high";
+  if (count >= 30) return "medium";
+  return "emerging";
 };
 
 const publicationScore = (count) => {
-  const max = Math.max(...state.supervisors.map((supervisor) => supervisor.publication_count));
+  const max = Math.max(0, ...state.supervisors.map(getPublicationCount));
   return max ? count / max : 0;
 };
 
@@ -344,14 +332,13 @@ const detectFieldTags = (text) => {
 
 const extractStructuredTags = (text) => {
   const fieldTags = detectFieldTags(text);
-  const tokens = tokenize(text);
-  const keywordTags = [...new Set(tokens)].slice(0, 12);
+  const keywordTags = [...new Set(tokenize(text))].slice(0, 12);
   return [...new Set([...fieldTags, ...keywordTags])];
 };
 
 const overlapRatio = (sourceItems, targetItems) => {
   if (!sourceItems.length) return 0;
-  const target = new Set(targetItems.map(normalize));
+  const target = new Set(asArray(targetItems).map(normalize));
   const matches = sourceItems.filter((item) => target.has(normalize(item))).length;
   return matches / sourceItems.length;
 };
@@ -361,11 +348,14 @@ const searchableSupervisorText = (supervisor) =>
     [
       supervisor.name,
       supervisor.university,
-      supervisor.country,
-      countryLabel(supervisor.country),
-      supervisor.research_fields.join(" "),
-      supervisor.research_fields.map(fieldLabel).join(" "),
-      supervisor.keywords.join(" ")
+      supervisor.faculty_school,
+      supervisor.department,
+      supervisor.academic_title,
+      getSupervisorRegion(supervisor),
+      asArray(supervisor.research_fields).join(" "),
+      asArray(supervisor.research_fields).map(fieldLabel).join(" "),
+      asArray(supervisor.keywords).join(" "),
+      asArray(supervisor.major_research_projects).join(" ")
     ].join(" ")
   );
 
@@ -377,71 +367,68 @@ const keywordMatchRatio = (tokens, supervisor) => {
 };
 
 const methodologyScore = (preference, supervisorMethod) => {
+  if (!["qualitative", "quantitative", "mixed"].includes(supervisorMethod)) return preference ? 0 : 0.25;
   if (!preference) return 0.5;
   if (preference === supervisorMethod) return 1;
   if (preference === "mixed" || supervisorMethod === "mixed") return 0.65;
   return 0;
 };
 
-const tierBonusScore = (regionPreference, supervisor) => {
-  const baseTier = {
+const environmentScore = (regionPreference, supervisor) => {
+  const tierScore = {
     Global: 1,
-    "Hong Kong": 0.9,
-    China: 0.82
-  }[supervisor.university_tier] || 0.75;
-
-  if (!regionPreference) return baseTier;
-  return regionPreference === regionForSupervisor(supervisor) ? 1 : baseTier * 0.55;
+    "Hong Kong": 0.92,
+    "Mainland China": 0.88,
+    China: 0.88,
+    Unknown: 0.45
+  }[supervisor.university_tier] ?? 0.55;
+  const rankingBonus = normalize(supervisor.education_discipline_ranking_level).includes("a") ? 1 : tierScore;
+  const base = Math.max(tierScore, rankingBonus);
+  if (!regionPreference) return base;
+  return getSupervisorRegion(supervisor) === regionPreference ? 1 : base * 0.55;
 };
 
 const calculateRecommendation = (supervisor, input) => {
   const detectedFields = detectFieldTags(input.interest);
   const keywordTokens = tokenize(input.interest);
-  const researchFieldOverlap = overlapRatio(detectedFields, supervisor.research_fields);
-  const keywordMatch = keywordMatchRatio(keywordTokens, supervisor);
-  const methodMatch = methodologyScore(input.methodology, supervisor.methodology);
-  const tierBonus = tierBonusScore(input.region, supervisor);
+  const researchFieldSimilarity = overlapRatio(detectedFields, supervisor.research_fields);
+  const keywordSimilarity = keywordMatchRatio(keywordTokens, supervisor);
+  const methodCompatibility = methodologyScore(input.methodology, supervisor.methodology);
+  const researchEnvironment = environmentScore(input.region, supervisor);
   const score =
-    researchFieldOverlap * 0.4 +
-    keywordMatch * 0.2 +
-    methodMatch * 0.3 +
-    tierBonus * 0.1;
+    researchFieldSimilarity * 0.4 +
+    keywordSimilarity * 0.25 +
+    methodCompatibility * 0.2 +
+    researchEnvironment * 0.15;
 
   const reasons = [];
-  if (researchFieldOverlap > 0) {
-    const matchedFields = supervisor.research_fields
+  if (researchFieldSimilarity > 0) {
+    const matchedFields = asArray(supervisor.research_fields)
       .filter((field) => detectedFields.includes(field))
       .map(fieldLabel)
       .join(", ");
     reasons.push(t("researchOverlap", matchedFields));
   }
-  if (keywordMatch > 0) {
-    reasons.push(t("keywordEvidence"));
-  }
-  if (input.methodology && methodMatch > 0) {
+  if (keywordSimilarity > 0) reasons.push(t("keywordEvidence"));
+  if (input.methodology && methodCompatibility > 0) {
     reasons.push(
       input.methodology === supervisor.methodology
         ? t("methodExact", methodLabel(supervisor.methodology))
         : t("methodPartial", methodLabel(supervisor.methodology), methodLabel(input.methodology))
     );
   }
-  if (input.region && input.region === regionForSupervisor(supervisor)) {
-    reasons.push(t("regionMatched", regionLabel(input.region)));
+  if (input.region && getSupervisorRegion(supervisor) === input.region) {
+    reasons.push(t("environmentMatched", regionLabel(input.region)));
+  } else {
+    reasons.push(t("environmentBaseline"));
   }
-  if (!reasons.length) {
-    reasons.push(t("baselineReason"));
-  }
+  if (!reasons.length) reasons.push(t("baselineReason"));
 
   return {
     supervisor,
     score,
     percentage: Math.round(score * 100),
-    components: {
-      researchFieldOverlap,
-      keywordMatch,
-      methodMatch,
-      tierBonus
-    },
+    components: { researchFieldSimilarity, keywordSimilarity, methodCompatibility, researchEnvironment },
     explanation: reasons.join(state.lang === "zh" ? "；" : "; ")
   };
 };
@@ -471,6 +458,21 @@ const renderFieldOptions = () => {
   $("#field-filter").value = selected;
 };
 
+const renderUniversityOptions = () => {
+  const selected = $("#university-filter").value;
+  const fromSupervisors = state.supervisors.map((supervisor) => supervisor.university).filter(Boolean);
+  const fromTargets = [
+    ...asArray(state.universities?.hong_kong_target_universities).map((item) => item.university_name),
+    ...asArray(state.universities?.mainland_china_education_discipline_b_plus_or_above?.records).map((item) => item.university_name)
+  ].filter(Boolean);
+  const universities = [...new Set([...fromSupervisors, ...fromTargets])].sort((a, b) => a.localeCompare(b));
+  $("#university-filter").innerHTML = `
+    <option value="">${escapeHTML(t("allUniversities"))}</option>
+    ${universities.map((name) => `<option value="${escapeHTML(name)}">${escapeHTML(name)}</option>`).join("")}
+  `;
+  $("#university-filter").value = selected;
+};
+
 const renderTaxonomy = () => {
   $("#field-count").textContent = state.fields.length;
   $("#field-tree").innerHTML = state.fields
@@ -479,7 +481,6 @@ const renderTaxonomy = () => {
       const name = state.lang === "zh" ? field.name_zh : field.name;
       const description = state.lang === "zh" ? field.description_zh : field.description;
       const subfields = state.lang === "zh" ? field.subfields_zh : field.subfields;
-
       return `
         <article class="field-node ${isOpen ? "is-open" : ""}">
           <button class="field-toggle" type="button" aria-expanded="${isOpen ? "true" : "false"}">
@@ -489,7 +490,7 @@ const renderTaxonomy = () => {
           <div class="field-body">
             <p>${escapeHTML(description)}</p>
             <ul class="subfield-list">
-              ${subfields.map((subfield) => `<li>${escapeHTML(subfield)}</li>`).join("")}
+              ${asArray(subfields).map((subfield) => `<li>${escapeHTML(subfield)}</li>`).join("")}
             </ul>
           </div>
         </article>
@@ -509,33 +510,46 @@ const renderTaxonomy = () => {
 
 const getFilterState = () => ({
   search: normalize($("#search-input").value),
+  university: $("#university-filter").value,
   field: $("#field-filter").value,
   method: $("#method-filter").value,
   region: $("#region-filter").value,
   tier: $("#tier-filter").value,
+  academicLevel: $("#academic-level-filter").value,
+  publicationLevel: $("#publication-level-filter").value,
   sort: $("#sort-select").value
 });
 
 const supervisorMatchesFilters = (supervisor, filters) => {
   const haystack = searchableSupervisorText(supervisor);
+  const title = supervisor.academic_title || "";
   return (
     (!filters.search || haystack.includes(filters.search)) &&
-    (!filters.field || supervisor.research_fields.includes(filters.field)) &&
+    (!filters.university || supervisor.university === filters.university) &&
+    (!filters.field || asArray(supervisor.research_fields).includes(filters.field)) &&
     (!filters.method || supervisor.methodology === filters.method) &&
-    (!filters.region || regionForSupervisor(supervisor) === filters.region) &&
-    (!filters.tier || supervisor.university_tier === filters.tier)
+    (!filters.region || getSupervisorRegion(supervisor) === filters.region) &&
+    (!filters.tier || supervisor.university_tier === filters.tier) &&
+    (!filters.academicLevel || title === filters.academicLevel || (filters.academicLevel === "Other" && title && !["Assistant Professor", "Associate Professor", "Professor", "Chair Professor"].includes(title))) &&
+    (!filters.publicationLevel || publicationActivity(supervisor) === filters.publicationLevel)
   );
 };
 
+const tierRank = (tier) => ({ Global: 4, "Hong Kong": 3, "Mainland China": 2, China: 2, Unknown: 1 }[tier] || 0);
+
 const sortSupervisors = (items, sortMode) => {
   return [...items].sort((a, b) => {
-    if (sortMode === "publications") {
-      return b.publication_count - a.publication_count;
-    }
-    const aScore = state.recommendationScores.get(a.id) ?? publicationScore(a.publication_count);
-    const bScore = state.recommendationScores.get(b.id) ?? publicationScore(b.publication_count);
+    if (sortMode === "publication_activity") return getPublicationCount(b) - getPublicationCount(a);
+    if (sortMode === "university_tier") return tierRank(b.university_tier) - tierRank(a.university_tier);
+    const aScore = state.recommendationScores.get(a.id) ?? publicationScore(getPublicationCount(a));
+    const bScore = state.recommendationScores.get(b.id) ?? publicationScore(getPublicationCount(b));
     return bScore - aScore;
   });
+};
+
+const renderLink = (url, label) => {
+  if (!url) return `<span>${escapeHTML(t("unavailable"))}</span>`;
+  return `<a href="${escapeHTML(url)}" target="_blank" rel="noreferrer">${escapeHTML(label)}</a>`;
 };
 
 const renderSupervisors = () => {
@@ -544,41 +558,52 @@ const renderSupervisors = () => {
     state.supervisors.filter((supervisor) => supervisorMatchesFilters(supervisor, filters)),
     filters.sort
   );
+  const totalPages = Math.max(1, Math.ceil(filtered.length / state.pageSize));
+  state.page = Math.min(state.page, totalPages);
+  const start = (state.page - 1) * state.pageSize;
+  const visible = filtered.slice(start, start + state.pageSize);
 
   $("#supervisor-count").textContent = state.supervisors.length;
   $("#result-count").textContent = t("supervisorCount", filtered.length);
+  $("#page-status").textContent = t("pageStatus", state.page, totalPages);
+  $("#prev-page").disabled = state.page <= 1;
+  $("#next-page").disabled = state.page >= totalPages;
+
   $("#supervisor-table").innerHTML =
-    filtered
+    visible
       .map((supervisor) => {
         const score = state.recommendationScores.has(supervisor.id)
           ? `${Math.round(state.recommendationScores.get(supervisor.id) * 100)}%`
-          : `${Math.round(publicationScore(supervisor.publication_count) * 100)} ${t("relevanceSuffix")}`;
-
+          : `${Math.round(publicationScore(getPublicationCount(supervisor)) * 100)} ${t("relevanceSuffix")}`;
+        const sources = asArray(supervisor.source_urls);
         return `
           <tr>
             <td>
               <div class="person-cell">
                 <strong>${escapeHTML(supervisor.name)}</strong>
-                <span>${escapeHTML(supervisor.university)} · ${escapeHTML(countryLabel(supervisor.country))}</span>
-                <a href="${escapeHTML(supervisor.homepage_url)}" target="_blank" rel="noreferrer">${escapeHTML(t("homepage"))}</a>
-                <a href="${escapeHTML(supervisor.department_url)}" target="_blank" rel="noreferrer">${escapeHTML(t("department"))}</a>
-                <a href="mailto:${escapeHTML(supervisor.email)}">${escapeHTML(supervisor.email)}</a>
+                <span>${escapeHTML(supervisor.academic_title || t("notVerified"))}</span>
+                <span>${escapeHTML(supervisor.university)} · ${escapeHTML(regionLabel(getSupervisorRegion(supervisor)))}</span>
+                <span>${escapeHTML(supervisor.faculty_school || t("notVerified"))}</span>
+                ${renderLink(getHomepage(supervisor), t("homepage"))}
+                ${renderLink(getDepartmentPage(supervisor), t("departmentPage"))}
+                ${supervisor.email ? `<a href="mailto:${escapeHTML(supervisor.email)}">${escapeHTML(supervisor.email)}</a>` : `<span>${escapeHTML(t("notVerified"))}</span>`}
               </div>
             </td>
             <td>
               <div class="field-tags">
-                ${supervisor.research_fields.map((field) => `<span class="tag field">${escapeHTML(fieldLabel(field))}</span>`).join("")}
+                ${asArray(supervisor.research_fields).map((field) => `<span class="tag field">${escapeHTML(fieldLabel(field))}</span>`).join("") || `<span>${escapeHTML(t("notVerified"))}</span>`}
               </div>
             </td>
             <td>${escapeHTML(methodLabel(supervisor.methodology))}</td>
             <td>
-              <strong>${supervisor.publication_count}</strong><br />
-              <span>${escapeHTML(supervisor.journal_ranking_level)}</span><br />
+              <strong>${escapeHTML(supervisor.publication_count ?? t("notVerified"))}</strong><br />
+              <span>SSCI ${escapeHTML(supervisor.SSCI_publications ?? t("notVerified"))} · CSSCI ${escapeHTML(supervisor.CSSCI_publications ?? t("notVerified"))}</span><br />
               <span class="score-cell">${escapeHTML(score)}</span>
             </td>
             <td>
-              <span class="status-pill ${statusClass(supervisor.supervision_status)}">${escapeHTML(statusLabel(supervisor.supervision_status))}</span><br />
-              <span>${escapeHTML(regionLabel(supervisor.university_tier))} ${escapeHTML(t("tierSuffix"))}</span>
+              <span class="status-pill ${normalize(getStatus(supervisor)).includes("limited") ? "limited" : ""}">${escapeHTML(getStatus(supervisor) || t("phdStatusUnknown"))}</span><br />
+              <span>${escapeHTML(regionLabel(supervisor.university_tier))} ${escapeHTML(t("tierSuffix"))}</span><br />
+              ${sources[0] ? renderLink(sources[0], t("source")) : `<span>${escapeHTML(t("notVerified"))}</span>`}
             </td>
           </tr>
         `;
@@ -591,11 +616,7 @@ const renderStructuredTags = (tags) => {
   $("#structured-tags").innerHTML =
     tags.length
       ? tags
-          .map((tag) => {
-            const isField = Boolean(fieldAliases[tag]);
-            const label = tagLabel(tag);
-            return `<span class="tag ${isField ? "field" : "keyword"}">${escapeHTML(label)}</span>`;
-          })
+          .map((tag) => `<span class="tag ${fieldAliases[tag] ? "field" : "keyword"}">${escapeHTML(tagLabel(tag))}</span>`)
           .join("")
       : `<span class="empty-note">${escapeHTML(t("tagsEmpty"))}</span>`;
 };
@@ -610,16 +631,16 @@ const renderRecommendations = (matches) => {
             <header>
               <div>
                 <strong>${escapeHTML(supervisor.name)}</strong>
-                <p>${escapeHTML(supervisor.university)} · ${escapeHTML(regionLabel(regionForSupervisor(supervisor)))}</p>
+                <p>${escapeHTML(supervisor.university)} · ${escapeHTML(regionLabel(getSupervisorRegion(supervisor)))}</p>
               </div>
               <span class="match-score">${percentage}%</span>
             </header>
-            <p>${escapeHTML(explanation)}${state.lang === "zh" ? "。" : "."}</p>
+            <p><strong>${escapeHTML(t("recommendedBecause"))}:</strong> ${escapeHTML(explanation)}${state.lang === "zh" ? "。" : "."}</p>
             <div class="tag-list">
-              <span class="tag field">${escapeHTML(t("scoreField"))} ${Math.round(components.researchFieldOverlap * 100)}%</span>
-              <span class="tag keyword">${escapeHTML(t("scoreKeyword"))} ${Math.round(components.keywordMatch * 100)}%</span>
-              <span class="tag">${escapeHTML(t("scoreMethod"))} ${Math.round(components.methodMatch * 100)}%</span>
-              <span class="tag">${escapeHTML(t("scoreTier"))} ${Math.round(components.tierBonus * 100)}%</span>
+              <span class="tag field">${escapeHTML(t("scoreField"))} ${Math.round(components.researchFieldSimilarity * 100)}%</span>
+              <span class="tag keyword">${escapeHTML(t("scoreKeyword"))} ${Math.round(components.keywordSimilarity * 100)}%</span>
+              <span class="tag">${escapeHTML(t("scoreMethod"))} ${Math.round(components.methodCompatibility * 100)}%</span>
+              <span class="tag">${escapeHTML(t("scoreEnvironment"))} ${Math.round(components.researchEnvironment * 100)}%</span>
             </div>
           </article>
         `
@@ -643,8 +664,8 @@ const runRecommendation = (event) => {
   const matches = state.supervisors
     .map((supervisor) => calculateRecommendation(supervisor, state.lastRecommendationInput))
     .sort((a, b) => b.score - a.score);
-
   state.recommendationScores = new Map(matches.map((match) => [match.supervisor.id, match.score]));
+  state.page = 1;
   renderStructuredTags(state.currentTags);
   renderRecommendations(matches);
   renderSupervisors();
@@ -656,7 +677,6 @@ const rerenderRecommendationsForLanguage = () => {
     $("#recommendation-results").innerHTML = `<p class="empty-note">${escapeHTML(t("matchesEmpty"))}</p>`;
     return;
   }
-
   const matches = state.supervisors
     .map((supervisor) => calculateRecommendation(supervisor, state.lastRecommendationInput))
     .sort((a, b) => b.score - a.score);
@@ -665,12 +685,11 @@ const rerenderRecommendationsForLanguage = () => {
 };
 
 const resetFilters = () => {
-  $("#search-input").value = "";
-  $("#field-filter").value = "";
-  $("#method-filter").value = "";
-  $("#region-filter").value = "";
-  $("#tier-filter").value = "";
+  ["#search-input", "#university-filter", "#field-filter", "#method-filter", "#region-filter", "#tier-filter", "#academic-level-filter", "#publication-level-filter"].forEach((selector) => {
+    $(selector).value = "";
+  });
   $("#sort-select").value = "relevance";
+  state.page = 1;
   renderSupervisors();
 };
 
@@ -679,16 +698,32 @@ const setLanguage = (lang) => {
   localStorage.setItem("peis-lang", lang);
   applyTranslations();
   renderFieldOptions();
+  renderUniversityOptions();
   renderTaxonomy();
   rerenderRecommendationsForLanguage();
   renderSupervisors();
 };
 
 const bindEvents = () => {
-  ["#search-input", "#field-filter", "#method-filter", "#region-filter", "#tier-filter", "#sort-select"].forEach((selector) => {
-    $(selector).addEventListener("input", renderSupervisors);
+  ["#search-input", "#university-filter", "#field-filter", "#method-filter", "#region-filter", "#tier-filter", "#academic-level-filter", "#publication-level-filter", "#sort-select"].forEach((selector) => {
+    $(selector).addEventListener("input", () => {
+      state.page = 1;
+      renderSupervisors();
+    });
   });
-
+  $("#page-size").addEventListener("input", () => {
+    state.pageSize = Number($("#page-size").value);
+    state.page = 1;
+    renderSupervisors();
+  });
+  $("#prev-page").addEventListener("click", () => {
+    state.page = Math.max(1, state.page - 1);
+    renderSupervisors();
+  });
+  $("#next-page").addEventListener("click", () => {
+    state.page += 1;
+    renderSupervisors();
+  });
   $("#reset-filters").addEventListener("click", resetFilters);
   $("#recommendation-form").addEventListener("submit", runRecommendation);
   $("#interest-input").addEventListener("input", () => {
@@ -697,7 +732,6 @@ const bindEvents = () => {
     renderStructuredTags(extractStructuredTags($("#interest-input").value));
     renderSupervisors();
   });
-
   $("#expand-all").addEventListener("click", () => {
     document.querySelectorAll(".field-node").forEach((node) => {
       node.classList.add("is-open");
@@ -705,7 +739,6 @@ const bindEvents = () => {
       node.querySelector(".field-toggle span").textContent = "-";
     });
   });
-
   $("#collapse-all").addEventListener("click", () => {
     document.querySelectorAll(".field-node").forEach((node) => {
       node.classList.remove("is-open");
@@ -713,7 +746,6 @@ const bindEvents = () => {
       node.querySelector(".field-toggle span").textContent = "+";
     });
   });
-
   document.querySelectorAll(".language-button").forEach((button) => {
     button.addEventListener("click", () => setLanguage(button.dataset.lang));
   });
@@ -721,20 +753,21 @@ const bindEvents = () => {
 
 const loadData = async () => {
   try {
-    const [fieldResponse, supervisorResponse] = await Promise.all([
+    const [fieldResponse, supervisorResponse, universityResponse] = await Promise.all([
       fetch("data/research_fields.json"),
-      fetch("data/supervisors.json")
+      fetch("data/supervisors.json"),
+      fetch("data/universities.json")
     ]);
+    if (!fieldResponse.ok || !supervisorResponse.ok) throw new Error("Unable to load PEIS JSON data.");
 
-    if (!fieldResponse.ok || !supervisorResponse.ok) {
-      throw new Error("Unable to load PEIS JSON data.");
-    }
-
+    const supervisorPayload = await supervisorResponse.json();
     state.fields = await fieldResponse.json();
-    state.supervisors = await supervisorResponse.json();
+    state.supervisors = Array.isArray(supervisorPayload) ? supervisorPayload : asArray(supervisorPayload.supervisors);
+    state.universities = universityResponse.ok ? await universityResponse.json() : null;
 
     applyTranslations();
     renderFieldOptions();
+    renderUniversityOptions();
     renderTaxonomy();
     renderSupervisors();
     renderStructuredTags([]);
