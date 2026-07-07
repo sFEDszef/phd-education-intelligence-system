@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2026-07-07",
+  "data_policy": {
+    "purpose": "Target-university index for PEIS supervisor data collection.",
+    "note": "This file does not assert individual supervisor eligibility. It only defines target universities and discipline-level metadata to support future verified supervisor records."
+  },
+  "hong_kong_target_universities": [
+    {
+      "university_name": "The University of Hong Kong",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": "https://web.edu.hku.hk/",
+      "source_urls": ["https://web.edu.hku.hk/"],
+      "verification_status": "official_url_verified",
+      "notes": "Faculty of Education target source for future supervisor verification."
+    },
+    {
+      "university_name": "The Chinese University of Hong Kong",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": "https://www.fed.cuhk.edu.hk/",
+      "source_urls": ["https://www.fed.cuhk.edu.hk/"],
+      "verification_status": "official_url_verified",
+      "notes": "Faculty of Education target source for future supervisor verification."
+    },
+    {
+      "university_name": "Hong Kong University of Science and Technology",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": null,
+      "source_urls": ["https://hkust.edu.hk/"],
+      "verification_status": "university_official_url_verified",
+      "notes": "No dedicated Education faculty URL is asserted here. Future records must be verified at the department or programme level."
+    },
+    {
+      "university_name": "City University of Hong Kong",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": null,
+      "source_urls": ["https://www.cityu.edu.hk/"],
+      "verification_status": "university_official_url_verified",
+      "notes": "Future education-related supervisor records must be verified at the department, college, or research-degree programme level."
+    },
+    {
+      "university_name": "Hong Kong Polytechnic University",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": null,
+      "source_urls": ["https://www.polyu.edu.hk/"],
+      "verification_status": "university_official_url_verified",
+      "notes": "Future education-related supervisor records must be verified at the department, college, or research-degree programme level."
+    },
+    {
+      "university_name": "Hong Kong Baptist University",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": null,
+      "source_urls": ["https://www.hkbu.edu.hk/"],
+      "verification_status": "university_official_url_verified",
+      "notes": "Future education-related supervisor records must be verified at the department, school, or research-degree programme level."
+    },
+    {
+      "university_name": "Lingnan University",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": null,
+      "source_urls": ["https://www.ln.edu.hk/"],
+      "verification_status": "official_url_pending_fetch_verification",
+      "notes": "Future education-related supervisor records must be verified at the department, school, or research-degree programme level."
+    },
+    {
+      "university_name": "The Education University of Hong Kong",
+      "region": "Hong Kong",
+      "university_tier": "Hong Kong",
+      "education_school_url": "https://www.eduhk.hk/en/",
+      "source_urls": ["https://www.eduhk.hk/en/"],
+      "verification_status": "official_url_verified",
+      "notes": "University-wide education-focused target source for future supervisor verification."
+    }
+  ],
+  "mainland_china_education_discipline_b_plus_or_above": {
+    "scope": "Mainland China universities with Education discipline evaluation B+ or above.",
+    "verification_status": "structure_prepared_pending_official_record_entry",
+    "required_fields": ["university_name", "discipline_level", "education_school_url"],
+    "source_standard": "Use the Ministry of Education / China Academic Degrees and Graduate Education Development Center discipline evaluation source, plus each university's official education school URL.",
+    "records": []
+  }
+}
