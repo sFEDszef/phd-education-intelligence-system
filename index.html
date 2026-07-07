@@ -8,7 +8,7 @@
       content="PhD Education Intelligence System (PEIS), a public static intelligence tool for exploring education research fields, PhD supervisors, and fit recommendations."
     />
     <title>PEIS | PhD Education Intelligence System</title>
-    <link rel="stylesheet" href="style.css?v=peis-2" />
+    <link rel="stylesheet" href="style.css?v=peis-3" />
   </head>
   <body>
     <header class="app-header">
@@ -37,7 +37,7 @@
         <div>
           <h1 id="overview-title" data-i18n="heroTitle">PhD Education Intelligence System</h1>
           <p data-i18n="heroDescription">
-            PEIS helps applicants explore education research areas, compare sample supervisor profiles, and generate transparent fit recommendations without any backend, external API, or personal data storage.
+            PEIS helps applicants explore education research areas, manage verified supervisor records, and generate transparent fit recommendations without any backend, external API, or personal data storage.
           </p>
         </div>
         <dl class="metrics" aria-label="System summary">
@@ -46,8 +46,8 @@
             <dd data-i18n="metricFields">Research Fields</dd>
           </div>
           <div>
-            <dt id="supervisor-count">18</dt>
-            <dd data-i18n="metricSupervisors">Sample Supervisors</dd>
+            <dt id="supervisor-count">0</dt>
+            <dd data-i18n="metricSupervisors">Verified Supervisors</dd>
           </div>
           <div>
             <dt>100%</dt>
@@ -74,7 +74,7 @@
           <div class="panel-heading">
             <span data-i18n="moduleTwo">Module 2</span>
             <h2 id="database-title" data-i18n="databaseTitle">Supervisor Database</h2>
-            <p data-i18n="databaseDescription">Search, filter, and sort placeholder supervisor records stored in JSON.</p>
+            <p data-i18n="databaseDescription">Search, filter, sort, and page through verified supervisor records stored in JSON.</p>
           </div>
 
           <div class="database-controls" aria-label="Supervisor search and filters">
@@ -90,6 +90,12 @@
             </label>
 
             <div class="filter-grid">
+              <label>
+                <span data-i18n="universityFilterLabel">University</span>
+                <select id="university-filter">
+                  <option value="" data-i18n="allUniversities">All universities</option>
+                </select>
+              </label>
               <label>
                 <span data-i18n="fieldFilterLabel">Research field</span>
                 <select id="field-filter">
@@ -109,25 +115,47 @@
                 <span data-i18n="regionFilterLabel">Region</span>
                 <select id="region-filter">
                   <option value="" data-i18n="allRegions">All regions</option>
-                  <option value="China" data-i18n="regionChina">China</option>
+                  <option value="Mainland China" data-i18n="regionMainlandChina">Mainland China</option>
                   <option value="Hong Kong" data-i18n="regionHongKong">Hong Kong</option>
-                  <option value="Global" data-i18n="regionGlobal">Global</option>
                 </select>
               </label>
               <label>
                 <span data-i18n="tierFilterLabel">University tier</span>
                 <select id="tier-filter">
                   <option value="" data-i18n="allTiers">All tiers</option>
-                  <option value="China" data-i18n="tierChina">China</option>
+                  <option value="Mainland China" data-i18n="tierMainlandChina">Mainland China</option>
                   <option value="Hong Kong" data-i18n="tierHongKong">Hong Kong</option>
                   <option value="Global" data-i18n="tierGlobal">Global</option>
+                  <option value="Unknown" data-i18n="tierUnknown">Unknown</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="academicLevelFilterLabel">Academic level</span>
+                <select id="academic-level-filter">
+                  <option value="" data-i18n="allAcademicLevels">All levels</option>
+                  <option value="Assistant Professor" data-i18n="levelAssistant">Assistant Professor</option>
+                  <option value="Associate Professor" data-i18n="levelAssociate">Associate Professor</option>
+                  <option value="Professor" data-i18n="levelProfessor">Professor</option>
+                  <option value="Chair Professor" data-i18n="levelChair">Chair Professor</option>
+                  <option value="Other" data-i18n="levelOther">Other</option>
+                </select>
+              </label>
+              <label>
+                <span data-i18n="publicationLevelFilterLabel">Publication level</span>
+                <select id="publication-level-filter">
+                  <option value="" data-i18n="allPublicationLevels">All activity levels</option>
+                  <option value="high" data-i18n="publicationHigh">High activity</option>
+                  <option value="medium" data-i18n="publicationMedium">Medium activity</option>
+                  <option value="emerging" data-i18n="publicationEmerging">Emerging</option>
+                  <option value="unverified" data-i18n="publicationUnverified">Not verified</option>
                 </select>
               </label>
               <label>
                 <span data-i18n="sortLabel">Sort by</span>
                 <select id="sort-select">
                   <option value="relevance" data-i18n="sortRelevance">Relevance score</option>
-                  <option value="publications" data-i18n="sortPublications">Publication count</option>
+                  <option value="publication_activity" data-i18n="sortPublicationActivity">Publication activity</option>
+                  <option value="university_tier" data-i18n="sortUniversityTier">University tier</option>
                 </select>
               </label>
             </div>
@@ -151,6 +179,22 @@
               </thead>
               <tbody id="supervisor-table"></tbody>
             </table>
+          </div>
+
+          <div class="pagination-bar" aria-label="Supervisor pagination">
+            <label>
+              <span data-i18n="pageSizeLabel">Rows per page</span>
+              <select id="page-size">
+                <option value="10">10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+              </select>
+            </label>
+            <div class="pagination-actions">
+              <button class="text-button" id="prev-page" type="button" data-i18n="prevPage">Previous</button>
+              <span id="page-status">Page 1 of 1</span>
+              <button class="text-button" id="next-page" type="button" data-i18n="nextPage">Next</button>
+            </div>
           </div>
         </section>
 
@@ -184,9 +228,8 @@
               <span data-i18n="regionPreferenceLabel">Region preference</span>
               <select id="region-preference">
                 <option value="" data-i18n="noPreference">No preference</option>
-                <option value="China" data-i18n="regionChina">China</option>
+                <option value="Mainland China" data-i18n="regionMainlandChina">Mainland China</option>
                 <option value="Hong Kong" data-i18n="regionHongKong">Hong Kong</option>
-                <option value="Global" data-i18n="regionGlobal">Global</option>
               </select>
             </label>
             <button class="primary-button" type="submit" data-i18n="generateMatches">Generate Top 5 Matches</button>
@@ -211,10 +254,10 @@
 
     <footer class="app-footer">
       <p data-i18n="footerNotice">
-        PEIS is a static demonstration system using placeholder sample supervisors. Applicants should verify every real supervisor profile through official university sources.
+        PEIS is a static academic intelligence system. Supervisor records must be verified against official university sources before publication.
       </p>
     </footer>
 
-    <script src="script.js?v=peis-2"></script>
+    <script src="script.js?v=peis-3"></script>
   </body>
 </html>
