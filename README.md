@@ -47,6 +47,10 @@ The system returns a match score, component scores, and an explanation of the ma
 /data/supervisors.json
 /data/template_supervisor.json
 /data/universities.json
+/schema/supervisor.schema.json
+/docs/data_verification.md
+/assets/images/
+/assets/icons/
 /README.md
 ```
 
@@ -54,14 +58,21 @@ The system returns a match score, component scores, and an explanation of the ma
 
 Each supervisor entry in `data/supervisors.json` must include:
 
-- Basic information: `name`, `university`, `faculty_school`, `department`, `academic_title`, `email`, `personal_homepage_url`, `department_homepage_url`
+- Basic information: `supervisor_id`, `name`, `university`, `faculty_school`, `department`, `country`, `region`, `academic_title`, `email`, `personal_homepage_url`, `department_homepage_url`
 - Academic classification: `region`, `university_tier`, `education_discipline_ranking_level`
 - Research information: `research_fields`, `keywords`, `methodology`
 - Academic productivity: `publication_count`, `recent_publications_last_5_years`, `SSCI_publications`, `CSSCI_publications`, `major_research_projects`
 - Doctoral information: `phd_supervisor_status`, `doctoral_program`, `supervision_notes`
-- Data quality: `source_urls`, `last_updated`, `verification_status`
+- Data quality: `evidence`, `source_urls`, `last_updated`, `verification_status`
 
-Use `data/template_supervisor.json` as the copyable import format for future records.
+Use `data/template_supervisor.json` as the copyable import format for future records. Validate records against `schema/supervisor.schema.json` before publication.
+
+Allowed `verification_status` values are:
+
+- `draft`
+- `verified`
+- `needs_review`
+- `outdated`
 
 ## How To Add New Supervisors
 
@@ -69,11 +80,14 @@ Use `data/template_supervisor.json` as the copyable import format for future rec
 2. Verify the supervisor through official university, faculty, department, or personal profile pages.
 3. Verify doctoral supervision eligibility through an official doctoral programme, research degree, graduate school, or department source.
 4. Verify publication counts through an official profile, CV, Google Scholar, Scopus, Web of Science, CNKI, or another clearly cited source.
-5. Add all source links to `source_urls`.
-6. Set `verification_status` to `verified` only when required fields are supported by sources.
-7. Insert the object into the `supervisors` array in `data/supervisors.json`.
+5. Add field-level source links and checked dates to `evidence`.
+6. Add all source links to `source_urls`.
+7. Set `verification_status` to `verified` only when required fields are supported by sources.
+8. Insert the object into the `supervisors` array in `data/supervisors.json`.
 
 Do not infer an email, homepage, publication count, SSCI/CSSCI count, or PhD supervision status from memory or AI-generated text.
+
+See `docs/data_verification.md` for accepted sources, update cycles, and maintenance rules.
 
 ## Target Universities
 
