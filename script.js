@@ -7,6 +7,8 @@ const state = {
   lastRecommendationInput: null,
   page: 1,
   pageSize: 10,
+  maxPublicationCount: 0,
+  searchDebounceId: null,
   lang: localStorage.getItem("peis-lang") || "en"
 };
 
@@ -300,6 +302,7 @@ const tagLabel = (tag) => {
 };
 
 const getSupervisorRegion = (supervisor) => supervisor.region || (supervisor.country === "China" ? "Mainland China" : supervisor.country);
+const getSupervisorId = (supervisor) => supervisor.supervisor_id || supervisor.id || supervisor.name || "";
 const getHomepage = (supervisor) => supervisor.personal_homepage_url || supervisor.homepage_url || "";
 const getDepartmentPage = (supervisor) => supervisor.department_homepage_url || supervisor.department_url || "";
 const getStatus = (supervisor) => supervisor.phd_supervisor_status || supervisor.supervision_status || "";
@@ -314,8 +317,7 @@ const publicationActivity = (supervisor) => {
 };
 
 const publicationScore = (count) => {
-  const max = Math.max(0, ...state.supervisors.map(getPublicationCount));
-  return max ? count / max : 0;
+  return state.maxPublicationCount ? count / state.maxPublicationCount : 0;
 };
 
 const tokenize = (text) => {
@@ -343,21 +345,43 @@ const overlapRatio = (sourceItems, targetItems) => {
   return matches / sourceItems.length;
 };
 
-const searchableSupervisorText = (supervisor) =>
+const buildSearchableSupervisorText = (supervisor) =>
   normalize(
     [
+      supervisor.supervisor_id,
+      supervisor.id,
       supervisor.name,
       supervisor.university,
       supervisor.faculty_school,
       supervisor.department,
       supervisor.academic_title,
+      supervisor.country,
       getSupervisorRegion(supervisor),
       asArray(supervisor.research_fields).join(" "),
-      asArray(supervisor.research_fields).map(fieldLabel).join(" "),
+      asArray(supervisor.research_fields)
+        .map((field) => {
+          const fieldRecord = fieldByName(field);
+          return [field, fieldRecord?.name_zh, fieldRecord?.description, fieldRecord?.description_zh].filter(Boolean).join(" ");
+        })
+        .join(" "),
       asArray(supervisor.keywords).join(" "),
       asArray(supervisor.major_research_projects).join(" ")
     ].join(" ")
   );
+
+const searchableSupervisorText = (supervisor) => supervisor._searchableText || buildSearchableSupervisorText(supervisor);
+
+const prepareSupervisorRecord = (supervisor) => ({
+  ...supervisor,
+  supervisor_id: getSupervisorId(supervisor),
+  _publicationCount: getPublicationCount(supervisor),
+  _searchableText: buildSearchableSupervisorText(supervisor)
+});
+
+const prepareSupervisorDataset = (items) => {
+  state.supervisors = asArray(items).map(prepareSupervisorRecord);
+  state.maxPublicationCount = Math.max(0, ...state.supervisors.map((supervisor) => supervisor._publicationCount));
+};
 
 const keywordMatchRatio = (tokens, supervisor) => {
   if (!tokens.length) return 0;
@@ -541,8 +565,8 @@ const sortSupervisors = (items, sortMode) => {
   return [...items].sort((a, b) => {
     if (sortMode === "publication_activity") return getPublicationCount(b) - getPublicationCount(a);
     if (sortMode === "university_tier") return tierRank(b.university_tier) - tierRank(a.university_tier);
-    const aScore = state.recommendationScores.get(a.id) ?? publicationScore(getPublicationCount(a));
-    const bScore = state.recommendationScores.get(b.id) ?? publicationScore(getPublicationCount(b));
+    const aScore = state.recommendationScores.get(getSupervisorId(a)) ?? publicationScore(getPublicationCount(a));
+    const bScore = state.recommendationScores.get(getSupervisorId(b)) ?? publicationScore(getPublicationCount(b));
     return bScore - aScore;
   });
 };
@@ -572,8 +596,9 @@ const renderSupervisors = () => {
   $("#supervisor-table").innerHTML =
     visible
       .map((supervisor) => {
-        const score = state.recommendationScores.has(supervisor.id)
-          ? `${Math.round(state.recommendationScores.get(supervisor.id) * 100)}%`
+        const supervisorId = getSupervisorId(supervisor);
+        const score = state.recommendationScores.has(supervisorId)
+          ? `${Math.round(state.recommendationScores.get(supervisorId) * 100)}%`
           : `${Math.round(publicationScore(getPublicationCount(supervisor)) * 100)} ${t("relevanceSuffix")}`;
         const sources = asArray(supervisor.source_urls);
         return `
@@ -664,7 +689,7 @@ const runRecommendation = (event) => {
   const matches = state.supervisors
     .map((supervisor) => calculateRecommendation(supervisor, state.lastRecommendationInput))
     .sort((a, b) => b.score - a.score);
-  state.recommendationScores = new Map(matches.map((match) => [match.supervisor.id, match.score]));
+  state.recommendationScores = new Map(matches.map((match) => [getSupervisorId(match.supervisor), match.score]));
   state.page = 1;
   renderStructuredTags(state.currentTags);
   renderRecommendations(matches);
@@ -693,6 +718,14 @@ const resetFilters = () => {
   renderSupervisors();
 };
 
+const debounceRenderSupervisors = () => {
+  window.clearTimeout(state.searchDebounceId);
+  state.searchDebounceId = window.setTimeout(() => {
+    state.page = 1;
+    renderSupervisors();
+  }, 180);
+};
+
 const setLanguage = (lang) => {
   state.lang = lang;
   localStorage.setItem("peis-lang", lang);
@@ -705,7 +738,9 @@ const setLanguage = (lang) => {
 };
 
 const bindEvents = () => {
-  ["#search-input", "#university-filter", "#field-filter", "#method-filter", "#region-filter", "#tier-filter", "#academic-level-filter", "#publication-level-filter", "#sort-select"].forEach((selector) => {
+  $("#search-input").addEventListener("input", debounceRenderSupervisors);
+
+  ["#university-filter", "#field-filter", "#method-filter", "#region-filter", "#tier-filter", "#academic-level-filter", "#publication-level-filter", "#sort-select"].forEach((selector) => {
     $(selector).addEventListener("input", () => {
       state.page = 1;
       renderSupervisors();
@@ -762,7 +797,7 @@ const loadData = async () => {
 
     const supervisorPayload = await supervisorResponse.json();
     state.fields = await fieldResponse.json();
-    state.supervisors = Array.isArray(supervisorPayload) ? supervisorPayload : asArray(supervisorPayload.supervisors);
+    prepareSupervisorDataset(Array.isArray(supervisorPayload) ? supervisorPayload : supervisorPayload.supervisors);
     state.universities = universityResponse.ok ? await universityResponse.json() : null;
 
     applyTranslations();
