@@ -510,6 +510,36 @@ td {
   font-weight: 800;
 }
 
+.pagination-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 14px 20px;
+  border-top: 1px solid var(--line);
+  background: #ffffff;
+}
+
+.pagination-bar label {
+  grid-template-columns: auto minmax(84px, 110px);
+  align-items: center;
+}
+
+.pagination-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.text-button:disabled {
+  color: var(--line-strong);
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
 .tag-list,
 .field-tags {
   display: flex;
@@ -708,8 +738,18 @@ td {
   .database-controls,
   .recommendation-form,
   .tag-output,
-  .recommendation-results {
+  .recommendation-results,
+  .pagination-bar {
     padding-left: 14px;
     padding-right: 14px;
+  }
+
+  .pagination-bar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .pagination-actions {
+    justify-content: space-between;
   }
 }
