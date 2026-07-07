@@ -13,7 +13,12 @@
     "format": "sup-{country_or_region}-{university_slug}-{person_slug}",
     "stability_rule": "Do not change supervisor_id after publication; update name/title fields separately if official profiles change."
   },
-  "verification_status_enum": ["draft", "verified", "needs_review", "outdated"],
+  "verification_status_enum": [
+    "draft",
+    "verified",
+    "needs_review",
+    "outdated"
+  ],
   "evidence_policy": {
     "required_for_verified": [
       "name",
@@ -30,5 +35,2526 @@
       "checked_date": "YYYY-MM-DD date when the field was last checked."
     }
   },
-  "supervisors": []
+  "supervisors": [
+    {
+      "supervisor_id": "sup-hong-kong-hku-kong-anthony-p-h",
+      "name": "KONG, Anthony P. H.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Human Communication, Learning, and Development",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "akong@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/akong",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Digital Education",
+        "Sociology of Education",
+        "Assessment & Evaluation",
+        "Special Education"
+      ],
+      "keywords": [
+        "Speech and Hearing Sciences",
+        "Communication Sciences and Disorders",
+        "Assessment",
+        "Testing and Measurement",
+        "Brain and Cognition",
+        "Bilingualism and Multilingualism"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 65,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Škorić, A.M., ..., Kong, A.P.H., et al. (2026). Setting a research agenda for assessment and treatment of aphasia in minority languages. Cortex, 198(2026), 13-26. https://doi.org/10.1016/j.cortex.2026.02.013",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Cheung, C.Y.-N.+, & Kong, A.P.H. (2026). Enhancing oscillatory dysfunctome in aphasia: Phase-dependent network effects of connectomic transcranial alternating current stimulation. Clinical Neurophysiology. https://doi.org/10.1016/j.clinph.2026.2111712",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Carthery-Goulart, M.T., Chu, A., Kong, A.P.H., & Bakhtiar, M. (2026). Exploring the effects of a computerized naming intervention combined with cerebellar tDCS in Cantonese-speaking individuals with aphasia. Brain Sciences, 16, 137. https://doi.org/10.3390/brainsci16020137",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Kong, A.P.H. (2026). An update on validating the Hong Kong Cantonese version of the Comprehensive Aphasia Test (Cant-CAT). Aphasiology, 40(2), 278-300. https://doi.org/10.1080/02687038.2024.2398807",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Kong, A.P.H., Wong, C.W.-Y.+, & Cheung, C.Y.-N.+ (2025). Establishing norms of connected speech measures for story-telling in Cantonese-speaking adults. International Journal of Language & Communication Disorders, 60(6), e70131, 1-15. https://doi.org/10.1111/1460-6984.70131",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/akong",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/akong",
+        "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-chen-gaowei",
+      "name": "CHEN, Gaowei",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Mathematics, Science, and Technology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "gwchen@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/mathematics-science-and-technology",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Learning Sciences",
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "Learning sciences",
+        "Artificial Intelligence in education",
+        "Educational dialogue",
+        "Dialogic teaching and learning",
+        "Professional development",
+        "Learning Sciences",
+        "Technology-enhanced Learning",
+        "Teacher Education and Development",
+        "Educational Psychology",
+        "Research Methods and Methodologies"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 202,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Wang, D.#, Zhang, C., & Chen, G. (2025). Using large language models to promote teachers’ learning: an exploratory professional development programme. Professional Development in Education, 1-19.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Zhang, Y.#, Jin, Y., Li, N., Li, B., & Chen, G. (2025). Using cognitive diagnosis to guide workshop design: A preliminary study of examining novice mathematics teachers’ knowledge of dialogic teaching. Teaching and Teacher Education, 162, 105059.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Zheng, C.#, & Chen, G. (2025). The AI Co-Pilot: A Culturally-Responsive Framework for Orchestrating Interactive Learning in the Classroom. International Journal of Chinese Education.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Li, K.#, Wang, P.#, & Chen, G. (2025). How can AI be integrated into teacher professional development programs? A systematic review based on an adapted technology-based learning model. Teaching and Teacher Education, 168, 105219.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Wang, D.#, & Chen, G. (2025). Evaluating the use of BERT and Llama to analyze classroom dialogue for teachers’ learning of dialogic pedagogy. British Journal of Educational Technology.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "External Grants (Principal Investigator)",
+        "Empowering teachers with real-time discourse analytics: Impact on classroom talk and student learning. HK$ 477,890. RGC General Research Fund (GRF), #17619325. (2025-2027)",
+        "A video-visualization online professional development approach for teachers: Promoting productive classroom talk and student learning. HKD 744,245. RGC General Research Fund (GRF), #17605221. (2021-2024)"
+      ],
+      "phd_supervisor_status": "not_accepting",
+      "doctoral_program": "not_verified",
+      "supervision_notes": "I am not taking on graduate supervision in 2026-2027.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/mathematics-science-and-technology",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/gwchen",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/gwchen",
+        "https://web.edu.hku.hk/unit/mathematics-science-and-technology",
+        "https://repository.hku.hk/cris/rp/rp01874",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-jung-jisun",
+      "name": "JUNG, Jisun",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Social Contexts and Policies of Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "jisun@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/social-contexts-and-policies-of-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Higher Education Studies",
+        "Education Policy"
+      ],
+      "keywords": [
+        "Educational Policy",
+        "Higher Education Policy and Practice",
+        "Research Methods and Methodologies"
+      ],
+      "methodology": "mixed",
+      "publication_count": 97,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Aarrevaara, T., Finkelstein, M., Jones, G., & Jung, J. (2021) (eds.). Universities in the knowledge society. Springer: Cham.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Horta, H., & Jung, J. (2025). Higher education research of master students: nurturing their development, hearing their voices, and promoting their expectations. Higher Education Evaluation and Development",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Macfarlane, B., Jung, J., & Oleksiyenko, A. (2025). Higher Education and crisis management. Higher Education Quarterly.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Career Outcomes of Master’s Graduates in China (Principal investigator, General Research Fund, 2025-28, Hong Kong Research Grants Council, HK$ 689,180)",
+        "Factors Involved in Master's Degree Pursuit in Hong Kong (Principal investigator, Early Career Scheme, 2019-21, Hong Kong Research Grants Council, HK$ 300,764)",
+        "Graduate Employability in an Era of 'Technological Unemployment'. (Principal investigator, SRHE Scoping Award, 2022, Society for Research into Higher Education, United Kingdom, GBP 5,000)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/social-contexts-and-policies-of-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jisun",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/jisun",
+        "https://web.edu.hku.hk/unit/social-contexts-and-policies-of-education",
+        "http://hub.hku.hk/cris/rp/rp02095",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-cheong-choo-mui",
+      "name": "CHEONG, Choo Mui",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "cheongcm@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Assessment",
+        "Testing and Measurement",
+        "Bilingualism and Multilingualism",
+        "Chinese Language and Literature Education",
+        "Literacies and Languages",
+        "Primary and Secondary Education"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 47,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Cheong, C.M., Mu, R., Zhang, X. (2023). A framework for cognitive and metacognitive processing skills in argumentative integrated writing assessments. In Wette, R. (Eds.), Teaching and learning source-based writing: Current perspectives and future directions. Routledge. eBook ISBN 9781003283485 https://doi.org/10.4324/9781003283485-17",
+          "year": 2023,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Yen, M.L., Cheong, C.M., Ng, H.L., Cheung, Y. (2023). Design and Implementation Strategies of Concept-driven Curriculum in International Baccalaureate Diploma Program Language Acquisition Course. 顏妙如、鍾竹梅、吳曉琳、張櫻。（2023）「IB中文二語教師對概念教學的認知和理解」。香港教育大學中國語言學系《國際文憑課程（IB）中文教學研究新探》。香港中華書局/三聯書店（香港）出版社。",
+          "year": 2023,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Cheong, C. M., Xu, W., Pang, W., Zhu, S., & Liao, X. (2024). The construct of integrated group discussion (IGD) among undergraduate students: To what extent does group discussion performance reflect performance on IGD tasks? International Review of Applied Linguistics in Language Teaching, 2024. https://doi.org/10.1515/iral-2023-0073.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Zhang, J., Liu, Y., & Cheong, C. M.* (2024). The effect of growth mindset on motivation and strategy use in Hong Kong students’ integrated writing performance. European Journal of Psychology of Education, 1-20. https://doi.org/10.1007/s10212-024-00859-w.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Principal Investigator, 20 Years of Empirical Evidence: The Sixth Study on the Progress in Chinese and English Reading Literacy Study (in 2023) at Primary 4 in Hong Kong and Approaches to and Strategies for Enhancing the Quality of Teaching and Learning of Reading. General Research Fund, Research Grants Council, HK$999,130 (Jan 2023 to Dec 2024)",
+        "Principal Investigator, Developing a Digitalized Reading Platform to Enhance Primary School Students' Online Reading Competence, QEF, HK$4,575,700 (Jun 2022 to May 2024)",
+        "Principal Investigator, Enhancing Academic Career Success: Developing Information Processing Skills Across Multiple Texts in Chinese Language Education Discipline for Undergraduate Students, SCOLAR, HK$784,833 (Sep 2021 to Aug 2023)"
+      ],
+      "phd_supervisor_status": "not_accepting",
+      "doctoral_program": "not_verified",
+      "supervision_notes": "I am not taking on graduate supervision in 2026-2027.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cheongcm",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/cheongcm",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-cheung-wai-ming",
+      "name": "CHEUNG, Wai Ming",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "cwming@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Higher Education Studies",
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Chinese Language and Literature Education",
+        "Curriculum and Instruction",
+        "Literacies and Languages",
+        "Teacher Education and Development",
+        "University-School Partnerships"
+      ],
+      "methodology": "qualitative",
+      "publication_count": 61,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Progress in International Reading Literacy Study (PIRLS 2006) (2004). Research Team Member. (PI: Prof Tse Shek-kam) EMB Tender Project, Funded by Education Bureau, HKSAR Government, completed. HK$4,990,000.",
+        "Revamping Teaching Practices of Hong Kong Teachers through Reflective “Parallel Lessons” (2006). Subject Specialist. Funded by Quality Education Fund, completed.",
+        "A Three Year Follow-up Study of English and Chinese Reading Literacy at Primary 4 in Hong Kong and Strategies for Enhancing the Quality of the Teaching and Learning of Reading (2006). Research Team Member. (PI: Prof Tse Shek-kam) Funded by Hong Kong Research Grants Council CERG, in progress. HK$676,500 (RGC project code: HKU 7449/06H)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "​I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cwming",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/cwming",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp00896",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-fung-daniel-k-t",
+      "name": "FUNG, Daniel K. T.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "ktdfung@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Assessment & Evaluation",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Curriculum and Instruction",
+        "English Language Education",
+        "Teacher Education and Development",
+        "Bilingualism and Multilingualism",
+        "Assessment",
+        "Testing and Measurement"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 55,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Fung, D., & Lo, Y. Y. (2025). Teacher input prompts and student listening strategies in EMI classes. ELT Journal, ccaf021.https://doi.org/10.1093/elt/ccaf021",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Fung, D. (2025). Teacher feedback in EMI classroom interaction. In M. M. Gu, Y. Liu, & & C. F. Huang (Eds.), Re-envisioning English-Medium Instruction in K-12 schools: Policy, Research and Practice (pp. 107-121). Springer Cham. https://doi.org/10.1007/978-3-031-83002-0",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Chung, E., Fung, D. & Wan, A. (2025). A mixed-methods study of strategy use in academic vocabulary learning among first-year undergraduates in Hong Kong. Journal of English for Academic Purposes, 74, 101482. https://doi.org/10.1016/j.jeap.2025.101482",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Chung, E., Fung, D. & Wan, A. (2025). Learner beliefs about vocabulary teaching in secondary ESL classrooms: a proficiency and grade-level analysis. International Review of Applied Linguistics in Language Teaching. https://doi.org/10.1515/iral-2024-0186",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Xin, J. J., Fung, D., & Tavares, N. J. (2025). The 4Cs in action: evaluating language-driven CLIL materials for holistic learning experiences. The Language Learning Journal, 1–20. https://doi.org/10.1080/09571736.2025.2494017",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Listening strategy literacy of L2 English language teachers: An exploratory study of teachers’ knowledge about listening strategies and practice of strategy instruction (HK$476,440), General Research Fund (Ref. 17621624), Research Grants Council, 2025-26 [PI]",
+        "A multivariate longitudinal study on the listening problems and listening strategies of first-year tertiary EMI students (HK$639,350), General Research Fund (Ref. 18606223), Research Grants Council, 2024-25 [PI]",
+        "Learning to listen in EMI: The effects of strategy instruction on strategic behaviour and learner uptake (HK$975,180), Early Career Scheme (Ref. 28616722), Research Grants Council, 2023-25 [PI]"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ktdfung",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/ktdfung",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-green-clarence-g",
+      "name": "GREEN, Clarence G.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "cgreen@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Learning Sciences",
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "English Language Education",
+        "Learning Sciences",
+        "Data Sciences and Digital Humanities",
+        "Language Processing and Dyslexia",
+        "Literacies and Languages"
+      ],
+      "methodology": "mixed",
+      "publication_count": 35,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Green, C. (2025). Multi-word expressions occur infrequently in picturebooks: Implications for early vocabulary instruction. Literacy Research and Instruction. Advance online publication. https://doi.org/10.1080/19388071.2025.2469068",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Green, C., & Coxhead, A. (2025). The Vocabulary Teachers' Competencies (VTC) framework: The core knowledge, skills and professional capabilities that support effective vocabulary instruction. Literacy. https://doi.org/10.1111/lit.70016",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Green, C., & Giblin, I. (2025). An empty systematic review of the ‘pedagogy of multiliteracies’ in K-12 since 1996: A generation later, evidence it improves literacy outcomes is lacking from (quasi-)experimental classroom interventions. Review of Education, 13(3), e70118. https://doi.org/10.1002/rev3.70118",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Green, C., Kong, A., Brysbaert, M., & Keogh, K. (2025). Crowdsourced and AI-generated age-of-acquisition (AoA) norms for vocabulary in print: Extending the Kuperman et al. (2012) norms. Behavior Research Methods, 57. https://doi.org/10.3758/s13428-025-02843-8",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Green, C., & Sun, H. (2025). Picturebooks increase the frequency and diversity of emotion vocabulary in children’s language environments: Modeling potential benefits to emotional literacy, with pedagogical resources. Early Education and Development, 36(3), 568-586. https://doi.org/10.1080/10409289.2024.2423259",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Funded Research Grants",
+        "2024–2026 (ongoing) Role: Principal Investigator Title: Development of a State-of-the-Art Vocabulary Resource and Lexical Syllabus Framework to Support English Language Learning and Teaching across the Primary Grades Funder: General Research Fund (GRF), Research Grants Council, Hong Kong Grant Number: REF: 17614624 Amount: HK$321,175",
+        "2024–2025 Role: Principal Investigator Title: A crowdsourcing megastudy for the development of a new Age-of-Acquisition database for English literacy research, pedagogy, and educational psychology Funder: Faculty Research Fund and URC Seed Fund, University of Hong Kong Amount: HK$210,000"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cgreen",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/cgreen",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-lai-chun",
+      "name": "LAI, Chun",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "laichun@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Learning Sciences",
+        "Curriculum & Instruction",
+        "Digital Education",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Self-directed language learning with technology",
+        "Technology-enhanced language teaching",
+        "language learning beyond the classroom",
+        "Technology-enhanced Learning",
+        "English Language Education",
+        "Teaching Chinese as a Second/Foreign Language"
+      ],
+      "methodology": "mixed",
+      "publication_count": 97,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Reinders, H., Lai, C. & Sundqvist, P. (2022). The Routledge Handbook of Language Learning and Teaching Beyond the Classroom. Routledge.",
+          "year": 2022,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Lai, C. (2023). Insights into Autonomy and Technology in Language Teaching. Castledown Publishers.",
+          "year": 2023,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Guo, K., Pan, M. R., Li, Y. K., & Lai, C. (2024). Effects of an AI-supported approach to peer feedback on university EFL students' feedback quality and writing ability. Internet and Higher Education.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Pan, M. R., Guo, K. & Lai, C. (2024). using AI chatbots to support EFL students' self-regulated reading. RELC Journal.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "The Relationship between Learners’ Out-of-Class Autonomous Technology-Enhanced Language Learning and Their Vocabulary Knowledge. Principal Investigator. RGC-funded project (2018-2021) HK$593,321",
+        "Supporting Ethnic Minority Students' Chinese Language Learning through Enhancing Extramural Chinese Social Media Use. Principal Investigator. SCOLAR project (2018-2020) HK$2,211,832",
+        "Understanding the Relationship of Language Teacher Identity with Their Technology Integration for Instruction. Principal Investigator. Seed Funding Programme for Basic Research, HKU (2018-2020)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/laichun",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/laichun",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/rp/rp00916",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-lam-wai-ip",
+      "name": "LAM, Wai Ip",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "jwilam@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Digital Education",
+        "Assessment & Evaluation",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Chinese Language and Literature Education",
+        "Curriculum and Instruction",
+        "Literacies and Languages",
+        "Teacher Education and Development",
+        "Teaching Chinese as a Second/Foreign Language"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 298,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Hu, X., Tan, C.L., Lim, K.H., Lam, W.I. and Tse, S.K. (2021). Evaluation and Methodology of Modern Bilingual Reading Ability: Starting from the experience of Singapore and Hong Kong.《現代雙語閱讀能力發展的評估與方法——從新加坡和香港的經驗出發》Beijing: 光明日報出版社 (Written in Chinese.)",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Tse, S.K., Lam, W.I. and Ng, H.W. (2021). The first in the world: The Performance of Hong Kong Primary 4 Pupils in PIRLS 2011. 《全球第⼀：⾹港兒童閱讀能⼒進展》Hong Kong: Faculty of Education, The University of Hong Kong. (Written in Chinese.)",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Lam, W.I. (2021). We Play Together: Parent Guide (K1:1). 《我們一起玩》。Hong Kong: The Hong Kong Jockey Club Charities Trust. (Written in Chinese.)",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Lam, W.I. (2021). Class is Over: Parent Guide (K1:2). 《放學了》。Hong Kong: The Hong Kong Jockey Club Charities Trust. (Written in Chinese.)",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Lam, W.I. (2021). School Trip: Parent Guide (K1:3). 《旅行》。Hong Kong: The Hong Kong Jockey Club Charities Trust. (Written in Chinese.)",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "(1) Funded Projects as Principal Investigator",
+        "In Progress (total: HK$ 13,030,578)",
+        "Lam, W.I. and Hui, S.Y.."
+      ],
+      "phd_supervisor_status": "not_accepting",
+      "doctoral_program": "not_verified",
+      "supervision_notes": "I am not taking on graduate supervision in 2026-2027.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jwilam",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/jwilam",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp00917",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-lin-chin-hsi",
+      "name": "LIN, Chin-Hsi",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "chinhsi@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Learning Sciences",
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "Chinese Language and Literature Education",
+        "Learning Sciences",
+        "Literacies and Languages",
+        "Motivation",
+        "Teaching Chinese as a Second/Foreign Language",
+        "Technology-enhanced Learning"
+      ],
+      "methodology": "mixed",
+      "publication_count": 49,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Deng, L., Shi, C., Lin, C.-H., & Sun, Z. (2021). Analysis of teachers’ practical knowledge based on ENA: Taking the teacher learning community in the mobile social environment as an example (基于 ENA 的教师实践性知识分析* ——以移动社交环境中的教师学习共同体为例). Modern Educational Technology (现代教育技术), 31(4), 65-72.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Chen, J., Lin, C.-H.*, and Chen, G. (2021). A cross-cultural perspective on the relationships among social media use, self-regulated learning and adolescents’ digital reading literacy. Computers & Education, 173, 1-15. https://doi.org/10.1016/j.compedu.2021.104322",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "He, F., & Lin, C.-H.* (2021). Supporting online Chinese narrative writing pedagogy through metacognitive writing process and approach: A design-based research (应用元认知写作过程和方法支持在线华文记叙文写作课程的设计本位研究). Journal of Technology and Chinese Language Teaching, 12, 117-137. http://www.tclt.us/journal/abstractshow.php?id=125",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Sun, Z., Lin, C.-H.*, Lv, K., & Song, J. (2021). Knowledge-construction behaviors in a mobile serious game: A lag-sequential analysis of group differences. Educational Technology Research and Development, 69, 533-551. doi: 10.1007/s11423-021-09938-x",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Zhang, Y., & Lin, C.-H. (2021). Effects of community of inquiry, learning presence, and mentor presence on K-12 online learning outcomes. Journal of Computer Assisted Learning, 37, 782-796. https://doi.org/10.1111/jcal.12523",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "2021-2022 PI (Co-I: Dr. Sau Yan Hui), Promoting Pre-service Teachers’ Competencies of Teaching Chinese Reading Online. Funding from UGC Initiatives for Virtual Teaching and Learning.",
+        "2021-2022 PI (Co-I: Dr. Sau Yan Hui), Facilitating Peer Review and Reflection through Technology. Funding from HKU Teaching Development Grant.",
+        "2020-2022 Co-I (PI: Drs. Sau Yan Hui and Wai Ming Cheung), Empowerment and Transition – Supporting Teachers to Promote Multicultural Students’ Chinese Learning in Primary and Secondary Schools (賦權授能.銜接向上 ─ 支援中小學教師提升多元文化學生中文學習能力). Funding from Hong Kong Educational Bureau, EDB(SBPS)/NCS/1/5"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/chinhsi",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/chinhsi",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp02286",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-lo-yuen-yi",
+      "name": "LO, Yuen Yi",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": "yuenyilo@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Assessment & Evaluation",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Assessment",
+        "Testing and Measurement",
+        "Bilingualism and Multilingualism",
+        "English Language Education",
+        "Teacher Education and Development"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 94,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Lo, Y. Y., & Lin, A. M. Y. (Eds.) (2021). Teaching, Learning and Scaffolding in CLIL Science Classrooms. The Netherlands: Benjamins.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Xin, J. J., & Lo, Y. Y.* (2025). What constitutes CLIL teacher assessment literacy? Insights from CLIL researchers and teachers. Journal of Multilingual and Multicultural Development. doi:10.1080/01434632.2025.2507900",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Fung, D., & Lo, Y. Y. (2025). Teacher input prompts and student listening strategies in EMI classrooms. ELT Journal.doi:10.1093/elt/ccaf021",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Lee, J. H., Lee, H., & Lo, Y. Y. (2025). The effects of EMI-CLIL on language and content learning in primary education: A multi-level meta-analysis. Educational Research Review, 47, 100666. doi:10.1016/j.edurev.2025.100666",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Enhancing Multimodal Assessment Literacy of Teachers in Primary/Secondary Schools. Principal Investigator, Quality Education Fund (Thematic Network - Tertiary Institutes), The Education Bureau, HKSAR (2024-2025)",
+        "Multilingual and multimodal assessment in Content and Language Integrated Learning programmes. Principal Investigator, General Research Fund, Research Grants Council (2023-25)",
+        "Evaluation Study on the Implementation of the Fine-tuned Medium of Instruction Arrangements for Secondary Schools. Principal Investigator, The Education Bureau, HKSAR (Education Commission and Planning Division) (2022-2025)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/yuenyilo",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp01635",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-loh-elizabeth-k-y",
+      "name": "LOH, Elizabeth K. Y.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "ekyloh@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Curriculum & Instruction",
+        "Digital Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Teaching Chinese as a Second/Foreign Language",
+        "Chinese Language and Literature Education",
+        "Technology-enhanced Learning",
+        "Motivation"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 66,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Lo Bianco, J., Loh, E.K.Y., & Shum, M.S.K. (Eds.). (2024). Supporting students learning Chinese as a second language. Springer.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Start from the Beginning — Chinese Supporting Scheme for Non-Chinese Speaking Students (Stage III): A Pay-for-Success Scale-up Project (2020-2023); Principal investigator; Social Innovation and Entrepreneurship Development Fund (SIE) Fund, Oxfam Hong Kong, Wu Jieh Yee Charitable Foundation, Lee Hyson Charitable Foundation, and The Stan Group; HKD19,931,927; in progress.",
+        "Chinese Enrichment Project for Non-Chinese Speaking Student (2020-2023); Principal investigator; BOCHK Centenary Charity; HKD11,124,055; in progress.",
+        "Harmony in language diversity: Innovative pedagogy to enable second language learning for underprivileged students (2019-2020); Principal investigator; Social Innovation and Entrepreneurship Development Fund (SIE) Fund, UBS Optimus Foundation, and Kadoorie Charitable Foundation; HK$2,448,275; completed."
+      ],
+      "phd_supervisor_status": "not_accepting",
+      "doctoral_program": "not_verified",
+      "supervision_notes": "I am not taking on graduate supervision in 2026-2027.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ekyloh",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/ekyloh",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp01361",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-mirhosseini-seyyed-abdolhamid",
+      "name": "MIRHOSSEINI, Seyyed-Abdolhamid",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "mirhosseini@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Philosophy of Education"
+      ],
+      "keywords": [
+        "Sociopolitics of English Language Education",
+        "Qualitative Research Methodology",
+        "Critical Studies of Discourse in Society"
+      ],
+      "methodology": "qualitative",
+      "publication_count": 113,
+      "recent_publications_last_5_years": [
+        {
+          "title": "● Mirhosseini, S. A. & De Costa, P. (Eds.) (2025). Critical English medium instruction in higher education. Cambridge: Cambridge University Press.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "● Preschool English-medium education in Hong Kong: Policies, practices, and perspectives. Hong Kong Research Grants Council, General Research Fund (GRF), 2025-2027. (Principal Investigator)",
+        "● Impact of GenAI-assisted multimodal composing on underprivileged ethnic minority English learners’ critical digital literacies: A longitudinal narrative inquiry. Hong Kong Research Grants Council, General Research Fund (GRF), 2025-2027. (Co-Investigator)",
+        "● Preparing preservice language teachers to teach digital literacies: A qualitative case study in Hong Kong. Hong Kong Research Grants Council, General Research Fund (GRF), 2024-2026. (Co-Investigator)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/mirhosseini",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-tai-chung-pui",
+      "name": "TAI, Chung Pui",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "cptai@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Philosophy of Education"
+      ],
+      "keywords": [
+        "Teaching Chinese as a First Language",
+        "Teaching Chinese as a Second/Foreign Language",
+        "History of Education in Hong Kong",
+        "Tangut",
+        "Zhuang",
+        "Chinese Language and Literature Education",
+        "Diversity",
+        "Ethnicity and Identity",
+        "Literacies and Languages"
+      ],
+      "methodology": "qualitative",
+      "publication_count": 135,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Tai Chung-pui, and Zaytsev, Viacheslav P. (2024). \"Dharmodayā as Recorded in the Tangut Fragment with Tibetan Phonetic Glosses Tang. 1075/Fr. 5(10) from the Russian Collection\", Tangut Research, 2024.3: 26-33.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "戴忠沛、维 • 彼 • 扎伊采夫 (2024).「俄藏附有藏文注音西夏文殘片Tang. 1075/Fr.5(10) 所記的法生宮」,《西夏研究》2024 年第 3 期，第 26-33 頁。",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Tai Chung-pui, and Zaytsev, Viacheslav P. (2024). \"Tibetan Buddhism practice of the great seal (mahāmudrā) as recorded in Tangut fragments with Tibetan phonetic glosses: an annotated sentence-based reading of Tang. 1075/Fr. 6(11)\". in Sergey V. Dmitriev (ed.) Тангутская и китайская филология. К юбилею М. В. Софронова / Tangut and Chinese Philology. To the Anniversary of M. V. Sofronov. Moscow: Institute of Oriental Studies of the Russian Academy of Sciences, 363-395.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Tai Chung-pui (2023). \"Taiwan Plains Austronesian Latin scripts and documents from the seventeenth to the nineteenth century: a bibliographical survey\", Journal of Chinese Writing Systems, 7.4: 213-262.",
+          "year": 2023,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Zaytsev, Viacheslav P., and Tai Chung-pui (2023). \"Nikolai Nevsky, Ishihama Juntarō, and the lost ‘extended manual’ of Tangut characters with Tibetan phonetic glosses\", Written Monuments of the Orient, 9.S1: 18-48.",
+          "year": 2023,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Co-investigator, “Eliciting evidence from multimodel assessment in experiential learning: An investigation on the success factots of the development of professional identity among pre-service teachers\", Teaching Development Grant, The University of Hong Kong (on-going). (Principal Investigator: Ms Ng Hiu-lam).",
+        "Principal Investigator, “Reconstructing the pronunciation of Tangut characters: on the basis of 12th and 13th centuries manuscripts”, General Research Fund, Hong Kong Research Grants Council (on-going).",
+        "Principal Investigator, “Cross-boundary Hegemony over Schooling: Republican China-registered Secondary Schools in British Hong Kong, 1928-1949”, Early Career Scheme, Hong Kong Research Grants Council (on-going)."
+      ],
+      "phd_supervisor_status": "not_accepting",
+      "doctoral_program": "not_verified",
+      "supervision_notes": "I am not taking on graduate supervision in 2026-2027.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/cptai",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/cptai",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp01906",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-tsui-amy-b-m",
+      "name": "TSUI, Amy B. M.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Language and Literacy Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Emeritus Professor",
+      "email": "bmtsui@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Higher Education Studies",
+        "Education Policy",
+        "Curriculum & Instruction",
+        "Sociology of Education"
+      ],
+      "keywords": [
+        "Bilingualism and Multilingualism",
+        "Educational Policy",
+        "English Language Education",
+        "Teacher Education and Development",
+        "University-School Partnerships"
+      ],
+      "methodology": "mixed",
+      "publication_count": 169,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Tsui, A.B.M. & Macaro, E. (Eds.) (2025). Language Issues in English Medium Instruction: Theoretical Orientations and Cases from Disciplinary Practitioners. Routledge.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Research and Development Projects",
+        "1 Project Title L2 Classroom Talk and Subject Content Learning: Investigating the relationship between L2 (English) learning and content learning in EMI mathematics and science classrooms",
+        "Year and duration 2015 - 2018"
+      ],
+      "phd_supervisor_status": "not_accepting",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am not accepting any further PhD/EdD/MPhil applications.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/language-and-literacy-education",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/bmtsui",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/bmtsui",
+        "https://web.edu.hku.hk/unit/language-and-literacy-education",
+        "http://hub.hku.hk/cris/rp/rp00062",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-bakhtiar-mehdi",
+      "name": "BAKHTIAR, Mehdi",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Human Communication, Learning, and Development",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "mbakht@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation",
+        "Special Education"
+      ],
+      "keywords": [
+        "Fluency Disorders",
+        "Neurogenic Communication Disorders"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 25,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Bakhtiar, M., & Eggers, K. (2023). Exogenous verbal response inhibition in adults who do and do not stutter. Journal of Fluency Disorders, 75, 105957. doi: 10.1016/j.jfludis.2022.105957",
+          "year": 2023,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Shao, J., Bakhtiar, M., & Zhang, C. (2022). Impaired Categorical Perception of Speech Sounds Under the Backward Masking Condition in Adults Who Stutter. Journal of Speech, Language, and Hearing Research, 65(7), 2554–2570. https://doi.org/10.1044/2022_jslhr-21-00276",
+          "year": 2022,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Bakhtiar, M., Zhang, Y., & Chen, S. (2022). Rhythm of Cantonese Stuttering Speech. In In Proceedings of Speech Prosody 2022, Lisbon, Portugal.",
+          "year": 2022,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Momenian, M., Lau, K.-Y. D., & Bakhtiar, M. (2022). Developing psycholinguistic norms for action pictures in Cantonese. Applied Neuropsychology: Adult, 1–8. https://doi.org/10.1080/23279095.2022.2037596",
+          "year": 2022,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Zhang, Y., Pattamadilok, C., Lau, D. K. Y., Bakhtiar, M., Yim, L.-Y., Leung, K.-Y., and Zhang, C. (2021). Early auditory ERPs are modulated by alphabetic literacy skills in logographic Chinese readers.Frontiers in Psychology, 12:663166.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Bilingualism and Stuttering: The project will investigate the manifestation, identification and treament of stuttering in Cantonese-English speaking bilinguals.",
+        "Neuromodulation and Fluency disorders or neurogenic communication disorders : These projects delve into the implementation of neuromodulation techniques, such as transcranial magnetic stimulation (TMS) and/or transcranial electrical stimulation (tES), to improve our understanding of the underlying mechanisms of fluency disorders and other neurogenic communication disorders, as well as their potential for intervention among these clinical population."
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/mbakht",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/mbakht",
+        "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-chan-karen-m-k",
+      "name": "CHAN, Karen M. K.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Human Communication, Learning, and Development",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "karencmk@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Educational Psychology",
+        "Digital Education",
+        "Assessment & Evaluation",
+        "Special Education"
+      ],
+      "keywords": [
+        "Assessment",
+        "Testing and Measurement",
+        "Communication Sciences and Disorders",
+        "Neuroscience and Learning",
+        "Speech and Hearing Sciences",
+        "Technology-enhanced Learning"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 97,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Pu, D., Choi, YY., Chan, KMK., Poon, M. (2021). Modifying Puree Meals in Residential Aged Care Facilities: A Multi-Centre Feasibility and Acceptability Study. Geriatrics.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Pu, D., Wong, M., Yiu, EML., Chan, KMK. (2021). Profiles of polypharmacy in older adults and medication associations with signs of aspiration. Expert Review of Clinical Pharmacology.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Pu, D., Lee, VHF., Chan, KMK., Yuen, MTY., Quon, H., Tsang, RKY. (2021). The relationships between radiation dosage and long-term swallowing kinematics and timing in nasopharyngeal carcinoma survivors. Dysphagia.",
+          "year": 2021,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Principal investigator",
+        "2018: Pre-treatment and In-treatment Swallowing Therapy To Reduce Swallowing Dysfunction In Nasopharyngeal Carcinoma Patients Treated With Radiotherapy, External Grant ($1,121,020)",
+        "2015: Speech and swallowing functions in 3 to 5 years post-treatment nasopharyngeal cancer survivors, External Grant ($800,008)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/karencmk",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/karencmk",
+        "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+        "http://hub.hku.hk/cris/rp/rp00893",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-chan-stephanie-w-y",
+      "name": "CHAN, Stephanie W. Y.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Human Communication, Learning, and Development",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "swychan@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Learning Sciences",
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Sociology of Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Child Development",
+        "Early Childhood Education",
+        "Literacies and Languages",
+        "Bilingualism and Multilingualism",
+        "Assessment",
+        "Testing and Measurement"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 52,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Chan, S. W. Y., Wang, R., & *Liu, J. (2026). Adult reports and direct assessments of preschoolers' executive function: Patterns of convergence and divergence. Psychological Assessment. https://doi.org/10.1037/pas0001480",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Chan, S. W. Y., & Rao, N. (2026) Socioeconomic gradients in early Chinese language and literacy and numeracy: The role of executive function. Early Childhood Education Journal. https://doi.org/10.1007/s10643-026-02211-x",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "*Zhao, L., Chan, S. W. Y., & Dong, S. (2026). Development of working memory through childhood: The interplay of family socioeconomic status and parenting behaviors. Learning and Individual Differences.",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "https://doi.org/10.1016/j.lindif.2026.102925",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Rao, N., Jiang, Y., Chan, S. W. Y., Lee, D., Liu, J., Wang, R., Lau, C., & Ng, R. (2026). Documenting Socioeconomic Disparities in Early Development and Learning: A Multi-Method Approach. Early Childhood Education Journal, 54, 4029–4043. https://doi.org/10.1007/s10643-026-02155-2",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Promoting Language Development in Hong Kong Kindergartens: A Review of Policy and School-based Curriculum (2025). Principal Investigator. Funded by Faculty of Education, The University of Hong Kong.",
+        "Consultancy Services for the Development and Evaluation of Development Assessment Chart-2 (DAC-2). (2025-2028). Principal Investigator. Funded by Heep Hong Society.",
+        "Research study on Effectiveness of Parent-Teacher Associations (2025-2026). Co-investigator. Funded by Hong Kong Education Bureau."
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/swychan",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/swychan",
+        "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+        "http://hub.hku.hk/cris/rp/rp02781",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-chen-jinsong",
+      "name": "CHEN, Jinsong",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Human Communication, Learning, and Development",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "jinsong@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "AI in Education",
+        "Educational Psychology",
+        "Digital Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Research Methods and Methodologies",
+        "Assessment",
+        "Testing and Measurement",
+        "Data Sciences and Digital Humanities",
+        "Educational Psychology"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 42,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Jin, Y., & *Chen, J. (2026). Comparing Bayesian Regularized Methods in Q-Matrix Inference Within the Partially Confirmatory Cognitive Diagnosis Modeling Framework. Journal of Educational and Behavioral Statistics, 10769986251414886.",
+          "year": 2026,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Chen, S., Zhao, Z., & *Chen, J. (2025). Each to Their Own: Exploring the Optimal Embedding in RAG. arXiv preprint arXiv:2507.17442.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Chen, J. (2025). Documents Are People and Words Are Items: A Psychometric Approach to Textual Data with Contextual Embeddings. arXiv preprint arXiv:2509.08920.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Jin, Y., & *Chen, J. (2025). Regularized Variational Bayesian Approximations for Variable Selection in Multiple-Indicators Multiple-Causes Models.Multivariate Behavioral Research, 1-19 (online first). DOI: 10.1080/00273171.2025.2483253.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Jin, Y., & *Chen, J. (2024). Regularized Variational Approximation for Partially Confirmatory Factor Analysis. Structural Equation Modeling: A Multidisciplinary Journal, 1-13 (online first). DOI: 10.1080/10705511.2024.2432612.",
+          "year": 2024,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Title: Developing a Psychometric Approach to Analyze Textual Data with LLMs for Educational Purposes",
+        "Source: RGC General Research Fund (GRF)",
+        "Period: Jan. 2026 – June 2027"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/EdD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/EdD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/jinsong",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/jinsong",
+        "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+        "http://hub.hku.hk/cris/rp/rp02740",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hku-cheng-ivy-k-y",
+      "name": "CHENG, Ivy K. Y.",
+      "university": "The University of Hong Kong",
+      "faculty_school": "Faculty of Education",
+      "department": "Academic Unit of Human Communication, Learning, and Development",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "ikycheng@hku.hk",
+      "personal_homepage_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+      "department_homepage_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": "QS Education 2026: 5th globally; THE Education 2026: 7th globally (HKU Faculty page)",
+      "research_fields": [
+        "Educational Psychology",
+        "Special Education"
+      ],
+      "keywords": [
+        "Swallowing neurophysiology",
+        "Swallowing disorders (dysphagia)",
+        "Neuromodulation",
+        "Neurorehabilitation",
+        "Evidence synthesis",
+        "Speech and Hearing Sciences",
+        "Communication Sciences and Disorders",
+        "Health and Health Professions Education"
+      ],
+      "methodology": "quantitative",
+      "publication_count": 36,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Cheng I, Li W-q, Hamdy S, Michou E, Huckabee M-L, Tomsen N, Clavé P, Dziewas R. Brainstem stroke and dysphagia treatment: the role of neuromodulation, skill-based swallowing training and transient receptor potential agonists. Journal of Audiology Research. 2025 Nov; 15(6), 1-23.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Li W-q, Cheng I, Sasegbon A, Dai M, Hamdy S. A systematic review and meta-analysis on the application of thickened liquids to treat adults with neurogenic dysphagia. Journal of Oral Rehabilitation. 2025 Jul; Epub ahead of print.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Dai M, Cheng I, Sasegbon A, Li W-q, Hamdy S. A meta-analysis and systematic review of the effects of sensory modulation treatments for neurogenic oropharyngeal dysphagia. CNS Neuroscience & Therapeutics. 2025 Jul; Epub ahead of print.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "†Cheng I, Rommel N, Duchac S, Regan J, Speyer R, Dziewas R. Understanding healthcare professional’s knowledge and practice regarding malnutrition and dysphagia: insights from Targeted Education to Address Malnutrition and Swallowing disorders (TEAMS) international survey. Nutrition. 2025 Jun;139: 112858",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Mari A, Calabrese F, Pasta A,...Cheng, I (2025), Esophageal and Oropharyngeal Dysphagia: Clinical Recommendations From the United European Gastroenterology and European Society for Neurogastroenterology and Motility. United European Gastroenterol J.",
+          "year": 2025,
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD/MPhil",
+      "supervision_notes": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile page."
+        },
+        "email": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Email read from official HKU profile mailto link."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty of Education profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU Faculty academic unit page."
+        },
+        "publication": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Publication count is the number of publication-like entries visible in the official HKU profile Publications section; SSCI/CSSCI indexing not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Status copied from the official Prospective PhD/EdD/MPhil Applications section."
+        },
+        "research_fields": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Mapped from official Areas and Research Expertise text. Methodology is conservatively classified from official method keywords."
+        },
+        "academic_title": {
+          "source_url": "https://web.edu.hku.hk/faculty-academics/ikycheng",
+          "checked_date": "2026-07-07",
+          "notes": "Official HKU profile title."
+        }
+      },
+      "source_urls": [
+        "https://web.edu.hku.hk/faculty-academics/ikycheng",
+        "https://web.edu.hku.hk/unit/human-communication-learning-and-development",
+        "https://web.edu.hku.hk/faculty-academics"
+      ],
+      "last_updated": "2026-07-07",
+      "verification_status": "verified"
+    }
+  ]
 }
