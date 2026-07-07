@@ -1,0 +1,271 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sfedszef.github.io/phd-education-intelligence-system/schema/supervisor.schema.json",
+  "title": "PEIS Supervisor Database Schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "last_updated",
+    "data_policy",
+    "record_identity",
+    "verification_status_enum",
+    "evidence_policy",
+    "supervisors"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "last_updated": {
+      "$ref": "#/$defs/date"
+    },
+    "schema_url": {
+      "type": "string"
+    },
+    "data_policy": {
+      "type": "object"
+    },
+    "record_identity": {
+      "type": "object",
+      "required": ["primary_key", "format", "stability_rule"],
+      "properties": {
+        "primary_key": { "const": "supervisor_id" },
+        "format": { "type": "string" },
+        "stability_rule": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "verification_status_enum": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/verificationStatus"
+      },
+      "uniqueItems": true,
+      "minItems": 4
+    },
+    "evidence_policy": {
+      "type": "object"
+    },
+    "supervisors": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/supervisor"
+      },
+      "uniqueItems": true
+    }
+  },
+  "$defs": {
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "nullableString": {
+      "type": ["string", "null"]
+    },
+    "url": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "email": {
+      "type": ["string", "null"],
+      "format": "email"
+    },
+    "methodology": {
+      "enum": ["qualitative", "quantitative", "mixed", "not_verified"]
+    },
+    "verificationStatus": {
+      "enum": ["draft", "verified", "needs_review", "outdated"]
+    },
+    "evidenceEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_url", "checked_date"],
+      "properties": {
+        "source_url": {
+          "$ref": "#/$defs/url"
+        },
+        "checked_date": {
+          "type": ["string", "null"],
+          "pattern": "^(\\d{4}-\\d{2}-\\d{2})$"
+        },
+        "notes": {
+          "$ref": "#/$defs/nullableString"
+        }
+      }
+    },
+    "publication": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "year", "source_url"],
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "year": { "type": ["integer", "null"], "minimum": 1900 },
+        "source_url": { "$ref": "#/$defs/url" },
+        "journal": { "$ref": "#/$defs/nullableString" },
+        "indexing": {
+          "type": "array",
+          "items": {
+            "enum": ["SSCI", "CSSCI", "Q1", "Q2", "Q3", "Q4", "not_verified"]
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "supervisor": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "supervisor_id",
+        "name",
+        "university",
+        "faculty_school",
+        "department",
+        "country",
+        "region",
+        "academic_title",
+        "email",
+        "personal_homepage_url",
+        "department_homepage_url",
+        "university_tier",
+        "education_discipline_ranking_level",
+        "research_fields",
+        "keywords",
+        "methodology",
+        "publication_count",
+        "recent_publications_last_5_years",
+        "SSCI_publications",
+        "CSSCI_publications",
+        "major_research_projects",
+        "phd_supervisor_status",
+        "doctoral_program",
+        "supervision_notes",
+        "evidence",
+        "source_urls",
+        "last_updated",
+        "verification_status"
+      ],
+      "properties": {
+        "supervisor_id": {
+          "type": "string",
+          "pattern": "^sup-[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "university": {
+          "type": "string",
+          "minLength": 1
+        },
+        "faculty_school": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "department": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "country": {
+          "type": "string",
+          "minLength": 1
+        },
+        "region": {
+          "enum": ["Hong Kong", "Mainland China", "Global", "not_verified"]
+        },
+        "academic_title": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "email": {
+          "$ref": "#/$defs/email"
+        },
+        "personal_homepage_url": {
+          "$ref": "#/$defs/url"
+        },
+        "department_homepage_url": {
+          "$ref": "#/$defs/url"
+        },
+        "university_tier": {
+          "enum": ["Hong Kong", "Mainland China", "Global", "Unknown"]
+        },
+        "education_discipline_ranking_level": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "research_fields": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "keywords": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "methodology": {
+          "$ref": "#/$defs/methodology"
+        },
+        "publication_count": {
+          "type": ["integer", "null"],
+          "minimum": 0
+        },
+        "recent_publications_last_5_years": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/publication" }
+        },
+        "SSCI_publications": {
+          "type": ["integer", "null"],
+          "minimum": 0
+        },
+        "CSSCI_publications": {
+          "type": ["integer", "null"],
+          "minimum": 0
+        },
+        "major_research_projects": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "phd_supervisor_status": {
+          "enum": ["confirmed", "likely", "not_verified", "not_accepting"]
+        },
+        "doctoral_program": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "supervision_notes": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "evidence": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "email",
+            "personal_homepage_url",
+            "department_homepage_url",
+            "publication",
+            "phd_supervisor_status"
+          ],
+          "properties": {
+            "name": { "$ref": "#/$defs/evidenceEntry" },
+            "email": { "$ref": "#/$defs/evidenceEntry" },
+            "personal_homepage_url": { "$ref": "#/$defs/evidenceEntry" },
+            "department_homepage_url": { "$ref": "#/$defs/evidenceEntry" },
+            "publication": { "$ref": "#/$defs/evidenceEntry" },
+            "phd_supervisor_status": { "$ref": "#/$defs/evidenceEntry" },
+            "research_fields": { "$ref": "#/$defs/evidenceEntry" },
+            "academic_title": { "$ref": "#/$defs/evidenceEntry" }
+          }
+        },
+        "source_urls": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri" },
+          "uniqueItems": true
+        },
+        "last_updated": {
+          "$ref": "#/$defs/date"
+        },
+        "verification_status": {
+          "$ref": "#/$defs/verificationStatus"
+        }
+      }
+    }
+  }
+}
