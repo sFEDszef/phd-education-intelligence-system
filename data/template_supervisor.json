@@ -1,6 +1,7 @@
 {
   "_data_entry_rules": {
     "purpose": "Copy this object into data/supervisors.json under the supervisors array after verification.",
+    "schema": "schema/supervisor.schema.json",
     "required_verification": [
       "Official university profile or faculty directory page for name, title, school, department, email, and homepage.",
       "Official department or programme page for doctoral supervision status and doctoral programme eligibility.",
@@ -13,30 +14,73 @@
       "The doctoral supervision status is inferred without evidence."
     ]
   },
-  "id": "sup-YYYY-UNIVERSITY-SLUG-001",
-  "name": null,
-  "university": null,
+  "supervisor_id": "sup-country-or-region-university-slug-person-slug",
+  "name": "",
+  "university": "",
   "faculty_school": null,
   "department": null,
+  "country": "",
+  "region": "Hong Kong",
   "academic_title": null,
   "email": null,
   "personal_homepage_url": null,
   "department_homepage_url": null,
-  "region": "Hong Kong | Mainland China",
-  "university_tier": "Hong Kong | Mainland China | Global | Unknown",
+  "university_tier": "Unknown",
   "education_discipline_ranking_level": null,
   "research_fields": [],
   "keywords": [],
-  "methodology": "qualitative | quantitative | mixed | not_verified",
+  "methodology": "not_verified",
   "publication_count": null,
   "recent_publications_last_5_years": [],
   "SSCI_publications": null,
   "CSSCI_publications": null,
   "major_research_projects": [],
-  "phd_supervisor_status": "confirmed | likely | not_verified | not_accepting",
+  "phd_supervisor_status": "not_verified",
   "doctoral_program": null,
   "supervision_notes": null,
+  "evidence": {
+    "name": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "email": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "personal_homepage_url": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "department_homepage_url": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "publication": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "phd_supervisor_status": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "research_fields": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    },
+    "academic_title": {
+      "source_url": null,
+      "checked_date": null,
+      "notes": null
+    }
+  },
   "source_urls": [],
   "last_updated": "YYYY-MM-DD",
-  "verification_status": "draft | verified | needs_review"
+  "verification_status": "draft"
 }
