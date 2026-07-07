@@ -1,0 +1,42 @@
+{
+  "_data_entry_rules": {
+    "purpose": "Copy this object into data/supervisors.json under the supervisors array after verification.",
+    "required_verification": [
+      "Official university profile or faculty directory page for name, title, school, department, email, and homepage.",
+      "Official department or programme page for doctoral supervision status and doctoral programme eligibility.",
+      "Publication databases or official CV/profile for publication counts and SSCI/CSSCI counts.",
+      "Official university or education discipline source for university tier and education discipline ranking level."
+    ],
+    "do_not_publish_if": [
+      "The only source is memory, social media, AI-generated text, or an unverified third-party page.",
+      "The email, homepage, publications, or research interests cannot be traced to a source URL.",
+      "The doctoral supervision status is inferred without evidence."
+    ]
+  },
+  "id": "sup-YYYY-UNIVERSITY-SLUG-001",
+  "name": null,
+  "university": null,
+  "faculty_school": null,
+  "department": null,
+  "academic_title": null,
+  "email": null,
+  "personal_homepage_url": null,
+  "department_homepage_url": null,
+  "region": "Hong Kong | Mainland China",
+  "university_tier": "Hong Kong | Mainland China | Global | Unknown",
+  "education_discipline_ranking_level": null,
+  "research_fields": [],
+  "keywords": [],
+  "methodology": "qualitative | quantitative | mixed | not_verified",
+  "publication_count": null,
+  "recent_publications_last_5_years": [],
+  "SSCI_publications": null,
+  "CSSCI_publications": null,
+  "major_research_projects": [],
+  "phd_supervisor_status": "confirmed | likely | not_verified | not_accepting",
+  "doctoral_program": null,
+  "supervision_notes": null,
+  "source_urls": [],
+  "last_updated": "YYYY-MM-DD",
+  "verification_status": "draft | verified | needs_review"
+}
