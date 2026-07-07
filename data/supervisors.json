@@ -1,11 +1,34 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "last_updated": "2026-07-07",
+  "schema_url": "schema/supervisor.schema.json",
   "data_policy": {
     "purpose": "Verified public database of Education PhD supervisors for applicants.",
     "accuracy_rule": "Do not publish a supervisor record unless every factual field is supported by official university pages, supervisor pages, publication databases, or clearly cited authoritative sources.",
     "placeholder_rule": "No fake names, emails, webpages, publication counts, research interests, or supervision status are allowed.",
     "empty_value_rule": "Use null, an empty array, or 'not_verified' when a field has not yet been verified."
+  },
+  "record_identity": {
+    "primary_key": "supervisor_id",
+    "format": "sup-{country_or_region}-{university_slug}-{person_slug}",
+    "stability_rule": "Do not change supervisor_id after publication; update name/title fields separately if official profiles change."
+  },
+  "verification_status_enum": ["draft", "verified", "needs_review", "outdated"],
+  "evidence_policy": {
+    "required_for_verified": [
+      "name",
+      "university",
+      "academic_title",
+      "email",
+      "personal_homepage_url",
+      "department_homepage_url",
+      "publication",
+      "phd_supervisor_status"
+    ],
+    "evidence_shape": {
+      "source_url": "Official or authoritative source URL.",
+      "checked_date": "YYYY-MM-DD date when the field was last checked."
+    }
   },
   "supervisors": []
 }
