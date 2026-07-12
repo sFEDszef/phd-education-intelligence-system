@@ -1,6 +1,6 @@
 {
   "schema_version": "2.1.0",
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-13",
   "schema_url": "schema/supervisor.schema.json",
   "data_policy": {
     "purpose": "Verified public database of Education PhD supervisors for applicants.",
@@ -37960,6 +37960,2821 @@
         "https://www.polyu.edu.hk/edc/about-edc/people/"
       ],
       "last_updated": "2026-07-12",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-deng-liping-lisa",
+      "name": "Dr. DENG, Liping (Lisa)",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Social media in education",
+        "Personalized learning",
+        "Self-regulated learning",
+        "Online learning communities"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7732",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=7732",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-lam-c-k-ricky",
+      "name": "Dr. LAM, C K Ricky",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor, Department of Education and Psychology",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Assessment & Evaluation",
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "Digital writing portfolios",
+        "Language assessment",
+        "Assessment for learning",
+        "Feedback literacy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5788",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5788",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-li-siu-cheung-sandy",
+      "name": "Prof. Li, Siu Cheung Sandy",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor of Education and Psychology",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Learning analytics",
+        "Artificial intelligence in education",
+        "Ubiquitous learning",
+        "STEM education",
+        "Rasch measurement"
+      ],
+      "methodology": "quantitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5598",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5598",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-simon-patricia-d",
+      "name": "Dr. SIMON, Patricia D.",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Research Assistant Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Higher Education Studies",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Learning management systems",
+        "Student engagement",
+        "Virtual learning spaces",
+        "Environmental literacy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21502",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=21502",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-ku-y-l-kelly",
+      "name": "Prof. KU, Y L Kelly",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Assessment & Evaluation",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Critical thinking",
+        "Misinformation literacy",
+        "News media literacy",
+        "Teacher feedback literacy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5679",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5679",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-tsang-yiu-kei",
+      "name": "Prof. TSANG, Yiu Kei",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Word recognition",
+        "Language choice",
+        "Parental involvement",
+        "University student development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5325",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5325",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-chan-ying-ying-michelle",
+      "name": "Ms. CHAN, Ying Ying Michelle",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I and Head of Education Leadership and School Partnership Office",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Career curriculum",
+        "Workplace English",
+        "Classroom communication",
+        "Classroom management"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=17070",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=17070",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-sammy-k-ho",
+      "name": "Dr. Sammy K. Ho",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Teacher stress",
+        "Teacher burnout",
+        "Teacher engagement",
+        "Child and adolescent development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5780",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5780",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-lai-k-h-tony",
+      "name": "Mr. LAI, K H Tony",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation",
+        "Special Education",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "English language education",
+        "Assessment literacy",
+        "eAssessment",
+        "Adaptive learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5551",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5551",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-ma-lawrence-k-y",
+      "name": "Dr. MA, Lawrence K Y",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Educational Psychology",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Drama-based pedagogy",
+        "Psychology teaching",
+        "Scale validation",
+        "Active learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=21976",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=21976",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-ma-hing-keung",
+      "name": "Prof. MA, Hing Keung",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Philosophy of Education"
+      ],
+      "keywords": [
+        "Moral development",
+        "Moral education",
+        "Whole-person education",
+        "Adolescent prosocial behaviour"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7215",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=7215",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-leung-allen-y-l",
+      "name": "Prof. LEUNG, Allen Y L",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Dynamic geometry",
+        "STEM pedagogy",
+        "Mathematics task design",
+        "Lesson study"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=7209",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=7209",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-sivan-atara",
+      "name": "Prof. SIVAN, Atara",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Academy of Wellness and Human Development",
+      "department": "Department of Education and Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Visiting Professor",
+      "email": null,
+      "personal_homepage_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+      "department_homepage_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Teacher Education",
+        "Learning Sciences",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Leisure education",
+        "Youth development",
+        "Classroom environment",
+        "Learning communities"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in Education Studies; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "No individual email was published; a generic department address was not used."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://educ.hkbu.edu.hk/?page_id=20398",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://edpy.hkbu.edu.hk/?page_id=5664",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://edpy.hkbu.edu.hk/?page_id=5664",
+        "https://educ.hkbu.edu.hk/?page_id=20398",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-education-studies"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-lau-wing-chung-patrick",
+      "name": "Prof. LAU, Wing Chung, Patrick",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Department Chair and Professor",
+      "email": "wclau@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Special Education",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "School physical education",
+        "Active video games",
+        "Self-regulated learning",
+        "Intellectual disability"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/161/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-duan-yanping",
+      "name": "Prof. DUAN, Yanping",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor and Sport & Leisure Management Programme Director (Postgraduate)",
+      "email": "duanyp@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Classroom physical activity",
+        "Teacher implementation",
+        "Physical education pedagogy",
+        "School-based intervention"
+      ],
+      "methodology": "mixed",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official profile explicitly lists PhD supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile explicitly lists PhD supervision."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/145/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-kim-seungmo",
+      "name": "Prof. KIM, Seungmo",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor and Programme Director",
+      "email": "kimsm@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Higher Education Studies",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Physical education administration",
+        "Recreation management education",
+        "Physical education programme management"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/112/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-fung-wai-tung-ada",
+      "name": "Prof. FUNG, Wai Tung, Ada",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor and Director of Life Course Development Research Institute",
+      "email": "awtfung@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "Intergenerational digital literacy",
+        "Life-course development",
+        "Older-adult learning",
+        "Digital inclusion training"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/461/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-gao-yang-gemma",
+      "name": "Prof. GAO, Yang, Gemma",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "gaoyang@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Special Education",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "School-based intervention",
+        "Children with intellectual disability",
+        "Physical activity intervention"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official profile explicitly states that she is a PhD supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile explicitly states that she is a PhD supervisor."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/136/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-jiao-jiao-jojo",
+      "name": "Prof. JIAO, Jiao, Jojo",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "jojojiao@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Health literacy",
+        "Child and adolescent intervention",
+        "School health promotion",
+        "Learner well-being"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/478/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-huang-yajun-wendy",
+      "name": "Prof. HUANG, Yajun, Wendy",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Sport, Recreation and Human Performance",
+      "department": "School of Sport, Recreation and Human Performance",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor and Programme Director",
+      "email": "wendyhuang@hkbu.edu.hk",
+      "personal_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+      "department_homepage_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Special Education",
+        "Assessment & Evaluation",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "School-related sedentary behaviour",
+        "Children and adolescent physical activity",
+        "Special educational needs"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff_detail/119/",
+        "https://speh.hkbu.edu.hk/en/people/academic_and_teaching_staff/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-chor-winnie-oi-wan",
+      "name": "Dr. CHOR, Winnie Oi Wan",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Faculty of Arts and Social Sciences",
+      "department": "Department of English Language and Literature",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor and Programme Director",
+      "email": "wowchor@hkbu.edu.hk",
+      "personal_homepage_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+      "department_homepage_url": "https://eng.hkbu.edu.hk/en/people.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Cantonese second-language teaching",
+        "Second-language learning",
+        "Language pedagogy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "HKBU MPhil/PhD in English Language and Literature; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "Official profile welcomes research students and records PhD supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile welcomes research students and records PhD supervision."
+        },
+        "research_fields": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://eng.hkbu.edu.hk/en/people/academic-staff/chor-winnie-oi-wan.html",
+        "https://eng.hkbu.edu.hk/en/people.html",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-english-language-and-literature"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-he-angela-xiaoxue",
+      "name": "Dr. HE, Angela Xiaoxue",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Faculty of Arts and Social Sciences",
+      "department": "Department of English Language and Literature",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "angelahe-axh@hkbu.edu.hk",
+      "personal_homepage_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+      "department_homepage_url": "https://eng.hkbu.edu.hk/en/people.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "Language acquisition",
+        "Learning and memory",
+        "Psycholinguistics",
+        "Bilingual development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in English Language and Literature; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://eng.hkbu.edu.hk/en/people/academic-staff/he-angela-xiaoxue.html",
+        "https://eng.hkbu.edu.hk/en/people.html",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-english-language-and-literature"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-li-mingxing",
+      "name": "Dr. LI, Mingxing",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Faculty of Arts and Social Sciences",
+      "department": "Department of English Language and Literature",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "mingxingli@hkbu.edu.hk",
+      "personal_homepage_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+      "department_homepage_url": "https://eng.hkbu.edu.hk/en/people.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "English education",
+        "Second-language acquisition",
+        "Second-language phonetics"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "HKBU MPhil/PhD in English Language and Literature; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "Official profile states interest in supervising graduate projects.",
+      "evidence": {
+        "name": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile states interest in supervising graduate projects."
+        },
+        "research_fields": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://eng.hkbu.edu.hk/en/people/academic-staff/li-mingxing.html",
+        "https://eng.hkbu.edu.hk/en/people.html",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-english-language-and-literature"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-rowlett-benedict",
+      "name": "Dr. ROWLETT, Benedict",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Faculty of Arts and Social Sciences",
+      "department": "Department of English Language and Literature",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "browlett@hkbu.edu.hk",
+      "personal_homepage_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+      "department_homepage_url": "https://eng.hkbu.edu.hk/en/people.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Sociology of Education"
+      ],
+      "keywords": [
+        "Second-language socialization",
+        "Multilingual education",
+        "Language learning materials"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in English Language and Literature; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://eng.hkbu.edu.hk/en/people/academic-staff/rowlett-benedict.html",
+        "https://eng.hkbu.edu.hk/en/people.html",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-english-language-and-literature"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-wong-janice-wing-sze",
+      "name": "Dr. WONG, Janice Wing Sze",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Faculty of Arts and Social Sciences",
+      "department": "Department of English Language and Literature",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer and Programme Director, MA in Language Studies",
+      "email": "janicewong@hkbu.edu.hk",
+      "personal_homepage_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+      "department_homepage_url": "https://eng.hkbu.edu.hk/en/people.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Second-language acquisition",
+        "Language learning",
+        "Language studies curriculum"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": "HKBU MPhil/PhD in English Language and Literature; individual availability must be confirmed with the academic and department.",
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://eng.hkbu.edu.hk/en/people/academic-staff/wong-janice-wing-sze.html",
+        "https://eng.hkbu.edu.hk/en/people.html",
+        "https://gs.hkbu.edu.hk/programmes/doctor-of-philosophy-master-of-philosophy-department-of-english-language-and-literature"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-lu-mingdong",
+      "name": "Prof. LU, Mingdong",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "Faculty of Arts and Social Sciences",
+      "department": "Department of Chinese Language and Literature",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": "smtlo@hkbu.edu.hk",
+      "personal_homepage_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+      "department_homepage_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "Chinese language education",
+        "Curriculum development",
+        "Language assessment",
+        "Teaching excellence"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://chi.hkbu.edu.hk/personnel/teaching-staff/lumingdong.html",
+        "https://chi.hkbu.edu.hk/personnel/teaching-staff.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-chow-kenny-k-n",
+      "name": "Dr. CHOW, Kenny K. N.",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Head and Associate Professor",
+      "email": "knchow@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "AI in Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Interaction design for learning",
+        "Animated pedagogical agents",
+        "Online learning",
+        "Gamification"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official profile records chief supervision of five PhD projects, including online-learning research.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile records chief supervision of five PhD projects, including online-learning research."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Dr-Chow-Ka-Nin-Kenny.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-lee-kelvin-k-w",
+      "name": "Dr. LEE, Kelvin K. W.",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor of Practice and Associate Head (Teaching and Learning)",
+      "email": "kelvinee@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Higher Education Studies",
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Service-learning",
+        "Data journalism training",
+        "Teacher workshops",
+        "Teaching development grants"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Dr-LEE-Kelvin-K-W.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-mengoni-paolo",
+      "name": "Dr. MENGONI, Paolo",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": "pmengoni@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Learning Sciences",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "E-learning interfaces",
+        "Learning analytics",
+        "Virtual learning environments",
+        "Virtual hackathons"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Dr-MENGONI-Paolo.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-huang-vincent-l",
+      "name": "Prof. HUANG, Vincent L.",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "vincenthuang@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Higher Education Studies",
+        "Digital Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Higher-education community of practice",
+        "Virtual learning",
+        "Student engagement"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official profile states openness to MPhil supervision and PhD co-supervision.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile states openness to MPhil supervision and PhD co-supervision."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Prof-HUANG-Vincent.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-chan-tik-fan-t-c",
+      "name": "Mr. CHAN, Tik Fan (T.C.)",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor of Practice",
+      "email": "tc_chan@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Design education",
+        "AI and STEM education",
+        "Programming education"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/TC-Chan.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-yu-albert-k-h",
+      "name": "Mr. YU, Albert K. H.",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer and Programme Director, Game Design and Animation Major",
+      "email": "kahoyu@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Immersive media teaching",
+        "Virtual reality storytelling",
+        "Game design education"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Mr-YU-Ka-Ho-Albert.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-zhong-bu",
+      "name": "Prof. ZHONG, Bu",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Dean and Chair Professor in Media and Communication",
+      "email": "deancomm@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Sociology of Education",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "Rural student digital skills",
+        "Arts and science literacy",
+        "College student mental health"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Prof-ZHONG-Bu.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkbu-wang-sai",
+      "name": "Prof. WANG, Sai",
+      "university": "Hong Kong Baptist University",
+      "faculty_school": "School of Communication",
+      "department": "Department of Interactive Media",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "saiwang@hkbu.edu.hk",
+      "personal_homepage_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+      "department_homepage_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Misinformation literacy",
+        "Health education communication",
+        "Digital media literacy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "Name verified on the official HKBU profile."
+        },
+        "email": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "Individual official email verified on the official HKBU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU profile URL."
+        },
+        "department_homepage_url": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member.html",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKBU unit staff directory."
+        },
+        "publication": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current doctoral intake or supervision statement was found on the official profile; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from official education-related research descriptions."
+        },
+        "academic_title": {
+          "source_url": "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+          "checked_date": "2026-07-13",
+          "notes": "Academic title verified on the official HKBU profile."
+        }
+      },
+      "source_urls": [
+        "https://imd.hkbu.edu.hk/faculty-member/Prof-WANG-Sai.html",
+        "https://imd.hkbu.edu.hk/faculty-member.html"
+      ],
+      "last_updated": "2026-07-13",
       "verification_status": "verified"
     }
   ]
