@@ -42431,6 +42431,792 @@
       ],
       "last_updated": "2026-07-13",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-ka-wai-maggie-lau",
+      "name": "Prof. Ka Wai Maggie LAU",
+      "university": "Lingnan University",
+      "faculty_school": "School of Graduate Studies",
+      "department": "School of Graduate Studies",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Research Associate Professor; Programme Director, Doctor of Policy Studies",
+      "email": "maggielau2@ln.edu.hk",
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Education Policy",
+        "Sociology of Education",
+        "Special Education",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "educational inequality",
+        "migrant children education",
+        "inclusive higher education",
+        "child well-being",
+        "social exclusion"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Children's views on their lives and well-being in Hong Kong in the post-pandemic period"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Doctor of Policy Studies",
+      "supervision_notes": "Official Lingnan doctoral-thesis records identify her as supervisor for education-policy and inclusive-higher-education research.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/studentTheses/implementing-inclusive-education-policy-within-higher-education-a/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan doctoral-thesis records identify her as supervisor for education-policy and inclusive-higher-education research."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/ka-wai-maggie-lau/",
+        "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+        "https://scholars.ln.edu.hk/en/studentTheses/implementing-inclusive-education-policy-within-higher-education-a/",
+        "https://scholars.ln.edu.hk/en/studentTheses/policy-network-and-migrant-children-education-the-case-of-xian-ch/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-kai-zhao",
+      "name": "Prof. Kai ZHAO",
+      "university": "Lingnan University",
+      "faculty_school": "School of Graduate Studies",
+      "department": "School of Graduate Studies",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor; Programme Director, MA in International Higher Education and Management",
+      "email": null,
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Higher Education Studies",
+        "Education Policy",
+        "Curriculum & Instruction",
+        "AI in Education"
+      ],
+      "keywords": [
+        "college access and success",
+        "internationalisation of higher education",
+        "student mobility",
+        "transnational higher education",
+        "generative AI pedagogy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "What pedagogical designs could foster students' meaningful learning in leveraging Generative AI for teaching and learning in higher education curriculum?",
+        "Constructing Organizational Legitimacy: A Comparative Study of Sino-US and Sino-UK Collaborative Universities in China"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Research degree supervision",
+      "supervision_notes": "An official 2025 Lingnan PhD thesis record identifies him as supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+          "checked_date": "2026-07-13",
+          "notes": "The official profile obfuscates or does not expose a complete email address; the field remains null."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/studentTheses/embedded-paradox-the-integration-of-internationalization-and-loca/",
+          "checked_date": "2026-07-13",
+          "notes": "An official 2025 Lingnan PhD thesis record identifies him as supervisor."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/kai-zhao/",
+        "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+        "https://scholars.ln.edu.hk/en/studentTheses/embedded-paradox-the-integration-of-internationalization-and-loca/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-keyu-colin-zhai",
+      "name": "Prof. Keyu Colin ZHAI",
+      "university": "Lingnan University",
+      "faculty_school": "School of Graduate Studies",
+      "department": "School of Graduate Studies",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor; Associate Programme Director, MA in International Higher Education and Management",
+      "email": null,
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Higher Education Studies",
+        "Education Policy",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "student-centred postgraduate education",
+        "transnational higher education",
+        "quality assurance",
+        "graduate employability",
+        "Sino-foreign universities"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Student-Centred Strategies and the Sustainable Development of Taught Postgraduate Programmes in Hong Kong",
+        "Quality assurance framework development and evaluation practice improvement of transnational higher education in GBA"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Research degree supervision",
+      "supervision_notes": "An official 2025 Lingnan PhD thesis record identifies him as co-supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+          "checked_date": "2026-07-13",
+          "notes": "The official profile obfuscates or does not expose a complete email address; the field remains null."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/studentTheses/embedded-paradox-the-integration-of-internationalization-and-loca/",
+          "checked_date": "2026-07-13",
+          "notes": "An official 2025 Lingnan PhD thesis record identifies him as co-supervisor."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/keyu-colin-zhai/",
+        "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+        "https://scholars.ln.edu.hk/en/studentTheses/embedded-paradox-the-integration-of-internationalization-and-loca/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-jing-huang",
+      "name": "Prof. Jing HUANG",
+      "university": "Lingnan University",
+      "faculty_school": "School of Graduate Studies",
+      "department": "School of Graduate Studies",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor (Presidential Early Career Scholar)",
+      "email": null,
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "AI in Education",
+        "Digital Education",
+        "Teacher Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "teacher-AI collaboration",
+        "teacher self-efficacy",
+        "digital safety",
+        "achievement emotions",
+        "technology-rich problem solving"
+      ],
+      "methodology": "quantitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Trust in Artificial Intelligence and Innovative Working Behavior among Teachers: Roles of Teacher-AI Collaboration",
+        "Co-Development of Digital Safety and Character Strengths in the Lower Secondary Years: A Three-Wave Longitudinal Investigation"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Research degree supervision",
+      "supervision_notes": "An official 2025 Lingnan doctoral-thesis record identifies her as supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+          "checked_date": "2026-07-13",
+          "notes": "The official profile obfuscates or does not expose a complete email address; the field remains null."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/studentTheses/how-public-education-policies-drive-economic-growth-in-asean-an-a/",
+          "checked_date": "2026-07-13",
+          "notes": "An official 2025 Lingnan doctoral-thesis record identifies her as supervisor."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/jing-huang/",
+        "https://scholars.ln.edu.hk/en/organisations/school-of-graduate-studies/",
+        "https://scholars.ln.edu.hk/en/studentTheses/how-public-education-policies-drive-economic-growth-in-asean-an-a/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-li-jocelyn-lin",
+      "name": "Prof. Li Jocelyn LIN",
+      "university": "Lingnan University",
+      "faculty_school": "Faculty of Social Sciences",
+      "department": "Department of Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor; Programme Director, MSocSc in Organisational Psychology and Education Management",
+      "email": null,
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/department-of-psychology/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Digital Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "adolescent academic distress",
+        "youth conversational AI attachment",
+        "student well-being",
+        "problematic technology use",
+        "achievement motivation"
+      ],
+      "methodology": "quantitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Validation of the Youth Conversational AI Attachment Scale",
+        "Cyber-gossip in Adolescence: A Daily Diary Study of Its Associations with Well-being"
+      ],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "The official profile obfuscates or does not expose a complete email address; the field remains null."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/department-of-psychology/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/li-jocelyn-lin/",
+        "https://scholars.ln.edu.hk/en/organisations/department-of-psychology/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-haoran-xie",
+      "name": "Prof. Haoran XIE",
+      "university": "Lingnan University",
+      "faculty_school": "School of Data Science",
+      "department": "Division of Artificial Intelligence",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor; Associate Dean, School of Data Science",
+      "email": "hrxie@ln.edu.hk",
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/division-of-artificial-intelligence/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "educational technologies",
+        "personalised language learning",
+        "learning analytics",
+        "AI-supported learning",
+        "student performance prediction"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Transferring Knowledge based on Personalized Vocabulary Learning System based on Artificial Intelligence Techniques"
+      ],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/division-of-artificial-intelligence/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/haoran-xie/",
+        "https://scholars.ln.edu.hk/en/organisations/division-of-artificial-intelligence/",
+        "https://scholars.ln.edu.hk/en/publications/exploring-student-profile-features-and-their-impact-on-learning-p/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-ruofei-zhang",
+      "name": "Dr. Ruofei ZHANG",
+      "university": "Lingnan University",
+      "faculty_school": "Centre for English and Additional Languages",
+      "department": "Centre for English and Additional Languages",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer",
+      "email": null,
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/centre-for-english-and-additional-languages/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Curriculum & Instruction",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "ChatGPT-assisted writing",
+        "robot-assisted speaking practice",
+        "digital game-based vocabulary learning",
+        "learner engagement",
+        "technology-enhanced language learning"
+      ],
+      "methodology": "mixed",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "The official profile obfuscates or does not expose a complete email address; the field remains null."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/centre-for-english-and-additional-languages/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/ruofei-zhang/",
+        "https://scholars.ln.edu.hk/en/organisations/centre-for-english-and-additional-languages/",
+        "https://scholars.ln.edu.hk/en/publications/types-purposes-and-effectiveness-of-state-of-the-art-technologies/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-frankie-lam",
+      "name": "Prof. Frankie LAM",
+      "university": "Lingnan University",
+      "faculty_school": "Centre for Innovative Teaching and Learning",
+      "department": "Centre for Innovative Teaching and Learning",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Director, Centre for Innovative Teaching and Learning",
+      "email": "frankielam@ln.edu.hk",
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/centre-for-innovative-teaching-and-learning/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Higher Education Studies",
+        "Assessment & Evaluation",
+        "Digital Education"
+      ],
+      "keywords": [
+        "liberal arts education",
+        "real-time assessment",
+        "large multidisciplinary classes",
+        "technology-enhanced teaching",
+        "higher education innovation"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/centre-for-innovative-teaching-and-learning/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/frankie-lam/",
+        "https://scholars.ln.edu.hk/en/organisations/centre-for-innovative-teaching-and-learning/",
+        "https://scholars.ln.edu.hk/en/publications/impact-of-the-covid-19-pandemic-on-liberal-arts-education-an-emp/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-lu-ting-kin-ng",
+      "name": "Prof. Ting Kin NG",
+      "university": "Lingnan University",
+      "faculty_school": "Faculty of Social Sciences",
+      "department": "Department of Psychology",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": null,
+      "personal_homepage_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+      "department_homepage_url": "https://scholars.ln.edu.hk/en/organisations/department-of-psychology/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "academic stress",
+        "academic exhaustion",
+        "growth mindset",
+        "teacher-student relationships",
+        "student academic performance"
+      ],
+      "methodology": "quantitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current Lingnan affiliation verified on the official profile."
+        },
+        "email": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "The official profile obfuscates or does not expose a complete email address; the field remains null."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan Scholars person profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://scholars.ln.edu.hk/en/organisations/department-of-psychology/",
+          "checked_date": "2026-07-13",
+          "notes": "Official Lingnan unit profile or directory."
+        },
+        "publication": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; no complete publication metric was inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned from education-related research described on official Lingnan sources."
+        },
+        "academic_title": {
+          "source_url": "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official Lingnan profile."
+        }
+      },
+      "source_urls": [
+        "https://scholars.ln.edu.hk/en/persons/ting-kin-ng/",
+        "https://scholars.ln.edu.hk/en/organisations/department-of-psychology/",
+        "https://scholars.ln.edu.hk/en/publications/academic-stress-negative-affect-and-subjective-academic-performan/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
     }
   ]
 }
