@@ -101,7 +101,10 @@ const translations = {
     projectInformationDescription:
       "This independent academic project supports Education PhD applicants through a structured supervisor database, research-field exploration tools and transparent matching functions. Data are compiled from official university sources and are periodically reviewed.",
     creatorLabel: "Creator:",
+    contactNotice: "For any questions, suggestions, or error reports, please contact me via Xiaohongshu or email.",
     xiaohongshuLabel: "Xiaohongshu:",
+    xiaohongshuCreatorName: "Tequila Sunset（龙舌兰日落）",
+    emailLabel: "Email:",
     footerAttribution: "Created and maintained by",
     footerNotice:
       "PEIS is a static academic intelligence system. Supervisor records must be verified against official university sources before publication.",
@@ -217,7 +220,10 @@ const translations = {
     projectInformationDescription:
       "本独立学术项目通过结构化导师数据库、研究领域探索工具和透明的匹配功能，为教育学博士申请者提供支持。数据整理自大学官方来源，并进行定期复核。",
     creatorLabel: "创建者：",
+    contactNotice: "如有任何问题、建议或错误反馈，欢迎通过小红书或邮箱联系我。",
     xiaohongshuLabel: "小红书：",
+    xiaohongshuCreatorName: "龙舌兰日落",
+    emailLabel: "邮箱：",
     footerAttribution: "创建并维护：",
     footerNotice: "PEIS 是静态学术情报系统。导师记录发布前必须通过大学官方来源核验。",
     homepage: "个人主页",
