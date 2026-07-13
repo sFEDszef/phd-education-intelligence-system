@@ -42014,6 +42014,423 @@
       ],
       "last_updated": "2026-07-13",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-hui-na-na-anna",
+      "name": "Prof. HUI, Na Na Anna",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Social and Behavioural Sciences",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "annahui@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+      "department_homepage_url": "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Special Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Gifted education",
+        "Creativity education",
+        "Early childhood education",
+        "Student self-regulation"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://ssweb.cityu.edu.hk/-/media/project/cityuhk/academic/ssweb/file/academic-advising-handbook--for-student-advisees2025202610september.pdf",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/stfprofile/Anna.Hui.htm",
+        "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+        "https://ssweb.cityu.edu.hk/-/media/project/cityuhk/academic/ssweb/file/academic-advising-handbook--for-student-advisees2025202610september.pdf"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-chow-wing-yin-bonnie",
+      "name": "Dr. CHOW, Wing Yin Bonnie",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Social and Behavioural Sciences",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "wychow@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+      "department_homepage_url": "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Special Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Language and literacy acquisition",
+        "Reading development",
+        "Dialogic teaching",
+        "Intellectual disability learning support"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://ssweb.cityu.edu.hk/en/research/research-grants/grf-ecs",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/stfprofile/bonnie.chow.htm",
+        "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+        "https://ssweb.cityu.edu.hk/en/research/research-grants/grf-ecs"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-wu-keung-fai-joseph",
+      "name": "Dr. WU, Keung Fai Joseph",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Social and Behavioural Sciences",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "joseph.wu@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+      "department_homepage_url": "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Assessment & Evaluation",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "Psychometrics",
+        "Psychology of mathematics learning",
+        "Academic dishonesty",
+        "Gifted student development"
+      ],
+      "methodology": "quantitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://ssweb.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/stfprofile/joseph.wu.htm",
+        "https://ssweb.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-wesley-curtis",
+      "name": "Dr. Wesley Curtis",
+      "university": "City University of Hong Kong",
+      "faculty_school": "Chan Feng Men-ling Chan Shuk-lin Language Centre",
+      "department": "Chan Feng Men-ling Chan Shuk-lin Language Centre",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Head",
+      "email": "wacurtis@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+      "department_homepage_url": "https://www.cityu.edu.hk/lc/about-us/people",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "Second-language acquisition",
+        "Foreign-language education",
+        "Institutional internationalization",
+        "Instructional technology"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/lc/about-us/people",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/stfprofile/wacurtis.htm",
+        "https://www.cityu.edu.hk/lc/about-us/people"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-jack-burke",
+      "name": "Mr. Jack Burke",
+      "university": "City University of Hong Kong",
+      "faculty_school": "School of Law",
+      "department": "School of Law",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Teaching Fellow",
+      "email": "jasburke@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+      "department_homepage_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Legal education",
+        "Blended learning",
+        "Electronic formative feedback",
+        "Professional legal training"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/en/slw/about-the-school/our-people/professor/mr-jack-burke",
+        "https://www.cityu.edu.hk/en/slw/about-the-school/our-people"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
     }
   ]
 }
