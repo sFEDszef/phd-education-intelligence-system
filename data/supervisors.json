@@ -40776,6 +40776,827 @@
       ],
       "last_updated": "2026-07-13",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-christoph-hafner",
+      "name": "Prof. Christoph Hafner",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor and Head",
+      "email": "c.hafner@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Digital literacies",
+        "Language learning technology",
+        "English for specific purposes",
+        "Multimodal language learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official English Department PhD researcher page names him as supervisor of a current education-related doctoral project.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/en/our-people/phd-researchers",
+          "checked_date": "2026-07-13",
+          "notes": "Official English Department PhD researcher page names him as supervisor of a current education-related doctoral project."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty",
+        "https://www.en.cityu.edu.hk/en/our-people/phd-researchers"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-ge-lan",
+      "name": "Prof. Ge Lan",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "gelan4@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Second-language writing",
+        "English for academic purposes",
+        "Corpus linguistics",
+        "Feedback literacy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official English Department PhD researcher page names her as supervisor of a current feedback-literacy doctoral project.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/en/our-people/phd-researchers",
+          "checked_date": "2026-07-13",
+          "notes": "Official English Department PhD researcher page names her as supervisor of a current feedback-literacy doctoral project."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty",
+        "https://www.en.cityu.edu.hk/en/our-people/phd-researchers"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-lucy-yu",
+      "name": "Prof. Lucy Yu",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "baohuayu@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Educational Psychology",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Technology-enhanced language learning",
+        "Digital storytelling",
+        "Second-language motivation",
+        "Self-regulated learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-benjamin-moorhouse",
+      "name": "Prof. Benjamin Moorhouse",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "bmoorhou@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Teacher Education",
+        "Digital Education"
+      ],
+      "keywords": [
+        "Generative AI in language teaching",
+        "Language teacher education",
+        "Teacher professional learning",
+        "Young language learners"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-matthew-sung",
+      "name": "Prof. Matthew Sung",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "matthew.sung@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Sociology of Education",
+        "Curriculum & Instruction",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "Second-language education",
+        "Multilingualism",
+        "International education",
+        "Language learner identity"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official English Department PhD researcher page names him as supervisor of a current higher-education language-learning project.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/en/our-people/phd-researchers",
+          "checked_date": "2026-07-13",
+          "notes": "Official English Department PhD researcher page names him as supervisor of a current higher-education language-learning project."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty",
+        "https://www.en.cityu.edu.hk/en/our-people/phd-researchers"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-alice-chan",
+      "name": "Prof. Alice Chan",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "enalice@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Second-language acquisition",
+        "English phonology learning",
+        "Grammar learning",
+        "Language learner errors"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-simon-harrison",
+      "name": "Prof. Simon Harrison",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of English",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "simon.harrison@cityu.edu.hk",
+      "personal_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "department_homepage_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Learning Sciences",
+        "Digital Education"
+      ],
+      "keywords": [
+        "AI-assisted language learning",
+        "Student-chatbot interaction",
+        "Multimodal learning",
+        "Embodied cognition"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official English Department PhD researcher page names him as supervisor of a current AI-chatbot language-learning project.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.en.cityu.edu.hk/en/our-people/phd-researchers",
+          "checked_date": "2026-07-13",
+          "notes": "Official English Department PhD researcher page names him as supervisor of a current AI-chatbot language-learning project."
+        },
+        "research_fields": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.en.cityu.edu.hk/our-people/faculty",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://www.en.cityu.edu.hk/our-people/faculty",
+        "https://www.en.cityu.edu.hk/en/our-people/phd-researchers"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-chan-yuet-hung-cecilia",
+      "name": "Prof. CHAN, Yuet Hung Cecilia",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Linguistics and Translation",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor and Associate Head",
+      "email": "ctcyhc@cityu.edu.hk",
+      "personal_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+      "department_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "First-language acquisition",
+        "Second-language acquisition",
+        "Vocabulary development",
+        "Chinese language learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official profile explicitly states that she supervises research students in first- and second-language acquisition.",
+      "evidence": {
+        "name": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile explicitly states that she supervises research students in first- and second-language acquisition."
+        },
+        "research_fields": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://lt.cityu.edu.hk/en/people/academic-staff/chan-yuet-hung-cecilia",
+        "https://lt.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-chang-charles-b",
+      "name": "Prof. CHANG, Charles B.",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Linguistics and Translation",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": "cbchang@cityu.edu.hk",
+      "personal_homepage_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+      "department_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "Language acquisition",
+        "Heritage language learning",
+        "Multilingual development",
+        "Second-language phonetics"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://lt.cityu.edu.hk/people/academic-staff/chang-charles-b",
+        "https://lt.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-li-bin",
+      "name": "Prof. LI, Bin",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Linguistics and Translation",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "binli2@cityu.edu.hk",
+      "personal_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+      "department_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Second-language speech acquisition",
+        "Chinese as a second language",
+        "English as a foreign language",
+        "Cross-language speech perception"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official profile or current faculty directory."
+        },
+        "email": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile or current faculty-directory record."
+        },
+        "department_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned only from substantial education-related research stated by official CityU sources."
+        },
+        "academic_title": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU profile or current faculty directory."
+        }
+      },
+      "source_urls": [
+        "https://lt.cityu.edu.hk/en/people/academic-staff/li-bin",
+        "https://lt.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
     }
   ]
 }
