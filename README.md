@@ -13,6 +13,18 @@ Created and maintained by Tequila Sunset（龙舌兰日落）
 Xiaohongshu:
 https://www.xiaohongshu.com/user/profile/65350197000000000301f6b1
 
+For any questions, suggestions, or error reports, please contact me via Xiaohongshu or email.
+
+Xiaohongshu: Tequila Sunset（龙舌兰日落）
+
+Email: 1965499811@qq.com
+
+如有任何问题、建议或错误反馈，欢迎通过小红书或邮箱联系我。
+
+小红书：龙舌兰日落
+
+邮箱：1965499811@qq.com
+
 ## Current Data Policy
 
 The supervisor database has been upgraded from demo records to a verification-first architecture.
