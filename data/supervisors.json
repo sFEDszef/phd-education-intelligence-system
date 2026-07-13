@@ -43217,6 +43217,2517 @@
       ],
       "last_updated": "2026-07-13",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-jac-ka-lok-leung",
+      "name": "Jac Ka Lok LEUNG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "Academy of Interdisciplinary Studies",
+      "department": "Division of Integrative Systems and Design",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "egjac@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+      "department_homepage_url": "https://isd.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "AI literacy",
+        "educational technologies",
+        "generative AI",
+        "self-regulated learning",
+        "engineering design education",
+        "student engagement"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://isd.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jac-ka-lok-leung-egjac",
+        "https://isd.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-aftab-amin",
+      "name": "Aftab AMIN",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Science",
+      "department": "Division of Life Science",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer II",
+      "email": "aftabamin@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+      "department_homepage_url": "https://life-sci.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "virtual reality pedagogy",
+        "gamification pedagogy",
+        "generative AI for active learning",
+        "anatomy education",
+        "biomedical education"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://life-sci.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aftab-amin-aftabamin",
+        "https://life-sci.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-kam-tim-woo",
+      "name": "Kam Tim WOO",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Engineering",
+      "department": "Department of Electronic and Computer Engineering",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor of Engineering Education; Senior Lecturer",
+      "email": "eetim@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+      "department_homepage_url": "https://ece.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "engineering education",
+        "integrated STEM education",
+        "project-based learning",
+        "competition-based learning",
+        "service learning",
+        "generic skills assessment"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD and MPhil in Electronic and Computer Engineering",
+      "supervision_notes": "The official HKUST faculty profile lists current research-postgraduate supervision (PhD and MPhil in Electronic and Computer Engineering).",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://ece.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "The official HKUST faculty profile lists current research-postgraduate supervision (PhD and MPhil in Electronic and Computer Engineering)."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-woo-eetim",
+        "https://ece.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-ben-yui-bun-chan",
+      "name": "Ben Yui Bun CHAN",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Engineering",
+      "department": "Department of Civil and Environmental Engineering",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor of Engineering Education; Senior Lecturer",
+      "email": "ybchan@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+      "department_homepage_url": "https://ce.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Digital Education",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "engineering education",
+        "creativity and design thinking",
+        "motion-capturing technology",
+        "idea incubation",
+        "higher education creativity"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://ce.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ben-yui-bun-chan-ybchan",
+        "https://ce.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-thomas-wei-chung-hu",
+      "name": "Thomas Wei Chung HU",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Engineering",
+      "department": "Department of Civil and Environmental Engineering",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor of Engineering Education; Senior Lecturer",
+      "email": "thomashu@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+      "department_homepage_url": "https://ce.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "engineering mathematics education",
+        "computer algebra systems",
+        "surveying computations",
+        "3D visualization in teaching"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://ce.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=thomas-wei-chung-hu-thomashu",
+        "https://ce.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-gibson-lam",
+      "name": "Gibson LAM",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Engineering",
+      "department": "Department of Computer Science and Engineering",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor of Engineering Education; Senior Lecturer",
+      "email": "gibson@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+      "department_homepage_url": "https://cse.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "IT in education",
+        "podcasting in higher education",
+        "hybrid learning",
+        "interactive programming education"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cse.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gibson-lam-gibson",
+        "https://cse.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-robin-lok-wang-ma",
+      "name": "Robin Lok Wang MA",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Engineering",
+      "department": "Department of Mechanical and Aerospace Engineering",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor of Engineering Education; Senior Lecturer",
+      "email": "melwma@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+      "department_homepage_url": "https://mae.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Higher Education Studies",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "engineering education",
+        "project-based learning",
+        "problem-solving skills",
+        "cooperative education",
+        "mechanical engineering curriculum"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://mae.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=robin-lok-wang-ma-melwma",
+        "https://mae.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-man-fung-cheung",
+      "name": "Man Fung CHEUNG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Science",
+      "department": "Department of Physics",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor of Science Education; Lecturer I",
+      "email": "cheungmf@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+      "department_homepage_url": "https://physics.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "science education",
+        "student-centered learning",
+        "large-enrollment courses",
+        "course assessment",
+        "introductory physics"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://physics.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=man-fung-cheung-cheungmf",
+        "https://physics.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-yee-fai-ng",
+      "name": "Yee Fai NG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Science",
+      "department": "Department of Physics",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "phyfng@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+      "department_homepage_url": "https://physics.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "science education",
+        "experiential learning",
+        "pedagogical innovation",
+        "undergraduate science courses"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://physics.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yee-fai-ng-phyfng",
+        "https://physics.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-chen-cheng",
+      "name": "Chen CHENG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Division of Social Science",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor",
+      "email": "chencheng@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+      "department_homepage_url": "https://sosc.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "mathematical cognition",
+        "cognitive development",
+        "child development",
+        "visual working memory",
+        "developmental learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "MPhil in Social Science",
+      "supervision_notes": "The official HKUST faculty profile lists current research-postgraduate supervision (MPhil in Social Science).",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://sosc.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "The official HKUST faculty profile lists current research-postgraduate supervision (MPhil in Social Science)."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chen-cheng-chencheng",
+        "https://sosc.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-yueyuan-zheng",
+      "name": "Yueyuan ZHENG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Division of Social Science",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Research Assistant Professor",
+      "email": "yyzheng@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+      "department_homepage_url": "https://sosc.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Learning Sciences",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "science of learning",
+        "visual cognition",
+        "computational modeling",
+        "reading processes",
+        "cognitive development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://sosc.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yueyuan-zheng-yyzheng",
+        "https://sosc.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-ping-li",
+      "name": "Ping LI",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Division of Social Science",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Dean of Humanities and Social Science; Yan Ai Foundation Professor of Social Science; Chair Professor",
+      "email": "pingliandrew@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+      "department_homepage_url": "https://sosc.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Learning Sciences",
+        "Digital Education"
+      ],
+      "keywords": [
+        "technology and learning",
+        "LLMs and human cognition",
+        "digital language learning",
+        "reading comprehension",
+        "self-regulated learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://sosc.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-li-pingliandrew",
+        "https://sosc.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-james-edward-barbour-simpson",
+      "name": "James Edward Barbour SIMPSON",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Division of Humanities",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Acting Head and Professor; Academic Director of MA in International Language Education",
+      "email": "hmjsimpson@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+      "department_homepage_url": "https://huma.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Education Policy",
+        "Sociology of Education",
+        "Digital Education"
+      ],
+      "keywords": [
+        "language education",
+        "language policy",
+        "adult migrant education",
+        "multilingualism",
+        "computer-mediated communication"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "PhD and MPhil in Humanities",
+      "supervision_notes": "The official HKUST faculty profile lists current research-postgraduate supervision (PhD and MPhil in Humanities).",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://huma.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "The official HKUST faculty profile lists current research-postgraduate supervision (PhD and MPhil in Humanities)."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=james-edward-barbour-simpson-hmjsimpson",
+        "https://huma.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-melinda-karen-whong",
+      "name": "Melinda Karen WHONG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Director; Associate Professor of Language Education",
+      "email": "lcmwhong@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "second language acquisition",
+        "second language teaching",
+        "classroom research",
+        "English for academic purposes",
+        "applied linguistics"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=melinda-karen-whong-lcmwhong",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-nora-anniesha-binte-hussin",
+      "name": "Nora Anniesha Binte HUSSIN",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Interim Director; Associate Professor of Language Education; Senior Lecturer",
+      "email": "lcnora@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "AI in language education",
+        "generative AI for language learning",
+        "microlearning",
+        "learner agency",
+        "technology in language teaching"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nora-anniesha-binte-hussin-lcnora",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-yilmaz-koylu",
+      "name": "Yılmaz KÖYLÜ",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Assistant Professor of Language Education; Lecturer I",
+      "email": "lcyilmaz@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "second language acquisition",
+        "AI for language education",
+        "prompt literacy",
+        "critical evaluation of AI responses",
+        "English language pedagogy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ylmaz-k214yl220-lcyilmaz",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-xin-liang",
+      "name": "Xin LIANG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor of Language Education; Senior Lecturer",
+      "email": "lcsheila@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education",
+        "Digital Education"
+      ],
+      "keywords": [
+        "Chinese curriculum design",
+        "Chinese pedagogy",
+        "teacher development",
+        "school improvement",
+        "ChatGPT-supported project-based learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xin-liang-lcsheila",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-delian-dawn-gaskell",
+      "name": "Delian Dawn GASKELL",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": "lcdgaskell@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Assessment & Evaluation",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "e-learning",
+        "blended language education",
+        "feedback strategies",
+        "computer-mediated communication",
+        "gamification"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=delian-dawn-gaskell-lcdgaskell",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-chak-yan-jessie-teresa-lam",
+      "name": "Chak Yan Jessie Teresa LAM",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": "lcjlam@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "GenAI-assisted language learning",
+        "language curriculum",
+        "microlearning",
+        "self-directed learning",
+        "student engagement"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chak-yan-jessie-teresa-lam-lcjlam",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-bernadette-wan-lan-wo",
+      "name": "Bernadette Wan-Lan WO",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcbwo@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Assessment & Evaluation",
+        "Curriculum & Instruction",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "assessment for learning",
+        "course design",
+        "teacher development",
+        "peer observation",
+        "language classroom"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=bernadette-wanlan-wo-lcbwo",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-maisie-glofcheski",
+      "name": "Maisie GLOFCHESKI",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcmaisieg@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Educational Psychology",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "positive language education",
+        "educational psychology",
+        "multimodal assessment",
+        "learner well-being",
+        "curriculum design"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=maisie-glofcheski-lcmaisieg",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-piotr-zychowicz",
+      "name": "Piotr ZYCHOWICZ",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcpiotr@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Assessment & Evaluation",
+        "Curriculum & Instruction",
+        "Higher Education Studies",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "assessment and testing",
+        "multimodal assessment",
+        "online higher education",
+        "teacher training",
+        "research-led learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=piotr-zychowicz-lcpiotr",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-chi-shen",
+      "name": "Chi SHEN",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcshenchi@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Assessment & Evaluation",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "competency assessment",
+        "course evaluation",
+        "curriculum evaluation",
+        "learning transfer",
+        "academic literacy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-shen-lcshenchi",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-po-lung-li",
+      "name": "Po Lung LI",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": "lcpolung@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "teacher training",
+        "curriculum development",
+        "course evaluation",
+        "course design",
+        "language materials development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=po-lung-li-lcpolung",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-kin-hun-tang",
+      "name": "Kin Hun TANG",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lckint@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "blended language education",
+        "online language education",
+        "MOOCs",
+        "educational technology",
+        "business communication"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kin-hun-tang-lckint",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-gary-muddeman",
+      "name": "Gary MUDDEMAN",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcgmuddeman@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "blended language education",
+        "online language education",
+        "content and language integrated learning",
+        "reflective learning",
+        "academic English"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=gary-muddeman-lcgmuddeman",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-min-nuo",
+      "name": "Min NUO",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": "lcnuomin@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "second language acquisition",
+        "Chinese curriculum alignment",
+        "language assessment",
+        "Chinese as a foreign language",
+        "intercultural communication"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=min-nuo-lcnuomin",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-xiufen-xu",
+      "name": "Xiufen XU",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcxfxu@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "Chinese language teaching",
+        "curriculum design",
+        "second language acquisition",
+        "generative AI writing pedagogy",
+        "online language teaching"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiufen-xu-lcxfxu",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-aditi-jhaveri",
+      "name": "Aditi JHAVERI",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Senior Lecturer",
+      "email": "lcaditij@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "AI in Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "EAP pedagogy",
+        "academic literacy",
+        "AI grading tools",
+        "human-in-the-loop assessment",
+        "English across the curriculum"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=aditi-jhaveri-lcaditij",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkust-nicholas-alistair-sampson",
+      "name": "Nicholas Alistair SAMPSON",
+      "university": "The Hong Kong University of Science and Technology",
+      "faculty_school": "School of Humanities and Social Science",
+      "department": "Center for Language Education",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lcnicholas@ust.hk",
+      "personal_homepage_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+      "department_homepage_url": "https://cle.hkust.edu.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Digital Education",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "English language materials",
+        "technology integration",
+        "large-class language teaching",
+        "student engagement",
+        "academic English"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current HKUST affiliation verified on the official faculty profile."
+        },
+        "email": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST email verified on the official faculty profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://cle.hkust.edu.hk/",
+          "checked_date": "2026-07-13",
+          "notes": "Official HKUST unit homepage."
+        },
+        "publication": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile lists research outputs; aggregate publication metrics were not copied or estimated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from academic rank."
+        },
+        "research_fields": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "Controlled taxonomy assigned only from education-related research interests and outputs described on the official profile."
+        },
+        "academic_title": {
+          "source_url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+          "checked_date": "2026-07-13",
+          "notes": "Current title verified on the official HKUST faculty profile."
+        }
+      },
+      "source_urls": [
+        "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=nicholas-alistair-sampson-lcnicholas",
+        "https://cle.hkust.edu.hk/"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
     }
   ]
 }
