@@ -41597,6 +41597,423 @@
       ],
       "last_updated": "2026-07-13",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-lun-suen-caesar",
+      "name": "Prof. LUN, Suen Caesar",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Linguistics and Translation",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor and Programme Leader, MA in Language Studies",
+      "email": "ctslun@cityu.edu.hk",
+      "personal_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+      "department_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction",
+        "Education Policy"
+      ],
+      "keywords": [
+        "Computer-assisted language learning",
+        "Language educational software",
+        "Chinese language policy",
+        "Digital Chinese teaching"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://lt.cityu.edu.hk/en/people/academic-staff/lun-suen-caesar",
+        "https://lt.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-lee-john-sie-yuen",
+      "name": "Prof. LEE, John Sie Yuen",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Linguistics and Translation",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "jsylee@cityu.edu.hk",
+      "personal_homepage_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+      "department_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Computer-assisted language learning",
+        "Automatic question generation",
+        "Automated text-difficulty assessment",
+        "Adaptive text recommendation"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen",
+        "https://lt.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-liu-meichun",
+      "name": "Prof. LIU, Meichun",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Liberal Arts and Social Sciences",
+      "department": "Department of Linguistics and Translation",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": "meichliu@cityu.edu.hk",
+      "personal_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+      "department_homepage_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "Language education resources",
+        "Chinese textbook analysis",
+        "MOOC language learning",
+        "Corpus-informed pedagogy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official profile states that she has supervised 15 PhD graduates.",
+      "evidence": {
+        "name": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "Official profile states that she has supervised 15 PhD graduates."
+        },
+        "research_fields": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://lt.cityu.edu.hk/en/people/academic-staff/liu-meichun",
+        "https://lt.cityu.edu.hk/en/people/academic-staff"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-ip-ho-shing-horace",
+      "name": "Prof. IP, Ho Shing Horace",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Computing",
+      "department": "Department of Computer Science",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lee Shau Kee Professor of e-Learning and Chair Professor of Computer Science",
+      "email": "cship@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+      "department_homepage_url": "https://www.cs.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "Innovative technology for education",
+        "Virtual learning environments",
+        "Interactive media for learning",
+        "e-Learning technologies"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.cs.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.cityu.edu.hk/named-professorship/named-professorship-scheme/named-professorships/lee-shau-kee-professorship-e-learning",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/cship.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/stfprofile/cship.htm",
+        "https://www.cs.cityu.edu.hk/en/people/academic-staff",
+        "https://www.cityu.edu.hk/named-professorship/named-professorship-scheme/named-professorships/lee-shau-kee-professorship-e-learning"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-cityu-leung-wing-ho-howard",
+      "name": "Prof. LEUNG, Wing Ho Howard",
+      "university": "City University of Hong Kong",
+      "faculty_school": "College of Computing",
+      "department": "Department of Computer Science",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Associate Professor",
+      "email": "howard@cityu.edu.hk",
+      "personal_homepage_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+      "department_homepage_url": "https://www.cs.cityu.edu.hk/en/people/academic-staff",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "Digital Education",
+        "AI in Education",
+        "Special Education"
+      ],
+      "keywords": [
+        "Intelligent Chinese handwriting education",
+        "Web-based learning technologies",
+        "Handwriting assessment",
+        "Learning-difficulty screening"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank.",
+      "evidence": {
+        "name": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Name and current CityU affiliation verified on official sources."
+        },
+        "email": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU email verified; no address was inferred."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.cs.cityu.edu.hk/en/people/academic-staff",
+          "checked_date": "2026-07-13",
+          "notes": "Official CityU unit directory."
+        },
+        "publication": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+          "checked_date": "2026-07-13",
+          "notes": "No complete official publication count was inferred; metrics remain null."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://www.cs.cityu.edu.hk/research/research-areas/multimedia-computing",
+          "checked_date": "2026-07-13",
+          "notes": "No explicit current PhD/MPhil supervision or intake statement was found; status was not inferred from rank."
+        },
+        "research_fields": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Taxonomy assigned from substantial education-related research in official sources."
+        },
+        "academic_title": {
+          "source_url": "https://www.cityu.edu.hk/stfprofile/howard.htm",
+          "checked_date": "2026-07-13",
+          "notes": "Title verified on official CityU sources."
+        }
+      },
+      "source_urls": [
+        "https://www.cityu.edu.hk/stfprofile/howard.htm",
+        "https://www.cs.cityu.edu.hk/en/people/academic-staff",
+        "https://www.cs.cityu.edu.hk/research/research-areas/multimedia-computing"
+      ],
+      "last_updated": "2026-07-13",
+      "verification_status": "verified"
     }
   ]
 }
