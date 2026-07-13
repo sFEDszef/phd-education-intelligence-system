@@ -99,11 +99,10 @@ const translations = {
     projectInformationLabel: "Project Information",
     projectInformationTitle: "About This Project",
     projectInformationDescription:
-      "This platform was created and is maintained by Tequila Sunset（龙舌兰日落） as an independent academic project. It aims to support Education PhD applicants by providing a structured supervisor database, research-field exploration tools and transparent matching functions. Data are compiled from official university sources and are periodically reviewed.",
-    projectSocial: "Xiaohongshu: search 龙舌兰日落",
-    footerAttribution:
-      "Created and maintained by Tequila Sunset（龙舌兰日落）. An independent academic project supporting Education PhD applicants.",
-    footerSocial: "Find me on Xiaohongshu by searching: 龙舌兰日落",
+      "This independent academic project supports Education PhD applicants through a structured supervisor database, research-field exploration tools and transparent matching functions. Data are compiled from official university sources and are periodically reviewed.",
+    creatorLabel: "Creator:",
+    xiaohongshuLabel: "Xiaohongshu:",
+    footerAttribution: "Created and maintained by",
     footerNotice:
       "PEIS is a static academic intelligence system. Supervisor records must be verified against official university sources before publication.",
     homepage: "Personal homepage",
@@ -216,11 +215,10 @@ const translations = {
     projectInformationLabel: "项目信息",
     projectInformationTitle: "关于本项目",
     projectInformationDescription:
-      "本平台由 Tequila Sunset（龙舌兰日落）创建并维护，是一个独立的学术与教育技术项目。项目通过结构化导师数据库、研究领域探索工具和透明的匹配功能，为教育学博士申请者提供支持。数据整理自大学官方来源，并进行定期复核。",
-    projectSocial: "小红书：搜索 龙舌兰日落",
-    footerAttribution:
-      "由 Tequila Sunset（龙舌兰日落）创建并维护。一个服务教育学博士申请者的独立学术项目。",
-    footerSocial: "在小红书搜索：龙舌兰日落",
+      "本独立学术项目通过结构化导师数据库、研究领域探索工具和透明的匹配功能，为教育学博士申请者提供支持。数据整理自大学官方来源，并进行定期复核。",
+    creatorLabel: "创建者：",
+    xiaohongshuLabel: "小红书：",
+    footerAttribution: "创建并维护：",
     footerNotice: "PEIS 是静态学术情报系统。导师记录发布前必须通过大学官方来源核验。",
     homepage: "个人主页",
     departmentPage: "院系页面",
