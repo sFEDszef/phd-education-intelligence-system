@@ -662,12 +662,68 @@ td {
   font-size: 0.82rem;
 }
 
+.project-information {
+  margin-top: 20px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.project-information-inner {
+  display: grid;
+  grid-template-columns: minmax(180px, 0.45fr) minmax(0, 1.55fr);
+  gap: 32px;
+  width: min(100% - 32px, 1500px);
+  margin: 0 auto;
+  padding: 28px 0;
+}
+
+.section-label {
+  color: var(--green);
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.project-information h2 {
+  margin: 4px 0 0;
+  font-size: 1.1rem;
+}
+
+.project-information-copy p,
+.app-footer p {
+  margin: 0;
+}
+
+.project-information-copy {
+  display: grid;
+  gap: 10px;
+  max-width: 900px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.project-social,
+.footer-attribution {
+  color: var(--text);
+  font-weight: 700;
+}
+
 .app-footer {
+  display: grid;
+  gap: 6px;
   width: min(100% - 32px, 1500px);
   margin: 0 auto 34px;
-  padding: 18px 0 0;
+  padding: 22px 0 0;
   color: var(--muted);
   font-size: 0.82rem;
+}
+
+.footer-notice {
+  margin-top: 6px !important;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  font-size: 0.76rem;
 }
 
 @media (max-width: 1220px) {
@@ -701,7 +757,8 @@ td {
   }
 
   .overview,
-  .workspace {
+  .workspace,
+  .project-information-inner {
     grid-template-columns: 1fr;
   }
 
@@ -718,6 +775,7 @@ td {
 
 @media (max-width: 560px) {
   .app-shell,
+  .project-information-inner,
   .app-footer {
     width: min(100% - 20px, 1500px);
   }
