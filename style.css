@@ -704,9 +704,25 @@ td {
 }
 
 .project-social,
+.creator-line,
 .footer-attribution {
   color: var(--text);
   font-weight: 700;
+}
+
+.project-information a,
+.app-footer a {
+  color: var(--navy);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.project-information a:hover,
+.project-information a:focus-visible,
+.app-footer a:hover,
+.app-footer a:focus-visible {
+  color: var(--green);
 }
 
 .app-footer {
