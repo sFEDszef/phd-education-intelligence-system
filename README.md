@@ -8,12 +8,10 @@ PEIS supports English and Chinese interface switching from the top-right languag
 
 ## Creator
 
-Created and maintained by Tequila Sunset（龙舌兰日落）.
-
-This is an independent academic and educational technology project supporting Education PhD applicants.
+Created and maintained by Tequila Sunset（龙舌兰日落）
 
 Xiaohongshu:
-Search 龙舌兰日落
+https://www.xiaohongshu.com/user/profile/65350197000000000301f6b1
 
 ## Current Data Policy
 
