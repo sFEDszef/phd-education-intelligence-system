@@ -51495,6 +51495,92 @@
       ],
       "last_updated": "2026-07-14",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-wu-fati",
+      "name": "武法提",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "School of Educational Technology",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "wft@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-81-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences"
+      ],
+      "keywords": [
+        "intelligent learning systems",
+        "multimodal learning analytics",
+        "educational big data",
+        "ecological learning environment design",
+        "digital learning resources"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Internet Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 武法提 in Intelligent Learning System Design and Multimodal Learning Analytics. An official BNU research-center profile also explicitly identifies him as a doctoral supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-81-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU School of Educational Technology affiliation verified on the official BNU profile."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-81-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-81-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://rcde.bnu.edu.cn/kytd/js/35092.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official research-center profile provides selected outputs but not a complete current aggregate count; publication fields remain unpopulated."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 武法提 for current doctoral recruitment; the official research-center profile also states doctoral-supervisor status."
+        },
+        "research_fields": {
+          "source_url": "https://rcde.bnu.edu.cn/kytd/js/35092.html",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU research description and the 2026 doctoral direction: Intelligent Learning System Design and Multimodal Learning Analytics."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-81-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU profile."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-81-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://rcde.bnu.edu.cn/kytd/js/35092.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
     }
   ]
 }
