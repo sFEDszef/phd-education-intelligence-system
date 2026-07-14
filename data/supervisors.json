@@ -48942,6 +48942,854 @@
       ],
       "last_updated": "2026-07-14",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-deng-linyuan",
+      "name": "邓林园",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Curriculum and Pedagogy",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Associate Professor",
+      "email": "09036@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "teaching theory",
+        "family studies",
+        "adolescent problem behavior",
+        "family therapy",
+        "student psychological development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 邓林园 in Theory of Teaching, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 邓林园 in Theory of Teaching, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Theory of Teaching."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Associate Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-221-63.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-hu-dingrong",
+      "name": "胡定荣",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Curriculum and Pedagogy",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Associate Professor",
+      "email": "hudingrong@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education"
+      ],
+      "keywords": [
+        "teaching theory",
+        "classroom instruction",
+        "curriculum implementation",
+        "teacher development",
+        "instructional reform"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 胡定荣 in Theory of Teaching, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 胡定荣 in Theory of Teaching, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Theory of Teaching."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Associate Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-123-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-zeng-qi",
+      "name": "曾琦",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Curriculum and Pedagogy",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "bjzengqi@126.com",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "teaching theory",
+        "classroom learning",
+        "instructional design",
+        "student development",
+        "curriculum reform"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 曾琦 in Theory of Teaching, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 曾琦 in Theory of Teaching, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Theory of Teaching."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-117-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-gao-xiaoyi",
+      "name": "高潇怡",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Curriculum and Pedagogy",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "gaoxiaoyi@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "school science education",
+        "science museum education",
+        "science communication",
+        "science teacher development",
+        "STEM learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 高潇怡 in Science Education, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 高潇怡 in Science Education, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Science Education."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-121-63.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-yang-mingquan",
+      "name": "杨明全",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of International and Comparative Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Associate Professor",
+      "email": "mqyang@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Teacher Education",
+        "Sociology of Education"
+      ],
+      "keywords": [
+        "comparative curriculum",
+        "school-based curriculum",
+        "STS curriculum",
+        "project-based learning",
+        "curriculum implementation"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 杨明全 in Curriculum Studies, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 杨明全 in Curriculum Studies, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Curriculum Studies."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Associate Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-43-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-zhu-xudong",
+      "name": "朱旭东",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Teacher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "zhuxd@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Teacher Education",
+        "Education Policy",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "teacher education policy",
+        "teacher education discipline",
+        "comparative teacher education",
+        "teacher workforce development",
+        "teacher education quality"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Teacher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 朱旭东 in Subject Teacher Education Research, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 朱旭东 in Subject Teacher Education Research, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Subject Teacher Education Research."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-159-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-huang-jiali",
+      "name": "黄嘉莉",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Teacher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "carriehng@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Teacher Education",
+        "Assessment & Evaluation",
+        "Sociology of Education"
+      ],
+      "keywords": [
+        "teacher education quality assurance",
+        "teacher certification",
+        "teacher education evaluation",
+        "teacher professionalism",
+        "teacher education governance"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Teacher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 黄嘉莉 in Teacher Professional Development and Leadership, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 黄嘉莉 in Teacher Professional Development and Leadership, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Teacher Professional Development and Leadership."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-260-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-li-qiong",
+      "name": "李琼",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Teacher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "qiongli@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Teacher Education",
+        "Educational Psychology",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "teacher professional development",
+        "teacher resilience",
+        "teacher well-being",
+        "mathematics teacher learning",
+        "large-scale quantitative analysis"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Teacher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 李琼 in Teacher Professional Development and Leadership, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 李琼 in Teacher Professional Development and Leadership, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Teacher Professional Development and Leadership."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-142-63.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-du-ruijun",
+      "name": "杜瑞军",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Higher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "huyucun@163.com",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Higher Education Studies",
+        "Assessment & Evaluation",
+        "Education Policy"
+      ],
+      "keywords": [
+        "higher education management",
+        "university teaching quality",
+        "higher education evaluation",
+        "faculty development",
+        "university admissions policy"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Higher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 杜瑞军 in Higher Education Administration and Development, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 杜瑞军 in Higher Education Administration and Development, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Higher Education Administration and Development."
+        },
+        "academic_title": {
+          "source_url": "https://fe.bnu.edu.cn/html/1/news/20250625/n8887.html",
+          "checked_date": "2026-07-14",
+          "notes": "Current professor title is verified on a 2025 official Faculty page; the profile supplies affiliation and email."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-200-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://fe.bnu.edu.cn/html/1/news/20250625/n8887.html"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-zhou-zuoyu",
+      "name": "周作宇",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Higher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "zhzy@bnu.edu.cn",
+      "personal_homepage_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Higher Education Studies",
+        "Assessment & Evaluation",
+        "Education Policy"
+      ],
+      "keywords": [
+        "higher education management",
+        "higher education theory",
+        "higher education quality assurance",
+        "university evaluation",
+        "student development"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Higher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists 周作宇 in Higher Education Administration and Development, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on official BNU pages."
+        },
+        "email": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on the official BNU profile."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU faculty profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists 周作宇 in Higher Education Administration and Development, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and the 2026 doctoral direction: Higher Education Administration and Development."
+        },
+        "academic_title": {
+          "source_url": "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://fe-english.bnu.edu.cn/t003-ti-1-211-64.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
     }
   ]
 }
