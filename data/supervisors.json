@@ -46379,6 +46379,858 @@
       ],
       "last_updated": "2026-07-14",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-liu-baocun",
+      "name": "刘宝存",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of International and Comparative Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "liubaocun@bnu.edu.cn",
+      "personal_homepage_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Higher Education Studies",
+        "Education Policy"
+      ],
+      "keywords": [
+        "comparative education",
+        "higher education",
+        "education policy",
+        "education management",
+        "global education reform"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Comparative Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Liu Baocun for Comparative Education, confirming current recruitment through that route.",
+      "evidence": {
+        "name": {
+          "source_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on an official BNU page."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Liu Baocun for Comparative Education, confirming current recruitment through that route."
+        },
+        "research_fields": {
+          "source_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU biography describing international and comparative education, higher education, education policy and management."
+        },
+        "academic_title": {
+          "source_url": "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://iso.bnu.edu.cn/uploads/201711/14/HB14457266008631.pdf",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://cier.bnu.edu.cn/xwdt/9798afd09656454c8f041ac9ea03b142.htm"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-sun-banghua",
+      "name": "孙邦华",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Educational History and Culture",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Philosophy of Education",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "Chinese university history",
+        "Sino-Western educational exchange",
+        "rural reconstruction",
+        "history of educational thought",
+        "history of higher education"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "History of Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU Hong Kong, Macao and Taiwan doctoral catalogue lists Sun Banghua as a History of Education supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No public personal email was verified on the checked official BNU pages."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/docs/202512/%E6%B8%AF%E6%BE%B3%E5%8F%B0-%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95-%E5%85%AC%E5%B8%83-%E5%8D%9A%E5%A3%AB.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU Hong Kong, Macao and Taiwan doctoral catalogue lists Sun Banghua as a History of Education supervisor."
+        },
+        "research_fields": {
+          "source_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU biographical notice on his research in university history, educational exchange and rural reconstruction."
+        },
+        "academic_title": {
+          "source_url": "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://news.bnu.edu.cn/zx/xzdt/ceff799f8cb9490f9c1a18e6156e6a20.htm",
+        "https://yz.bnu.edu.cn/content/docs/202512/%E6%B8%AF%E6%BE%B3%E5%8F%B0-%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95-%E5%85%AC%E5%B8%83-%E5%8D%9A%E5%A3%AB.pdf",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-su-junyang",
+      "name": "苏君阳",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "College of Education Administration",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "sujunyang@sohu.com",
+      "personal_homepage_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Education Policy",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "education administration",
+        "education policy and law",
+        "higher education management",
+        "education equity",
+        "school governance"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Economics and Management of Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Su Junyang in Education Management, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on an official BNU page."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Su Junyang in Education Management, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile listing educational principles, policy and law, and higher education management."
+        },
+        "academic_title": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98926.html",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-xue-eryong",
+      "name": "薛二勇",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "China Institute of Education Policy",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Education Policy",
+        "Higher Education Studies"
+      ],
+      "keywords": [
+        "education strategy",
+        "education policy",
+        "education law",
+        "education equity",
+        "education poverty alleviation"
+      ],
+      "methodology": "mixed",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Education Policy and Law (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Xue Eryong in Education Strategy and Policy, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+          "checked_date": "2026-07-14",
+          "notes": "No public personal email was verified on the checked official BNU pages."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Xue Eryong in Education Strategy and Policy, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from official BNU profile and Faculty material; an official Faculty lecture explicitly describes combining qualitative and quantitative research."
+        },
+        "academic_title": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98933.html",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://fe.bnu.edu.cn/html/1/news/20210601/n5860.html"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-song-huan",
+      "name": "宋萑",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Teacher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "songhuan@bnu.edu.cn",
+      "personal_homepage_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Teacher Education",
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "teacher education",
+        "teacher professional development",
+        "qualitative research",
+        "action research",
+        "AI and teacher work"
+      ],
+      "methodology": "qualitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Teacher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Song Huan in Teacher Education Curriculum and Instruction, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on an official BNU page."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Song Huan in Teacher Education Curriculum and Instruction, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and methodology derive from official BNU pages identifying teacher education, qualitative research, educational anthropology, lesson study and action research."
+        },
+        "academic_title": {
+          "source_url": "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://tzb.bnu.edu.cn/dptt/6b578a41c29a42a4adb6c0328ad8bf50.htm",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://wkxb.bnu.edu.cn/CN/Y2025/V0/I6/45"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-sang-guoyuan",
+      "name": "桑国元",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Curriculum and Instruction",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "guoyuan.sang@bnu.edu.cn",
+      "personal_homepage_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Teacher Education",
+        "Curriculum & Instruction",
+        "Digital Education"
+      ],
+      "keywords": [
+        "teacher education",
+        "project-based learning",
+        "technology integration",
+        "educational anthropology",
+        "curriculum and instruction"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU Hong Kong, Macao and Taiwan doctoral catalogue lists Sang Guoyuan as a Curriculum and Instruction supervisor; his official profile also identifies him as a doctoral supervisor.",
+      "evidence": {
+        "name": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on an official BNU page."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/docs/202512/%E6%B8%AF%E6%BE%B3%E5%8F%B0-%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95-%E5%85%AC%E5%B8%83-%E5%8D%9A%E5%A3%AB.pdf",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU Hong Kong, Macao and Taiwan doctoral catalogue lists Sang Guoyuan as a Curriculum and Instruction supervisor; his official profile also identifies him as a doctoral supervisor."
+        },
+        "research_fields": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile listing teacher education, technology integration, curriculum and instruction, educational anthropology and PBL."
+        },
+        "academic_title": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://cter.bnu.edu.cn/szdw/jxkyry/73838.htm",
+        "https://yz.bnu.edu.cn/content/docs/202512/%E6%B8%AF%E6%BE%B3%E5%8F%B0-%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95-%E5%85%AC%E5%B8%83-%E5%8D%9A%E5%A3%AB.pdf",
+        "https://fe.bnu.edu.cn/",
+        "https://jsgzb.bnu.edu.cn/jqhd/90a6c812091246ff8dfdcc7ce0844e5c.html"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-pei-miao",
+      "name": "裴淼",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Teacher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Teacher Education",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "teacher ethics",
+        "teacher professional development",
+        "embodied learning",
+        "teacher education policy",
+        "qualitative research"
+      ],
+      "methodology": "qualitative",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Teacher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Pei Miao in Teacher Ethics Learning and Professional Development, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+          "checked_date": "2026-07-14",
+          "notes": "No public personal email was verified on the checked official BNU pages."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Pei Miao in Teacher Ethics Learning and Professional Development, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile and its listed work on teacher ethics learning and teacher education; official BNU material identifies her qualitative research teaching."
+        },
+        "academic_title": {
+          "source_url": "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://cter.bnu.edu.cn/szdw/jxkyry/js/128453.html",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://iso.bnu.edu.cn/uploads/201711/14/HB14487546218869.pdf"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-zhang-chunli",
+      "name": "张春莉",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Curriculum and Instruction",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "97070@bnu.edu.cn",
+      "personal_homepage_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Curriculum & Instruction",
+        "Assessment & Evaluation",
+        "Educational Psychology"
+      ],
+      "keywords": [
+        "mathematics education",
+        "instructional psychology",
+        "educational assessment",
+        "curriculum reform",
+        "textbook implementation"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Curriculum and Instruction (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Zhang Chunli in Mathematics Education, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on an official BNU page."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Zhang Chunli in Mathematics Education, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile listing mathematics education, instructional psychology and evaluation, supplemented by official recent curriculum research."
+        },
+        "academic_title": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98924.html",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://jcjyjc.bnu.edu.cn/docs/2025-12/aca218cf78304233988805ffe834829d.pdf"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-hong-xiumin",
+      "name": "洪秀敏",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Preschool Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Educational Psychology",
+        "Teacher Education",
+        "Education Policy",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "early childhood development",
+        "preschool education policy",
+        "preschool teacher development",
+        "early childhood social development",
+        "kindergarten curriculum"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Preschool Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Hong Xiumin in Child Development and Education, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+          "checked_date": "2026-07-14",
+          "notes": "No public personal email was verified on the checked official BNU pages."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Hong Xiumin in Child Development and Education, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from the official BNU profile listing preschool child development and education, teacher professional development and preschool policy."
+        },
+        "academic_title": {
+          "source_url": "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://rsgyy.bnu.edu.cn/yjjg/jykjzx/jykjzxrcdw/98922.html",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-mainland-china-bnu-zhou-haitao",
+      "name": "周海涛",
+      "university": "Beijing Normal University",
+      "faculty_school": "Faculty of Education",
+      "department": "Institute of Higher Education",
+      "country": "China",
+      "region": "Mainland China",
+      "academic_title": "Professor",
+      "email": "zht@bnu.edu.cn",
+      "personal_homepage_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+      "department_homepage_url": "https://fe.bnu.edu.cn/",
+      "university_tier": "Mainland China",
+      "education_discipline_ranking_level": "Mainland Education A-or-above target group",
+      "research_fields": [
+        "Higher Education Studies",
+        "Education Policy"
+      ],
+      "keywords": [
+        "doctoral education",
+        "higher education governance",
+        "private education",
+        "higher education policy",
+        "graduate education quality"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": "Higher Education (Academic PhD)",
+      "supervision_notes": "The official 2026 BNU doctoral catalogue lists Zhou Haitao in Higher Education Reform and Development, confirming current doctoral recruitment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+          "checked_date": "2026-07-14",
+          "notes": "Name and current BNU academic affiliation verified on the official page."
+        },
+        "email": {
+          "source_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+          "checked_date": "2026-07-14",
+          "notes": "Personal academic email is publicly displayed on an official BNU page."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU profile or official BNU biographical page."
+        },
+        "department_homepage_url": {
+          "source_url": "https://fe.bnu.edu.cn/",
+          "checked_date": "2026-07-14",
+          "notes": "Official BNU Faculty of Education homepage."
+        },
+        "publication": {
+          "source_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+          "checked_date": "2026-07-14",
+          "notes": "No complete, current official aggregate publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+          "checked_date": "2026-07-14",
+          "notes": "The official 2026 BNU doctoral catalogue lists Zhou Haitao in Higher Education Reform and Development, confirming current doctoral recruitment."
+        },
+        "research_fields": {
+          "source_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+          "checked_date": "2026-07-14",
+          "notes": "Controlled fields and keywords derive from official BNU publication and Faculty pages on doctoral education, higher education reform and private education policy."
+        },
+        "academic_title": {
+          "source_url": "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+          "checked_date": "2026-07-14",
+          "notes": "Professor title verified on the official BNU page."
+        }
+      },
+      "source_urls": [
+        "https://wkxb.bnu.edu.cn/CN/Y2024/V0/I2/13",
+        "https://yz.bnu.edu.cn/content/zyml/2026/bsxx_yxsm-004.html",
+        "https://fe.bnu.edu.cn/",
+        "https://hr.bnu.edu.cn/rcgzbgs/zpxx2/bsh2/125643.html"
+      ],
+      "last_updated": "2026-07-14",
+      "verification_status": "verified"
     }
   ]
 }
