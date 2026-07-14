@@ -114,6 +114,13 @@ const translations = {
     supervisorCount: (count) => `${count} verified supervisor${count === 1 ? "" : "s"}`,
     noSupervisorMatch:
       "No verified supervisors match the current filters. Add records through data/template_supervisor.json after source verification.",
+    noSearchMatch: (suggestions) =>
+      `No exact result was found. Try related terms such as ${suggestions}.`,
+    searchMatchedField: (value) => `Matched research field: ${value}`,
+    searchMatchedKeyword: (value) => `Matched keyword: ${value}`,
+    searchMatchedSynonym: (value) => `Matched synonym: ${value}`,
+    searchMatchedDepartment: (value) => `Matched department: ${value}`,
+    searchMatchedProfile: "Matched research profile or supervision evidence",
     relevanceSuffix: "activity",
     tierSuffix: "tier",
     notVerified: "Not verified",
@@ -231,6 +238,12 @@ const translations = {
     source: "来源",
     supervisorCount: (count) => `${count} 位已核验导师`,
     noSupervisorMatch: "当前筛选条件下没有已核验导师。请按 data/template_supervisor.json 核验来源后添加记录。",
+    noSearchMatch: (suggestions) => `未找到精确结果。可尝试相关词：${suggestions}。`,
+    searchMatchedField: (value) => `匹配研究领域：${value}`,
+    searchMatchedKeyword: (value) => `匹配关键词：${value}`,
+    searchMatchedSynonym: (value) => `匹配同义词：${value}`,
+    searchMatchedDepartment: (value) => `匹配院系：${value}`,
+    searchMatchedProfile: "匹配研究简介或导师资格证据",
     relevanceSuffix: "活跃度",
     tierSuffix: "层级",
     notVerified: "未核验",
@@ -266,6 +279,59 @@ const fieldAliases = {
   "Philosophy of Education": ["philosophy", "ethics", "democratic education", "critical pedagogy", "moral education", "epistemology", "教育哲学", "伦理", "民主教育", "批判教育学", "道德教育"]
 };
 
+const searchConceptAliases = {
+  educationLeadership: {
+    label: "educational leadership",
+    triggers: ["教育领导", "educational leadership", "school leadership", "instructional leadership", "leadership in education", "educational administration", "school administration", "school management", "school governance"],
+    aliases: ["educational leadership", "school leadership", "instructional leadership", "leadership in education", "educational administration", "school administration", "school management", "school governance", "school improvement", "school effectiveness"]
+  },
+  schoolImprovement: {
+    label: "school improvement",
+    triggers: ["学校改进", "school improvement", "school development", "school reform", "organizational change in schools", "school effectiveness"],
+    aliases: ["school improvement", "school development", "school reform", "organizational change in schools", "school effectiveness"]
+  },
+  educationPolicy: {
+    label: "education policy",
+    triggers: ["教育政策", "education policy", "educational policy", "policy studies in education", "educational governance"],
+    aliases: ["education policy", "educational policy", "policy studies in education", "educational governance"]
+  },
+  aiEducation: {
+    label: "AI in Education",
+    triggers: ["人工智能教育", "ai教育", "ai 教育", "ai in education", "artificial intelligence in education", "ai-assisted learning", "intelligent tutoring systems", "generative ai in education", "human-ai collaboration in learning"],
+    aliases: ["AI in Education", "artificial intelligence in education", "AI-assisted learning", "intelligent tutoring systems", "generative AI in education", "human-AI collaboration in learning"]
+  },
+  digitalEducation: {
+    label: "digital education",
+    triggers: ["数字教育", "digital education", "educational technology", "technology-enhanced learning", "online learning", "e-learning", "digital learning"],
+    aliases: ["digital education", "educational technology", "technology-enhanced learning", "online learning", "e-learning", "digital learning"]
+  },
+  teacherEducation: {
+    label: "teacher education",
+    triggers: ["教师教育", "teacher education", "teacher professional development", "teacher learning", "pre-service teacher education", "in-service teacher education"],
+    aliases: ["teacher education", "teacher professional development", "teacher learning", "pre-service teacher education", "in-service teacher education"]
+  },
+  educationAssessment: {
+    label: "educational assessment",
+    triggers: ["教育评价", "assessment and evaluation", "educational assessment", "educational evaluation", "formative assessment", "summative assessment", "assessment"],
+    aliases: ["assessment and evaluation", "educational assessment", "educational evaluation", "formative assessment", "summative assessment"]
+  },
+  curriculumInstruction: {
+    label: "curriculum and instruction",
+    triggers: ["课程与教学", "curriculum and instruction", "curriculum studies", "pedagogy", "teaching and learning", "instructional design"],
+    aliases: ["curriculum and instruction", "curriculum studies", "pedagogy", "teaching and learning", "instructional design"]
+  },
+  higherEducation: {
+    label: "higher education",
+    triggers: ["高等教育", "higher education", "university education", "tertiary education", "college teaching", "student engagement in higher education"],
+    aliases: ["higher education", "university education", "tertiary education", "college teaching", "student engagement in higher education"]
+  },
+  educationalPsychology: {
+    label: "educational psychology",
+    triggers: ["教育心理学", "educational psychology", "learning motivation", "cognition and learning", "self-regulated learning", "student wellbeing"],
+    aliases: ["educational psychology", "learning motivation", "cognition and learning", "self-regulated learning", "student wellbeing"]
+  }
+};
+
 const stopWords = new Set([
   "about", "across", "also", "and", "are", "based", "between", "for", "from", "how", "into",
   "learning", "method", "methods", "research", "study", "the", "their", "through", "with",
@@ -279,6 +345,22 @@ const t = (key, ...args) => {
 };
 const normalize = (value) => String(value || "").trim().toLowerCase();
 const asArray = (value) => (Array.isArray(value) ? value : []);
+const normalizeSearchText = (value) =>
+  String(value ?? "")
+    .normalize("NFKC")
+    .toLowerCase()
+    .replace(/[‐‑‒–—―/\\_|]+/g, " ")
+    .replace(/[^\p{L}\p{N}\p{Script=Han}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+const flattenSearchValue = (value) => {
+  if (value == null) return [];
+  if (Array.isArray(value)) return value.flatMap(flattenSearchValue);
+  if (typeof value === "object") return Object.values(value).flatMap(flattenSearchValue);
+  const text = String(value).trim();
+  return text ? [text] : [];
+};
 const escapeHTML = (value) =>
   String(value ?? "").replace(/[&<>"']/g, (character) => ({
     "&": "&amp;",
@@ -391,11 +473,157 @@ const buildSearchableSupervisorText = (supervisor) =>
 
 const searchableSupervisorText = (supervisor) => supervisor._searchableText || buildSearchableSupervisorText(supervisor);
 
+const buildSupervisorSearchEntries = (supervisor) => {
+  const entries = [];
+  const addEntries = (type, weight, values, displayValue) => {
+    flattenSearchValue(values).forEach((value) => {
+      const text = normalizeSearchText(value);
+      if (text) entries.push({ type, weight, text, value: displayValue || value });
+    });
+  };
+
+  asArray(supervisor.research_fields).forEach((fieldName) => {
+    const field = fieldByName(fieldName);
+    addEntries(
+      "field",
+      10,
+      [fieldName, field?.name_zh, field?.description, field?.description_zh, field?.subfields, field?.subfields_zh],
+      fieldName
+    );
+  });
+  addEntries("keyword", 9, supervisor.keywords);
+  addEntries("profile", 8, [
+    supervisor.research_interests,
+    supervisor.research_interest,
+    supervisor.profile_summary,
+    supervisor.research_summary,
+    supervisor.biography,
+    supervisor.bio,
+    supervisor.major_research_projects
+  ]);
+  addEntries("profile", 5, [supervisor.doctoral_program, supervisor.supervision_notes, supervisor.evidence]);
+  addEntries("methodology", 4, supervisor.methodology);
+  addEntries("department", 3, supervisor.department);
+  addEntries("faculty", 2, supervisor.faculty_school);
+  addEntries("title", 2, supervisor.academic_title);
+  addEntries("university", 1, supervisor.university);
+  addEntries("name", 1, supervisor.name);
+  addEntries("context", 1, [supervisor.country, supervisor.region]);
+  return entries;
+};
+
+const getSearchQuery = (rawQuery) => {
+  const normalized = normalizeSearchText(rawQuery);
+  const concepts = Object.values(searchConceptAliases).filter((concept) =>
+    concept.triggers.some((trigger) => normalized.includes(normalizeSearchText(trigger)))
+  );
+  const tokens = normalized.match(/[\p{Script=Han}]+|[a-z0-9]+/gu) || [];
+  return {
+    normalized,
+    concepts,
+    tokens: tokens.filter((token) => token.length > 1 && !["and", "or", "the", "in", "of", "for"].includes(token))
+  };
+};
+
+const reasonForSearchEntry = (entry, value, isSynonym = false) => {
+  if (isSynonym) return { type: "synonym", value };
+  if (entry.type === "field") return { type: "field", value: entry.value };
+  if (entry.type === "keyword") return { type: "keyword", value: entry.value };
+  if (entry.type === "department") return { type: "department", value: entry.value };
+  return { type: "profile", value: entry.value };
+};
+
+const addUniqueSearchReason = (reasons, reason) => {
+  const key = `${reason.type}:${normalizeSearchText(reason.value)}`;
+  if (!reasons.some((item) => `${item.type}:${normalizeSearchText(item.value)}` === key)) reasons.push(reason);
+};
+
+const getSupervisorSearchMatch = (supervisor, rawQuery) => {
+  const query = getSearchQuery(rawQuery);
+  if (!query.normalized) return { matched: true, score: 0, reasons: [], concepts: [] };
+  const entries = supervisor._searchEntries || buildSupervisorSearchEntries(supervisor);
+  const reasons = [];
+  let score = 0;
+  let conceptMatchCount = 0;
+
+  const exactEntry = entries
+    .filter((entry) => entry.text === query.normalized)
+    .sort((a, b) => b.weight - a.weight)[0];
+  if (exactEntry) {
+    score += exactEntry.weight * 1.5 + 6;
+    addUniqueSearchReason(reasons, reasonForSearchEntry(exactEntry, query.normalized));
+  }
+
+  query.concepts.forEach((concept) => {
+    let best = null;
+    concept.aliases.forEach((alias, aliasIndex) => {
+      const normalizedAlias = normalizeSearchText(alias);
+      entries.forEach((entry) => {
+        if (!entry.text.includes(normalizedAlias)) return;
+        const directQueryAlias = query.normalized === normalizedAlias || query.tokens.join(" ") === normalizedAlias;
+        const aliasPriority = (concept.aliases.length - aliasIndex) * 0.2;
+        const candidateScore = entry.weight * (directQueryAlias ? 1.35 : 1.15) + (entry.text === normalizedAlias ? 3 : 0) + aliasPriority;
+        if (!best || candidateScore > best.score) best = { entry, alias, normalizedAlias, score: candidateScore, directQueryAlias };
+      });
+    });
+    if (best) {
+      conceptMatchCount += 1;
+      score += best.score;
+      const isSynonym = !best.directQueryAlias && !query.normalized.includes(best.normalizedAlias);
+      addUniqueSearchReason(reasons, reasonForSearchEntry(best.entry, best.alias, isSynonym));
+    }
+  });
+
+  if (!query.concepts.length) {
+    query.tokens.forEach((token) => {
+      const bestEntry = entries
+        .filter((entry) => entry.text.includes(token))
+        .sort((a, b) => b.weight - a.weight)[0];
+      if (bestEntry) {
+        score += bestEntry.weight * 0.35;
+        addUniqueSearchReason(reasons, reasonForSearchEntry(bestEntry, token));
+      }
+    });
+  }
+
+  if (!exactEntry) {
+    const phraseEntry = entries
+      .filter((entry) => entry.text.includes(query.normalized))
+      .sort((a, b) => b.weight - a.weight)[0];
+    if (phraseEntry) {
+      score += phraseEntry.weight * 0.75;
+      addUniqueSearchReason(reasons, reasonForSearchEntry(phraseEntry, query.normalized));
+    }
+  }
+
+  return {
+    matched: query.concepts.length ? Boolean(exactEntry || conceptMatchCount) : score > 0,
+    score,
+    reasons: reasons.slice(0, 3),
+    concepts: query.concepts
+  };
+};
+
+const formatSearchReason = (reason) => {
+  if (reason.type === "field") return t("searchMatchedField", fieldLabel(reason.value));
+  if (reason.type === "keyword") return t("searchMatchedKeyword", reason.value);
+  if (reason.type === "synonym") return t("searchMatchedSynonym", reason.value);
+  if (reason.type === "department") return t("searchMatchedDepartment", reason.value);
+  return t("searchMatchedProfile");
+};
+
+const getSearchSuggestions = (rawQuery) => {
+  const concepts = getSearchQuery(rawQuery).concepts;
+  const aliases = concepts.flatMap((concept) => concept.aliases).filter((alias) => /^[\x00-\x7F]+$/.test(alias));
+  return [...new Set(aliases)].slice(0, 4).join(", ") || "educational leadership, school leadership, school improvement, education policy";
+};
+
 const prepareSupervisorRecord = (supervisor) => ({
   ...supervisor,
   supervisor_id: getSupervisorId(supervisor),
   _publicationCount: getPublicationCount(supervisor),
-  _searchableText: buildSearchableSupervisorText(supervisor)
+  _searchableText: buildSearchableSupervisorText(supervisor),
+  _searchEntries: buildSupervisorSearchEntries(supervisor)
 });
 
 const prepareSupervisorDataset = (items) => {
@@ -553,7 +781,7 @@ const renderTaxonomy = () => {
 };
 
 const getFilterState = () => ({
-  search: normalize($("#search-input").value),
+  search: $("#search-input").value.trim(),
   university: $("#university-filter").value,
   field: $("#field-filter").value,
   method: $("#method-filter").value,
@@ -564,11 +792,10 @@ const getFilterState = () => ({
   sort: $("#sort-select").value
 });
 
-const supervisorMatchesFilters = (supervisor, filters) => {
-  const haystack = searchableSupervisorText(supervisor);
+const supervisorMatchesFilters = (supervisor, filters, searchMatch) => {
   const title = supervisor.academic_title || "";
   return (
-    (!filters.search || haystack.includes(filters.search)) &&
+    (!filters.search || searchMatch?.matched) &&
     (!filters.university || supervisor.university === filters.university) &&
     (!filters.field || asArray(supervisor.research_fields).includes(filters.field)) &&
     (!filters.method || supervisor.methodology === filters.method) &&
@@ -581,10 +808,14 @@ const supervisorMatchesFilters = (supervisor, filters) => {
 
 const tierRank = (tier) => ({ Global: 4, "Hong Kong": 3, "Mainland China": 2, China: 2, Unknown: 1 }[tier] || 0);
 
-const sortSupervisors = (items, sortMode) => {
+const sortSupervisors = (items, sortMode, searchMatches, hasSearch) => {
   return [...items].sort((a, b) => {
     if (sortMode === "publication_activity") return getPublicationCount(b) - getPublicationCount(a);
     if (sortMode === "university_tier") return tierRank(b.university_tier) - tierRank(a.university_tier);
+    if (hasSearch) {
+      const searchDifference = (searchMatches.get(getSupervisorId(b))?.score || 0) - (searchMatches.get(getSupervisorId(a))?.score || 0);
+      if (searchDifference) return searchDifference;
+    }
     const aScore = state.recommendationScores.get(getSupervisorId(a)) ?? publicationScore(getPublicationCount(a));
     const bScore = state.recommendationScores.get(getSupervisorId(b)) ?? publicationScore(getPublicationCount(b));
     return bScore - aScore;
@@ -598,9 +829,14 @@ const renderLink = (url, label) => {
 
 const renderSupervisors = () => {
   const filters = getFilterState();
+  const searchMatches = new Map(
+    state.supervisors.map((supervisor) => [getSupervisorId(supervisor), getSupervisorSearchMatch(supervisor, filters.search)])
+  );
   const filtered = sortSupervisors(
-    state.supervisors.filter((supervisor) => supervisorMatchesFilters(supervisor, filters)),
-    filters.sort
+    state.supervisors.filter((supervisor) => supervisorMatchesFilters(supervisor, filters, searchMatches.get(getSupervisorId(supervisor)))),
+    filters.sort,
+    searchMatches,
+    Boolean(filters.search)
   );
   const totalPages = Math.max(1, Math.ceil(filtered.length / state.pageSize));
   state.page = Math.min(state.page, totalPages);
@@ -617,6 +853,7 @@ const renderSupervisors = () => {
     visible
       .map((supervisor) => {
         const supervisorId = getSupervisorId(supervisor);
+        const searchMatch = searchMatches.get(supervisorId);
         const score = state.recommendationScores.has(supervisorId)
           ? `${Math.round(state.recommendationScores.get(supervisorId) * 100)}%`
           : `${Math.round(publicationScore(getPublicationCount(supervisor)) * 100)} ${t("relevanceSuffix")}`;
@@ -638,6 +875,7 @@ const renderSupervisors = () => {
               <div class="field-tags">
                 ${asArray(supervisor.research_fields).map((field) => `<span class="tag field">${escapeHTML(fieldLabel(field))}</span>`).join("") || `<span>${escapeHTML(t("notVerified"))}</span>`}
               </div>
+              ${filters.search && searchMatch?.reasons.length ? `<ul class="search-match-reasons">${searchMatch.reasons.map((reason) => `<li>${escapeHTML(formatSearchReason(reason))}</li>`).join("")}</ul>` : ""}
             </td>
             <td>${escapeHTML(methodLabel(supervisor.methodology))}</td>
             <td>
@@ -654,7 +892,7 @@ const renderSupervisors = () => {
         `;
       })
       .join("") ||
-    `<tr><td colspan="5"><p class="empty-note">${escapeHTML(t("noSupervisorMatch"))}</p></td></tr>`;
+    `<tr><td colspan="5"><p class="empty-note">${escapeHTML(filters.search ? t("noSearchMatch", getSearchSuggestions(filters.search)) : t("noSupervisorMatch"))}</p></td></tr>`;
 };
 
 const renderStructuredTags = (tags) => {
