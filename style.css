@@ -591,6 +591,15 @@ td {
   font-weight: 900;
 }
 
+.search-match-reasons {
+  display: grid;
+  gap: 3px;
+  margin: 9px 0 0;
+  padding-left: 16px;
+  color: var(--muted);
+  font-size: 0.72rem;
+}
+
 .recommendation-form,
 .tag-output,
 .recommendation-results {
