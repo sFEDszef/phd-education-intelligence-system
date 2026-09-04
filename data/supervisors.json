@@ -51581,6 +51581,270 @@
       ],
       "last_updated": "2026-07-14",
       "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-eduhk-li-yan-linda",
+      "name": "LI Yan Linda 李燕",
+      "university": "The Education University of Hong Kong",
+      "faculty_school": "Graduate School",
+      "department": "Graduate School",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Lecturer I",
+      "email": "lyan@eduhk.hk",
+      "personal_homepage_url": "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+      "department_homepage_url": "https://gs.eduhk.hk/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences",
+        "Educational Psychology",
+        "Curriculum & Instruction"
+      ],
+      "keywords": [
+        "generative AI in education",
+        "AI chatbots for language learning",
+        "student engagement",
+        "teacher support",
+        "self-determination theory",
+        "task-based language teaching",
+        "human-AI interaction in learning"
+      ],
+      "methodology": "not_verified",
+      "publication_count": 11,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Applying generative artificial intelligence to task-based language teaching and learning: A systematic review and meta-analysis",
+          "year": 2026,
+          "source_url": "https://repository.eduhk.hk/en/publications/applying-generative-artificial-intelligence-to-task-based-languag/",
+          "journal": "TechTrends",
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "How teacher presence affects student engagement with a generative artificial intelligence chatbot in learning designed with first principles of instruction",
+          "year": 2026,
+          "source_url": "https://repository.eduhk.hk/en/publications/how-teacher-presence-affects-student-engagement-with-a-generative/",
+          "journal": "Journal of Research on Technology in Education",
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Using self-determination theory to explain how teacher support enhances student engagement and higher-order thinking in simulation-based learning with GenAI",
+          "year": 2026,
+          "source_url": "https://repository.eduhk.hk/en/publications/using-self-determination-theory-to-explain-how-teacher-support-en/",
+          "journal": "Journal of Educational Computing Research",
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Design language learning with artificial intelligence (AI) chatbots based on activity theory from a systematic review",
+          "year": 2025,
+          "source_url": "https://repository.eduhk.hk/en/publications/design-language-learning-with-artificial-intelligence-ai-chatbots/",
+          "journal": "Smart Learning Environments",
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "The mediating effects of needs satisfaction on the relationship between teacher support and student engagement with generative artificial intelligence (GenAI) chatbots from a self-determination theory (SDT) perspective",
+          "year": 2025,
+          "source_url": "https://repository.eduhk.hk/en/publications/the-mediating-effects-of-needs-satisfaction-on-the-relationship-b/",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [],
+      "phd_supervisor_status": "not_verified",
+      "doctoral_program": null,
+      "supervision_notes": "The current EdUHK Graduate School staff directory identifies LI Yan Linda as MEd Programme Leader. No official source reviewed explicitly confirms PhD, EdD, MPhil, or research-postgraduate supervision, so doctoral supervision is not verified.",
+      "evidence": {
+        "name": {
+          "source_url": "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+          "checked_date": "2026-09-04",
+          "notes": "Official EdUHK repository profile verifies the English and Chinese names and Graduate School affiliation."
+        },
+        "email": {
+          "source_url": "https://gs.eduhk.hk/people/",
+          "checked_date": "2026-09-04",
+          "notes": "The personal EdUHK email is publicly displayed in the current Graduate School people directory."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+          "checked_date": "2026-09-04",
+          "notes": "Official EdUHK Research Repository profile."
+        },
+        "department_homepage_url": {
+          "source_url": "https://gs.eduhk.hk/",
+          "checked_date": "2026-09-04",
+          "notes": "Official EdUHK Graduate School homepage."
+        },
+        "publication": {
+          "source_url": "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+          "checked_date": "2026-09-04",
+          "notes": "The official repository reports 11 research outputs (9 articles and 2 papers). SSCI/CSSCI status was not inferred."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://gs.eduhk.hk/people/",
+          "checked_date": "2026-09-04",
+          "notes": "The official directory confirms MEd programme leadership only; it does not explicitly establish doctoral or research-postgraduate supervision."
+        },
+        "research_fields": {
+          "source_url": "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+          "checked_date": "2026-09-04",
+          "notes": "Controlled fields and precise keywords derive from the official EdUHK repository's current research outputs on GenAI, language learning, student engagement, teacher support, self-determination theory, and task-based pedagogy."
+        },
+        "academic_title": {
+          "source_url": "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+          "checked_date": "2026-09-04",
+          "notes": "Lecturer I title and Graduate School affiliation are displayed on the official repository profile."
+        }
+      },
+      "source_urls": [
+        "https://gs.eduhk.hk/people/",
+        "https://gs.eduhk.hk/people/li-yan-linda/",
+        "https://repository.eduhk.hk/en/persons/yan-linda-li/",
+        "https://repository.eduhk.hk/en/publications/applying-generative-artificial-intelligence-to-task-based-languag/",
+        "https://repository.eduhk.hk/en/publications/how-teacher-presence-affects-student-engagement-with-a-generative/",
+        "https://repository.eduhk.hk/en/publications/using-self-determination-theory-to-explain-how-teacher-support-en/"
+      ],
+      "last_updated": "2026-09-04",
+      "verification_status": "verified"
+    },
+    {
+      "supervisor_id": "sup-hong-kong-hkmu-chu-kai-wah-samuel",
+      "name": "CHU Kai Wah Samuel 朱啟華",
+      "university": "Hong Kong Metropolitan University",
+      "faculty_school": "School of Nursing and Health Sciences",
+      "department": "Department of Health Sciences",
+      "country": "Hong Kong SAR, China",
+      "region": "Hong Kong",
+      "academic_title": "Professor",
+      "email": null,
+      "personal_homepage_url": "https://gs.eduhk.hk/people/chu-kai-wah-samuel/",
+      "department_homepage_url": "https://www.hkmu.edu.hk/nhs/",
+      "university_tier": "Hong Kong",
+      "education_discipline_ranking_level": null,
+      "research_fields": [
+        "AI in Education",
+        "Digital Education",
+        "Learning Sciences",
+        "Curriculum & Instruction",
+        "Assessment & Evaluation"
+      ],
+      "keywords": [
+        "AI literacy",
+        "generative AI for teaching and learning",
+        "information literacy",
+        "knowledge management",
+        "inquiry project-based learning",
+        "collaborative learning",
+        "gamified learning",
+        "social media in education"
+      ],
+      "methodology": "not_verified",
+      "publication_count": null,
+      "recent_publications_last_5_years": [
+        {
+          "title": "Not just fun, but learning: Designing immersive gamification for formal English language Education",
+          "year": 2025,
+          "source_url": "https://repository.eduhk.hk/en/publications/not-just-fun-but-learning-designing-immersive-gamification-for-fo/",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Improving ESL primary school teachers' readiness for using GenAI technologies in English language classrooms: A design thinking approach",
+          "year": 2025,
+          "source_url": "https://repository.eduhk.hk/en/publications/improving-esl-primary-school-teachers-readiness-for-using-genai-t/",
+          "journal": null,
+          "indexing": [
+            "not_verified"
+          ]
+        },
+        {
+          "title": "Fostering secondary school students' AI literacy through making AI-driven recycling bins",
+          "year": 2024,
+          "source_url": "https://repository.eduhk.hk/en/publications/fostering-secondary-school-students-ai-literacy-through-making-ai/",
+          "journal": "Education and Information Technologies",
+          "indexing": [
+            "not_verified"
+          ]
+        }
+      ],
+      "SSCI_publications": null,
+      "CSSCI_publications": null,
+      "major_research_projects": [
+        "Automatic Generation of Scenario-based E-learning Games for Nursing Students: A Novel Approach Using GenAI Agents (HKMU Faculty Development Scheme, 2026-2027)",
+        "Implementing a Design Based Research Approach to Develop a Robust Generative AI Literacy Program for Older Adults (HKMU Faculty Development Scheme, 2024-2026)"
+      ],
+      "phd_supervisor_status": "confirmed",
+      "doctoral_program": null,
+      "supervision_notes": "Official EdUHK Graduate School materials refer to Samuel Chu's doctoral graduates and his guidance of doctoral students, confirming doctoral supervision experience. Current intake availability and a specific current doctoral programme were not publicly confirmed. Current official evidence places his substantive professorial appointment at Hong Kong Metropolitan University; his 2026/27 teaching and postgraduate support activities at EdUHK are retained as secondary affiliation context rather than recorded as a second full-time appointment.",
+      "evidence": {
+        "name": {
+          "source_url": "https://gs.eduhk.hk/people/chu-kai-wah-samuel/",
+          "checked_date": "2026-09-04",
+          "notes": "Official EdUHK person page verifies the name variant CHU, Kai Wah Samuel; an official HKMU publication identifies the Chinese name 朱啟華."
+        },
+        "email": {
+          "source_url": "https://gs.eduhk.hk/people/chu-kai-wah-samuel/",
+          "checked_date": "2026-09-04",
+          "notes": "No current personal academic email was publicly displayed on the official EdUHK and HKMU sources reviewed; no address was inferred from older HKU contact details."
+        },
+        "personal_homepage_url": {
+          "source_url": "https://gs.eduhk.hk/people/chu-kai-wah-samuel/",
+          "checked_date": "2026-09-04",
+          "notes": "Official EdUHK person page. The page currently contains only the name, so appointment details are verified separately."
+        },
+        "department_homepage_url": {
+          "source_url": "https://www.hkmu.edu.hk/nhs/",
+          "checked_date": "2026-09-04",
+          "notes": "Official HKMU School of Nursing and Health Sciences homepage for the current substantive appointment."
+        },
+        "publication": {
+          "source_url": "https://repository.eduhk.hk/en/publications/ai-literacy-definition-teaching-evaluation-and-ethical-issues/",
+          "checked_date": "2026-09-04",
+          "notes": "Selected official EdUHK repository outputs verify the research themes; no complete current publication or indexing count was recorded."
+        },
+        "phd_supervisor_status": {
+          "source_url": "https://gs.eduhk.hk/event/invitation-book-launch-event-thriving-the-phd-journey-8-may/",
+          "checked_date": "2026-09-04",
+          "notes": "Official EdUHK Graduate School materials describe 18 doctoral students and graduates guided by Professor Chu and separately refer to his doctoral graduates; current intake availability remains unverified."
+        },
+        "research_fields": {
+          "source_url": "https://repository.eduhk.hk/en/publications/ai-literacy-definition-teaching-evaluation-and-ethical-issues/",
+          "checked_date": "2026-09-04",
+          "notes": "Controlled fields and keywords derive from official EdUHK research outputs and current HKMU projects on AI literacy, GenAI learning design, inquiry learning, collaborative learning, gamification, and educational assessment."
+        },
+        "academic_title": {
+          "source_url": "https://www.hkmu.edu.hk/nhs/awards-and-recognition/",
+          "checked_date": "2026-09-04",
+          "notes": "Current official HKMU material lists Samuel Chu Kai-wah as Professor in the School of Nursing and Health Sciences; EdUHK's 2025 event page also identifies that substantive appointment."
+        }
+      },
+      "source_urls": [
+        "https://gs.eduhk.hk/people/chu-kai-wah-samuel/",
+        "https://gs.eduhk.hk/event/invitation-book-launch-event-thriving-the-phd-journey-8-may/",
+        "https://gs.eduhk.hk/event-highlight/publication-awards-honour-students-for-their-research-output/",
+        "https://moodle.eduhk.hk/tag/index.php?excl=1&page=2&ta=2&tag=GS&tc=1",
+        "https://www.hkmu.edu.hk/nhs/awards-and-recognition/",
+        "https://scholars.hkmu.edu.hk/en/projects/automatic-generation-of-scenario-based-e-learning-games-for-nursi/",
+        "https://scholars.hkmu.edu.hk/en/projects/implementing-a-design-based-research-approach-to-develop-a-robust/",
+        "https://repository.eduhk.hk/en/publications/ai-literacy-definition-teaching-evaluation-and-ethical-issues/"
+      ],
+      "last_updated": "2026-09-04",
+      "verification_status": "verified"
     }
   ]
 }
