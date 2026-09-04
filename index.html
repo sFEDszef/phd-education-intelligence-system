@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="PhD Education Intelligence System (PEIS), a public static intelligence tool for exploring education research fields, PhD supervisors, and fit recommendations."
+      content="PhD Education Intelligence System (PEIS), a public static intelligence tool for exploring education research fields, potential supervisors, education researchers, and research-alignment recommendations."
     />
     <meta name="author" content="Tequila Sunset" />
     <meta name="creator" content="Tequila Sunset" />
     <meta name="application-name" content="Education PhD Intelligence System" />
     <title>PEIS | PhD Education Intelligence System</title>
-    <link rel="stylesheet" href="style.css?v=peis-6" />
+    <link rel="stylesheet" href="style.css?v=peis-7" />
   </head>
   <body>
     <header class="app-header">
@@ -19,13 +19,13 @@
         <span class="brand-mark">PEIS</span>
         <span>
           <strong data-i18n="brandName">PhD Education Intelligence System</strong>
-          <small data-i18n="brandTagline">Public supervisor-fit intelligence for education applicants</small>
+          <small data-i18n="brandTagline">Public research-alignment intelligence for education applicants</small>
         </span>
       </a>
       <div class="header-actions">
         <nav class="top-nav" aria-label="Primary navigation">
           <a href="#research-map" data-i18n="navFieldMap">Field Map</a>
-          <a href="#supervisors" data-i18n="navSupervisorDatabase">Supervisor Database</a>
+          <a href="#supervisors" data-i18n="navSupervisorDatabase">Supervisor &amp; Researcher Database</a>
           <a href="#recommendation" data-i18n="navRecommendation">AI Recommendation</a>
         </nav>
         <div class="language-switch" aria-label="Language switch">
@@ -40,7 +40,7 @@
         <div>
           <h1 id="overview-title" data-i18n="heroTitle">PhD Education Intelligence System</h1>
           <p data-i18n="heroDescription">
-            PEIS helps applicants explore education research areas, manage verified supervisor records, and generate transparent fit recommendations without any backend, external API, or personal data storage.
+            PEIS helps applicants explore education research areas, review verified academic profiles, and generate transparent research-alignment recommendations without any backend, external API, or personal data storage.
           </p>
         </div>
         <dl class="metrics" aria-label="System summary">
@@ -50,7 +50,7 @@
           </div>
           <div>
             <dt id="supervisor-count">0</dt>
-            <dd data-i18n="metricSupervisors">Verified Supervisors</dd>
+            <dd data-i18n="metricSupervisors">Academic Profiles</dd>
           </div>
           <div>
             <dt>100%</dt>
@@ -76,13 +76,23 @@
         <section class="panel database-panel" id="supervisors" aria-labelledby="database-title">
           <div class="panel-heading">
             <span data-i18n="moduleTwo">Module 2</span>
-            <h2 id="database-title" data-i18n="databaseTitle">Supervisor Database</h2>
-            <p data-i18n="databaseDescription">Search, filter, sort, and page through verified supervisor records stored in JSON.</p>
+            <h2 id="database-title" data-i18n="databaseTitle">Potential PhD Supervisors &amp; Education Researchers</h2>
+            <p data-i18n="databaseDescription">Search, filter, sort, and page through verified profiles of potential supervisors and education-related academics.</p>
           </div>
+
+          <aside class="coverage-notice" aria-labelledby="coverage-notice-title">
+            <h3 id="coverage-notice-title" data-i18n="coverageNoticeTitle">Supervisor Coverage &amp; Admission Status</h3>
+            <p data-i18n="coverageNoticeBodyOne">
+              This database includes potential PhD supervisors and education-related academics to help applicants identify scholars whose research may align with their interests. Inclusion does not necessarily indicate current eligibility to supervise doctoral students or the availability of PhD positions. Supervision eligibility and recruitment availability may vary by academic rank, programme, department, and admission cycle.
+            </p>
+            <p data-i18n="coverageNoticeBodyTwo">
+              Where reliable official information is available, the system indicates supervision and recruitment status. Information that cannot be verified through public official sources is marked as “Not Verified”. Research alignment does not imply doctoral supervision eligibility, and confirmed supervisor status does not necessarily mean that the academic is recruiting students in the current admission cycle. Applicants should verify current information through official university sources, current admission materials, or direct contact with the academic/department before applying.
+            </p>
+          </aside>
 
           <div class="database-controls" aria-label="Supervisor search and filters">
             <label class="search-field">
-              <span data-i18n="searchLabel">Search supervisors</span>
+              <span data-i18n="searchLabel">Search academics</span>
               <input
                 id="search-input"
                 type="search"
@@ -165,7 +175,7 @@
           </div>
 
           <div class="table-summary">
-            <strong id="result-count">0 supervisors</strong>
+            <strong id="result-count">0 academic profiles</strong>
             <button class="text-button" id="reset-filters" type="button" data-i18n="resetFilters">Reset filters</button>
           </div>
 
@@ -173,8 +183,8 @@
             <table>
               <thead>
                 <tr>
-                  <th scope="col" data-i18n="tableSupervisor">Supervisor</th>
-                  <th scope="col" data-i18n="tableResearchFit">Research Fit</th>
+                  <th scope="col" data-i18n="tableSupervisor">Academic</th>
+                  <th scope="col" data-i18n="tableResearchFit">Research Alignment</th>
                   <th scope="col" data-i18n="tableMethod">Method</th>
                   <th scope="col" data-i18n="tableOutputs">Outputs</th>
                   <th scope="col" data-i18n="tableStatus">Status</th>
@@ -205,7 +215,7 @@
           <div class="panel-heading">
             <span data-i18n="moduleThree">Module 3</span>
             <h2 id="recommendation-title" data-i18n="recommendationTitle">AI Recommendation Engine</h2>
-            <p data-i18n="recommendationDescription">Local rule-based scoring converts applicant input into tags and ranks top matches.</p>
+            <p data-i18n="recommendationDescription">Local rule-based scoring converts applicant input into tags and ranks research alignment only.</p>
           </div>
 
           <form id="recommendation-form" class="recommendation-form">
@@ -235,7 +245,7 @@
                 <option value="Hong Kong" data-i18n="regionHongKong">Hong Kong</option>
               </select>
             </label>
-            <button class="primary-button" type="submit" data-i18n="generateMatches">Generate Top 5 Matches</button>
+            <button class="primary-button" type="submit" data-i18n="generateMatches">Generate Top 5 Research Matches</button>
           </form>
 
           <div class="tag-output" aria-live="polite">
@@ -246,7 +256,8 @@
           </div>
 
           <div class="recommendation-results">
-            <h3 data-i18n="topMatches">Top Matches</h3>
+            <h3 data-i18n="topMatches">Top Research Matches</h3>
+            <p class="research-match-note" data-i18n="researchMatchNotice">Research Match measures topic and methodology alignment only. It is not a measure of supervision eligibility, recruitment availability, or admission probability.</p>
             <div id="recommendation-results" class="match-list">
               <p class="empty-note" data-i18n="matchesEmpty">Results will appear after running the local scoring engine.</p>
             </div>
@@ -263,7 +274,7 @@
         </div>
         <div class="project-information-copy">
           <p data-i18n="projectInformationDescription">
-            This independent academic project supports Education PhD applicants through a structured supervisor database, research-field exploration tools and transparent matching functions. Data are compiled from official university sources and are periodically reviewed.
+            This independent academic project supports Education PhD applicants through a structured potential-supervisor and researcher database, research-field exploration tools and transparent research-matching functions. Data are compiled from official university sources and are periodically reviewed.
           </p>
           <p class="creator-line">
             <span data-i18n="creatorLabel">Creator:</span>
@@ -302,10 +313,10 @@
         >龙舌兰日落</a>
       </p>
       <p class="footer-notice" data-i18n="footerNotice">
-        PEIS is a static academic intelligence system. Supervisor records must be verified against official university sources before publication.
+        PEIS is a static academic intelligence system. Academic profiles must be verified against official university sources before publication.
       </p>
     </footer>
 
-    <script src="script.js?v=peis-6"></script>
+    <script src="script.js?v=peis-7"></script>
   </body>
 </html>
